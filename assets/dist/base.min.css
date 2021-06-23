@@ -1,2 +1,2 @@
-@page{margin:2cm}.bg-green{background:green}.page{page-break-inside:avoid}.page:not(:last-child){page-break-after:always}h1,h2,h3,h4,h5{page-break-after:avoid}.grid-container{display:-ms-grid;display:grid}.grid-container{display:-ms-inline-grid;display:inline-grid}
+@page{}.bg-green{background:green}.page{page-break-inside:avoid}.page:not(:last-child){page-break-after:always}h1,h2,h3,h4,h5{page-break-after:avoid}
 /*# sourceMappingURL=base.min.css.map */
