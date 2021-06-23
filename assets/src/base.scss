@@ -17,6 +17,8 @@
   &:not(:last-child){ // If it ISN'T the last .page...
     page-break-after: always; // always break the page after this class
   }
+
+  div.twoColumns { column-count: 2; }
 }
 
 // Don't break pages directly after a title tag

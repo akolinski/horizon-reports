@@ -1,2 +1,2 @@
-@page{}.bg-green{background:green}.page{page-break-inside:avoid}.page:not(:last-child){page-break-after:always}h1,h2,h3,h4,h5{page-break-after:avoid}
+@page{}.bg-green{background:green}.page{page-break-inside:avoid}.page:not(:last-child){page-break-after:always}.page div.twoColumns{-webkit-column-count:2;-moz-column-count:2;column-count:2}h1,h2,h3,h4,h5{page-break-after:avoid}
 /*# sourceMappingURL=base.min.css.map */
