@@ -1,21 +1,14 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="canonical" href="{{ site.url }}{% if page.url %}{{ page.url }}{% endif %} " />
+    <meta charset="UTF-8">
     <title>Horizon reports</title>
-    <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy%7COpen+Sans:300,400,600,700" rel="stylesheet">
-    <link href="{{ site.url }}/assets/dist/base.min.css" rel="stylesheet" media="all">
-<!--    <link href="{{ site.url }}/assets/main.css" rel="stylesheet">-->
-<!--    {% if page.stylesheet != null %}<link href="{{ site.url }}/assets/{{ page.stylesheet }}.css" rel="stylesheet">{% endif %}-->
-    <style>@page { size: A4 }</style>
-<body class="A4">
-<header></header>
-<main class="page-content" aria-label="Content">
-    {{ content }}
-</main>
-<footer></footer>
+    <link href="{{ site.url }}/assets/dist/base.min.css?{{ site.time | date: '%s' }}" rel="stylesheet" media="all">
+<body>
+    <header></header>
+    <main class="page-content" aria-label="Content">
+        {{ content }}
+    </main>
+    <footer></footer>
 </body>
 </html>
