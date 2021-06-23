@@ -18,3 +18,12 @@
 h1, h2, h3, h4, h5 {
   page-break-after: avoid;
 }
+
+// https://www.w3schools.com/css/css_grid.asp
+.grid-container {
+  display: grid;
+}
+
+.grid-container {
+  display: inline-grid;
+}
