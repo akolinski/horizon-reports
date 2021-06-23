@@ -1,9 +1,9 @@
 // https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
 // https://css-tricks.com/snippets/css/complete-guide-grid/
 
-@page {
-  //margin: 2cm;
-}
+//@page {
+//  //margin: 2cm;
+//}
 
 .bg-green {
   background: green;
@@ -11,12 +11,12 @@
 
 // PDF Page layout
 // https://www.w3schools.com/cssref/pr_print_pageba.asp
-.page{
-  page-break-inside: avoid; // Don't break a page inside this class
-  &:not(:last-child){ // If it ISN'T the last .page...
-    page-break-after: always; // always break the page after this class
-  }
-}
+//.page{
+//  page-break-inside: avoid; // Don't break a page inside this class
+//  &:not(:last-child){ // If it ISN'T the last .page...
+//    page-break-after: always; // always break the page after this class
+//  }
+//}
 
 // Don't break pages directly after a title tag
 h1, h2, h3, h4, h5 {
