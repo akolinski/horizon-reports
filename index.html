@@ -2,27 +2,70 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: home
 ---
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1>Let's create a report</h1>
+
+            <h1>Horizon reports</h1>
+            <p class="lead">Welcome to a Jekyll project built on Bootstrap 5.0.2 to generate horizon reports using PDF Reactor.</p>
+            <h2>Step 1 - Clone the repo and setup</h2>
+            <p>First of all you need to clone the repository:</p>
+            <p><code>git clone git@github.com:akolinski/horizon-reports.git</code></p>
+
+            <h2>Step 2 - Setup Postman</h2>
+            <p>Download Postman first: <code>https://www.postman.com/downloads</code></p>
+            <p>Then open up Postman and click on <code>new</code> to create a new request.</p>
+            <p>Enter <code>https://cloud.pdfreactor.com/service/rest/convert.pdf</code> as the request URL and make sure you are sending a POST request.</p>
+            <p>Click on <code>body</code> > <code>raw</code> and paste this code:</p>
+
+            <p><code class="d-block">
+                 {<br>
+                    &nbsp;&nbsp;"document": "https://akolinski.github.io/horizon-reports/reports/example-coaching-report",<br>
+                    &nbsp;&nbsp;"conformance": "PDFUA1",<br>
+                    &nbsp;&nbsp;"addLinks": 1,<br>
+                    &nbsp;&nbsp;"addBookmarks": 1,<br>
+                    &nbsp;&nbsp;"javaScriptMode": "ENABLED_TIME_LAPSE",<br>
+                    &nbsp;&nbsp;"viewercodeferences": [<br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;"FIT_WINDOW",<br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;"PAGE_MODE_USE_THUMBS"<br>
+                    &nbsp;&nbsp;]<br>
+                 }
+            </code></p>
+            <small>* Note if you paste in Postman and get a error please validate the above here: https://jsonlint.com</small>
+
+            <p>Click on <code>Send</code></p>
+            <p>Click on <code>Save Response</code> and then <code>Save to a file</code></p>
+
+            <p>Wooohooo! Your PDF has been created. Open the PDF up on your computer and see what it looks like.</p>
+
+            <h2>Step 3 - How to create a report</h2>
             <ol>
                 <li>Create a new file in the _posts folder</li>
                 <li>You are done, give yourself a pat on the back</li>
             </ol>
 
+            <h2>Step 4 - How to access a report</h2>
             <p>You can access your reports here:</p>
-            <p>dev: http://127.0.0.1:4000/reports/example-report</p>
-            <p>prod: https://akolinski.github.io/reports/example-report</p>
+            <p>DEV:
+                <a href="http://127.0.0.1:4000/reports/example-coaching-report">http://127.0.0.1:4000/reports/example-coaching-report</a>
+            </p>
+            <p>PROD:
+                <a href="https://akolinski.github.io/reports/reports/example-coaching-report">https://akolinski.github.io/reports/example-coaching-report</a>
+            <h3>Reports live in the _posts directory</h3>
+            <p>You’ll find the example report mentioned above in your <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
-            <p>You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.</p>
+            <p>To add new reports, simply add a file in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-DD-name-of-report.html</code> and includes the necessary front matter. Take a look at the source for one of the example reports to get an idea about how it works.</p>
 
-            <p>To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-            https://www.pdfreactor.com/product/doc_html/index.html#DefaultStyleRules
-
+            <h4>References</h4>
+            <ul>
+                <li><a target="_blank" href="https://www.pdfreactor.com/product/doc_html/index.html#DefaultStyleRules">https://www.pdfreactor.com/product/doc_html/index.html#DefaultStyleRules</a></li>
+                <li><a target="_blank" href="https://shopify.github.io/liquid/">https://shopify.github.io/liquid</a></li>
+                <li><a target="_blank" href="https://www.taniarascia.com/make-a-static-website-with-jekyll/">https://www.taniarascia.com/make-a-static-website-with-jekyll</a></li>
+                <li><a target="_blank" href="https://forestry.io/blog/how-i-reduced-my-jekyll-build-time-by-61/">https://forestry.io/blog/how-i-reduced-my-jekyll-build-time-by-61</a></li>
+                <li><a target="_blank" href="https://michaelsoolee.com/undo-gem-based-jekyll-theme/">https://michaelsoolee.com/undo-gem-based-jekyll-theme</a></li>
+            </ul>
         </div>
     </div>
 </div>

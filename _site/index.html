@@ -3,25 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <title>Horizon reports</title>
-    <link href="http://localhost:4000/assets/dist/bootstrap-5.0.2.min.css?1624496240" rel="stylesheet" media="all">
-    <link href="http://localhost:4000/assets/dist/base.min.css?1624496240" rel="stylesheet" media="all">
+    <link href="http://localhost:4000/assets/dist/bootstrap-5.0.2.min.css?1624518071" rel="stylesheet" media="all">
+    <link href="http://localhost:4000/assets/dist/base.min.css?1624518071" rel="stylesheet" media="all">
 <body>
 <div class="container">
     <div class="row">
         <div class="col-12">
+
             <h1>Horizon reports</h1>
             <p class="lead">Welcome to a Jekyll project built on Bootstrap 5.0.2 to generate horizon reports using PDF Reactor.</p>
             <h2>Step 1 - Clone the repo and setup</h2>
             <p>First of all you need to clone the repository:</p>
             <p><code>git clone git@github.com:akolinski/horizon-reports.git</code></p>
 
-            <h2>Step 2 - How to create a report</h2>
+            <h2>Step 2 - Setup Postman</h2>
+            <p>Download Postman first: <code>https://www.postman.com/downloads</code></p>
+            <p>Then open up Postman and click on <code>new</code> to create a new request.</p>
+            <p>Enter <code>https://cloud.pdfreactor.com/service/rest/convert.pdf</code> as the request URL and make sure you are sending a POST request.</p>
+            <p>Click on <code>body</code> > <code>raw</code> and paste this code:</p>
+
+            <p><code class="d-block">
+                 {<br>
+                    &nbsp;&nbsp;"document": "https://akolinski.github.io/horizon-reports/reports/example-coaching-report",<br>
+                    &nbsp;&nbsp;"conformance": "PDFUA1",<br>
+                    &nbsp;&nbsp;"addLinks": 1,<br>
+                    &nbsp;&nbsp;"addBookmarks": 1,<br>
+                    &nbsp;&nbsp;"javaScriptMode": "ENABLED_TIME_LAPSE",<br>
+                    &nbsp;&nbsp;"viewercodeferences": [<br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;"FIT_WINDOW",<br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;"PAGE_MODE_USE_THUMBS"<br>
+                    &nbsp;&nbsp;]<br>
+                 }
+            </code></p>
+            <small>* Note if you paste in Postman and get a error please validate the above here: https://jsonlint.com</small>
+
+            <p>Click on <code>Send</code></p>
+            <p>Click on <code>Save Response</code> and then <code>Save to a file</code></p>
+
+            <p>Wooohooo! Your PDF has been created. Open the PDF up on your computer and see what it looks like.</p>
+
+            <h2>Step 3 - How to create a report</h2>
             <ol>
                 <li>Create a new file in the _posts folder</li>
                 <li>You are done, give yourself a pat on the back</li>
             </ol>
 
-            <h2>Step 3 - How to access a report</h2>
+            <h2>Step 4 - How to access a report</h2>
             <p>You can access your reports here:</p>
             <p>DEV:
                 <a href="http://127.0.0.1:4000/reports/example-coaching-report">http://127.0.0.1:4000/reports/example-coaching-report</a>
@@ -44,5 +71,9 @@
         </div>
     </div>
 </div>
+
+
+
+
 </body>
 </html>

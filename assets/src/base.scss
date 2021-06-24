@@ -1,8 +1,11 @@
 // https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
 
+// https://guide.pressbooks.com/chapter/changing-page-margins-in-pdf-exports/
 @page {
  margin: 0; // 2cm;
 }
+
+// @TODO create a function to turn mm / or whatever INDESIGN uses to %
 
 // PDF Page layout
 // https://www.w3schools.com/cssref/pr_print_pageba.asp
@@ -11,6 +14,9 @@
   &:not(:last-child){ // If it ISN'T the last .page...
     page-break-after: always; // always break the page after this class
   }
+
+  // A page is always 100% of the viewport for dev
+  height: 100vh;
 }
 
 // Don't break pages directly after a title tag
@@ -29,4 +35,28 @@ code {
   padding: .1rem .3rem .2rem;
   border-radius: .2rem;
   background: #ffeff0;
+}
+
+.bg-pastel {
+  background-color: #a9dbda;
+}
+
+// Creating height
+.h-60 {
+  height: 60%;
+}
+
+.h-40 {
+  height: 40%;
+}
+
+.example-home-page-banner {
+  height: 188mm;
+}
+
+$report-blue: #2A5573;
+
+h1 {
+  font-size: 40pt;
+  line-height: 48pt;
 }

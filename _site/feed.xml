@@ -1,13 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-06-24T15:52:04+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example Candidate Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-candidate-report" rel="alternate" type="text/html" title="Example Candidate Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-candidate-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-candidate-report"></content><author><name></name></author></entry><entry><title type="html">Example Coaching Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Example Coaching Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;div class=&quot;page&quot;&gt;
-    &lt;div class=&quot;container-fluid bg-success&quot; style=&quot;height: 60vh;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-06-24T18:43:57+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example Candidate Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-candidate-report" rel="alternate" type="text/html" title="Example Candidate Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-candidate-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-candidate-report"></content><author><name></name></author></entry><entry><title type="html">Example Coaching Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Example Coaching Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;div class=&quot;page&quot;&gt;
+    &lt;div class=&quot;container-fluid bg-pastel example-home-page-banner&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;FULL BLEED&lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container&quot; style=&quot;height: 40vh;&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-12&quot;&gt;
-                &lt;h1&gt;Adult Resilience Scale Coach Report&lt;/h1&gt;
+            &lt;div class=&quot;col-12 pt-3&quot;&gt;
+                &lt;h1&gt;Adult Resilience Scale &lt;br&gt;
+                    Coach Report&lt;/h1&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12 text-right&quot;&gt;
+                text
+                &lt;img class=&quot;&quot; src=&quot;/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; &gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -22,4 +29,4 @@
             Test 2
         &lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">FULL BLEED Adult Resilience Scale Coach Report</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">FULL BLEED Adult Resilience Scale Coach Report text</summary></entry></feed>
