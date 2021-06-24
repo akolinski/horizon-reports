@@ -1,9 +1,8 @@
 // https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
-// https://css-tricks.com/snippets/css/complete-guide-grid/
 
-//@page {
-//  //margin: 2cm;
-//}
+@page {
+ margin: 0; // 2cm;
+}
 
 // PDF Page layout
 // https://www.w3schools.com/cssref/pr_print_pageba.asp
