@@ -1,3 +1,10 @@
-_site
-.sass-cache
 .jekyll-metadata
+.sass-cache
+.DS_Store
+assets/node_modules/
+_site/assets/node_modules/
+_site/assets/src/
+_site/assets/package-lock.json
+_site/assets/package.json
+_site/assets/prepros.config
+_site/assets/yarn.lock

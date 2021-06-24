@@ -24,8 +24,6 @@ url: "https://akolinski.github.io/horizon-reports" # the base hostname & protoco
 twitter_username: akolinski
 github_username:  akolinski
 # Build settings
-markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 permalink: /reports/:title
@@ -43,10 +41,15 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
+  - prepros.config
+  - yarn.lock
+  - .jekyll-metadata
+  - .DS.Store
   - README.md
   - LICENSE
   - /assets/node_modules/
-  - /assets/images/src/
-  - /assets/Gruntfile.js
+  - /assets/src/
   - /assets/package.json
   - /assets/package-lock.json
+  - /assets/prepros.config
+  - /assets/yarn.lock
