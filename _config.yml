@@ -26,6 +26,9 @@ github_username:  akolinski
 # Build settings
 plugins:
   - jekyll-feed
+sass:
+  sass_dir: _sass
+  style: compressed
 permalink: /reports/:title
 incremental: true # Incremental regeneration, speeds up serve time
 # Exclude from processing

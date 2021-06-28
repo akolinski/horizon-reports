@@ -1,0 +1,68 @@
+// https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
+
+// https://guide.pressbooks.com/chapter/changing-page-margins-in-pdf-exports/
+@page {
+ margin: 0;
+}
+
+// PDF Page layout
+// https://www.w3schools.com/cssref/pr_print_pageba.asp
+.page{
+  page-break-inside: avoid; // Don't break a page inside this class
+  &:not(:last-child){ // If it ISN'T the last .page...
+    page-break-after: always; // always break the page after this class
+  }
+
+  // A page is always 100% of the viewport for dev
+  height: 100vh;
+}
+
+// Don't break pages directly after a title tag
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+}
+
+// code block styles
+code {
+  font-size: inherit;
+  font-family: Operator Mono SSm A,Operator Mono SSm B,Source Code Pro,Menlo,Consolas,Monaco,monospace;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding: .1rem .3rem .2rem;
+  border-radius: .2rem;
+  background: #ffeff0;
+}
+
+.bg-pastel {
+  background-color: #a9dbda;
+}
+
+.bg-colourful-tree {
+  background-image: url("/assets/images/colourful-tree.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 95% 0;
+}
+
+
+// Creating height
+.h-60 {
+  height: 60%;
+}
+
+.h-40 {
+  height: 40%;
+}
+
+.example-home-page-banner {
+  height: 188mm;
+}
+
+$report-blue: #2A5573;
+
+h1 {
+  font-size: 40pt;
+  line-height: 48pt;
+}
