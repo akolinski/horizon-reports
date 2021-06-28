@@ -40,7 +40,7 @@ code {
 }
 
 .bg-colourful-tree {
-  background-image: url("/assets/images/colourful-tree.svg");
+  background-image: url("#{$baseurl}/assets/images/colourful-tree.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 95% 0;
