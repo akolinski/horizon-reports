@@ -1,4 +1,4 @@
-<div class="score-progress mx-2">
+<div class="score-progress mx-2 {{include.classes}}">
     <p class="position-relative zero-score">0</p>
     <div class="progress-bar-text d-flex w-100">
         <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very low</p></div>
@@ -16,15 +16,14 @@
     </div>
 
     <div class="progress position-relative w-100">
-        <div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
-        </div>
+        <div class="progress-bar" role="progressbar" style="width: {{include.score}}%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
 
     <p class="position-relative end-score">300</p>
 
     <div class="arrow-position w-100">
-        <div class="up-arrow position-relative">
-            <p>50%<p>
+        <div class="up-arrow position-relative" style="left: {{include.score}}%;">
+            <p>{{include.score}}%<p>
         </div>
     </div>
 

@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-06-29T14:03:06+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example Candidate Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-candidate-report" rel="alternate" type="text/html" title="Example Candidate Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-candidate-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-candidate-report"></content><author><name></name></author></entry><entry><title type="html">Example Coaching Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Example Coaching Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-06-29T15:01:12+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example Candidate Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-candidate-report" rel="alternate" type="text/html" title="Example Candidate Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-candidate-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-candidate-report"></content><author><name></name></author></entry><entry><title type="html">Example Coaching Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Example Coaching Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page&quot;&gt;
     &lt;div class=&quot;container-fluid bg-pastel bg-colourful-tree&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;h2&gt;John Sample&lt;/h2&gt;
-                11.06.2021 https://akolinski.github.io/horizon-reports
+                &lt;h2&gt;John Sample&lt;br&gt;
+                &lt;date class=&quot;fw-light&quot;&gt;11.06.2021&lt;/date&gt;&lt;/h2&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;container-fluid&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-12 pt-3&quot;&gt;
-                &lt;h1&gt;Adult Resilience Scale Coach &lt;br&gt;Report&lt;/h1&gt;
+                &lt;h1&gt;Adult Resilience Scale&lt;br&gt;
+                    &lt;span class=&quot;fw-light&quot;&gt;Coach Report&lt;/span&gt;&lt;/h1&gt;
             &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -102,7 +103,7 @@
                 &lt;h3&gt;Results for John Sample&lt;/h3&gt;
                 &lt;h4&gt;Overview&lt;/h4&gt;
                 &lt;h5&gt;Total Resilience&lt;/h5&gt;
-                &lt;div class=&quot;score-progress mx-2&quot;&gt;
+                &lt;div class=&quot;score-progress mx-2 navy-progress&quot;&gt;
     &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
     &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
         &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -120,22 +121,21 @@
     &lt;/div&gt;
 
     &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-        &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 50%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;
-        &lt;/div&gt;
+        &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 50%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
 
     &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
 
     &lt;div class=&quot;arrow-position w-100&quot;&gt;
-        &lt;div class=&quot;up-arrow position-relative&quot;&gt;
+        &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 50%;&quot;&gt;
             &lt;p&gt;50%&lt;p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
 &lt;/div&gt;
 
-                
-                &lt;div class=&quot;score-progress mx-2&quot;&gt;
+
+                &lt;div class=&quot;score-progress mx-2 &quot;&gt;
     &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
     &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
         &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -153,15 +153,14 @@
     &lt;/div&gt;
 
     &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-        &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 50%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;
-        &lt;/div&gt;
+        &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: %;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
 
     &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
 
     &lt;div class=&quot;arrow-position w-100&quot;&gt;
-        &lt;div class=&quot;up-arrow position-relative&quot;&gt;
-            &lt;p&gt;50%&lt;p&gt;
+        &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: %;&quot;&gt;
+            &lt;p&gt;%&lt;p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 
@@ -293,4 +292,4 @@
 &lt;/div&gt;
 
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 https://akolinski.github.io/horizon-reports Adult Resilience Scale Coach Report</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Coach Report</summary></entry></feed>

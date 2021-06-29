@@ -1,5 +1,11 @@
-// https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
+$purple: #65539c;
+$fushia: #e24a67;
+$orange: #dc623e;
+$yellow: #efae4e;
+$green: #4e9383;
+$navy: #355570;
 
+// https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
 // https://guide.pressbooks.com/chapter/changing-page-margins-in-pdf-exports/
 @page {
  margin: 0;
@@ -17,9 +23,13 @@
   height: 100vh;
 }
 
-// Don't break pages directly after a title tag
-h1, h2, h3, h4, h5 {
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+  // Don't break pages directly after a title tag
   page-break-after: avoid;
+  // Other styles
+  color: $navy;
+  font-weight: $font-weight-bold;
 }
 
 // code block styles
@@ -126,5 +136,16 @@ h1 {
     width: 93px;
     height: 93px;
     margin: 0;
+  }
+}
+
+// Styles for the different progress bar styles
+.navy-progress {
+  .progress-bar {
+    background: $navy;
+  }
+
+  .up-arrow {
+    border-color: transparent transparent $navy transparent;
   }
 }

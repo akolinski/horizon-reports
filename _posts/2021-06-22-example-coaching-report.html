@@ -12,15 +12,16 @@ name:   "John Sample"
     <div class="container-fluid bg-pastel bg-colourful-tree">
         <div class="row">
             <div class="col-12">
-                <h2>John Sample</h2>
-                11.06.2021 {{ site.url }}
+                <h2>John Sample<br>
+                <date class="fw-light">11.06.2021</date></h2>
             </div>
         </div>
     </div>
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 pt-3">
-                <h1>Adult Resilience Scale Coach <br>Report</h1>
+                <h1>Adult Resilience Scale<br>
+                    <span class="fw-light">Coach Report</span></h1>
             </div>
         </div>
         <div class="row">
@@ -91,8 +92,8 @@ name:   "John Sample"
                 <h3>Results for John Sample</h3>
                 <h4>Overview</h4>
                 <h5>Total Resilience</h5>
-                {% include result-bar.html %}
-                
+                {% include result-bar.html classes="navy-progress" score="50" max_score="100" color="red" %}
+
                 {% include result-bar.html %}
 
 
