@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-06-28T12:14:10+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example Candidate Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-candidate-report" rel="alternate" type="text/html" title="Example Candidate Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-candidate-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-candidate-report"></content><author><name></name></author></entry><entry><title type="html">Example Coaching Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Example Coaching Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;!-- First page --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-06-29T12:42:28+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example Candidate Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-candidate-report" rel="alternate" type="text/html" title="Example Candidate Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-candidate-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-candidate-report"></content><author><name></name></author></entry><entry><title type="html">Example Coaching Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Example Coaching Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;!-- First page --&gt;
 &lt;div class=&quot;page&quot;&gt;
     &lt;div class=&quot;container-fluid bg-pastel bg-colourful-tree&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -23,12 +23,9 @@
 &lt;/div&gt;
 
 &lt;!-- Second page --&gt;
-&lt;div class=&quot;page d-flex flex-column&quot;&gt;
+&lt;div class=&quot;page&quot;&gt;
     &lt;div class=&quot;container-fluid d-flex flex-column h-100&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;&lt;p&gt;John Sample&lt;/p&gt;&lt;date&gt;{{ page.date }}&lt;/date&gt;&lt;/div&gt;
-            &lt;div class=&quot;col-7 bg-pastel&quot;&gt;&lt;p&gt;{{ page.title }}&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
+        {% include example-page-header.html %}
         &lt;div class=&quot;row flex-fill py-3&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
                 &lt;h2&gt;Definition of Resilience&lt;/h2&gt;
@@ -45,15 +42,96 @@
                 &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
                 &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
                 &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
-                &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
-                &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
-                &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
-                &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;row d-flex align-items-end&quot;&gt;
-            &lt;div class=&quot;col-5 bg-pastel&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/div&gt;
-            &lt;div class=&quot;col-7&quot;&gt;&lt;/div&gt;
+        {% include example-page-footer.html %}
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Third page --&gt;
+&lt;div class=&quot;page&quot;&gt;
+    &lt;div class=&quot;container-fluid d-flex flex-column h-100&quot;&gt;
+        {% include example-page-header.html %}
+        &lt;div class=&quot;row flex-fill pt-3 pb-0&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7&quot;&gt;
+                &lt;h3&gt;Model of Resilience&lt;/h3&gt;
+                &lt;p&gt;The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:&lt;/p&gt;
+                &lt;h4&gt;Threat Perception&lt;/h4&gt;
+                &lt;p&gt;Awareness of potential or actual threat and ability to formulate a plan.&lt;/p&gt;
+                &lt;h4&gt;Adjustment&lt;/h4&gt;
+                &lt;p&gt;Ability to adjust when unexpected events cause disruption.&lt;/p&gt;
+                &lt;h4&gt;Decision Making&lt;/h4&gt;
+                &lt;p&gt;Ability to make clear decisions during stressful situations.&lt;/p&gt;
+                &lt;h4&gt;Coping&lt;/h4&gt;
+                &lt;p&gt;Capacity to deal with stressful events and ability to return to normal routine.&lt;/p&gt;
+                &lt;h4&gt;Recovery&lt;/h4&gt;
+                &lt;p&gt;Speed of returning to normal activity after challenging situations.&lt;/p&gt;
+            &lt;/div&gt;
         &lt;/div&gt;
+        &lt;div class=&quot;row flex-fill pt-0 pb-3&quot;&gt;
+            &lt;div class=&quot;col-12 text-center&quot;&gt;
+                &lt;img class=&quot;img-fluid&quot; width=&quot;660px&quot; src=&quot;{{ site.url }}/assets/images/Adult Resilience_artwork_Figure.svg&quot; alt=&quot;&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        {% include example-page-footer.html %}
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Forth page --&gt;
+&lt;div class=&quot;page&quot;&gt;
+    &lt;div class=&quot;container-fluid d-flex flex-column h-100&quot;&gt;
+        {% include example-page-header.html %}
+        &lt;div class=&quot;row flex-fill py-3&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7&quot;&gt;
+                &lt;h3&gt;Results for John Sample&lt;/h3&gt;
+                &lt;h4&gt;Overview&lt;/h4&gt;
+                &lt;h5&gt;Total Resilience&lt;/h5&gt;
+
+                &lt;br&gt;
+                &lt;br&gt;
+                &lt;br&gt;
+                &lt;br&gt;
+                &lt;br&gt;
+
+                &lt;div class=&quot;score-progress mx-2&quot;&gt;
+                    &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+                    &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+                        &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
+                        &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
+                        &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
+                        &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
+                        &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;progress-bar-lines d-flex w-100&quot;&gt;
+                        &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+                        &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+                        &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+                        &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+                        &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class=&quot;progress position-relative w-100&quot;&gt;
+                        &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 25%;&quot; aria-valuenow=&quot;25&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;
+                            &lt;div class=&quot;up&quot;&gt;
+                                &lt;p&gt;25%&lt;p&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
+                &lt;/div&gt;
+
+
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;row flex-fill py-3&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;TEST&lt;/div&gt;
+        &lt;/div&gt;
+        {% include example-page-footer.html %}
     &lt;/div&gt;
 &lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 https://akolinski.github.io/horizon-reports Adult Resilience Scale Coach Report</summary></entry></feed>
