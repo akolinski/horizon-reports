@@ -5,8 +5,6 @@ date:   2021-06-21 06:00:00 +1000
 name:   "John Sample"
 ---
 
-
-
 <!-- Page 1 -->
 <div class="page">
     <div class="container-fluid bg-pastel bg-colourful-tree">
@@ -38,7 +36,7 @@ name:   "John Sample"
         {% include example-page-header.html %}
         <div class="row flex-fill py-3">
             <div class="col-5">
-                <h2>Definition of Resilience</h2>
+                <h2>Definition of<br> Resilience</h2>
             </div>
             <div class="col-7">
                 <p>Many people have encountered an adverse experience at some point in their lives. Yet, some bounce back quickly while others endure the negativity for a longer period. A distinguishing factor between these people is their level of resilience.</p>
@@ -62,15 +60,15 @@ name:   "John Sample"
             <div class="col-7">
                 <h3>Model of Resilience</h3>
                 <p>The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:</p>
-                <h4>Threat Perception</h4>
+                <h6>Threat Perception</h6>
                 <p>Awareness of potential or actual threat and ability to formulate a plan.</p>
-                <h4>Adjustment</h4>
+                <h6>Adjustment</h6>
                 <p>Ability to adjust when unexpected events cause disruption.</p>
-                <h4>Decision Making</h4>
+                <h6>Decision Making</h6>
                 <p>Ability to make clear decisions during stressful situations.</p>
-                <h4>Coping</h4>
+                <h6>Coping</h6>
                 <p>Capacity to deal with stressful events and ability to return to normal routine.</p>
-                <h4>Recovery</h4>
+                <h6>Recovery</h6>
                 <p>Speed of returning to normal activity after challenging situations.</p>
             </div>
             <div class="col-12 text-center">
@@ -90,13 +88,11 @@ name:   "John Sample"
             </div>
             <div class="col-7">
                 <h3>Results for John Sample</h3>
-                <h4>Overview</h4>
-                <h5>Total Resilience</h5>
-                {% include result-bar.html classes="navy-progress" score="50" max_score="100" color="red" %}
+                <h4 class="fw-400 text-dark">Overview</h4>
+
+                {% include result-bar.html title="Total Resilience" classes="navy-progress" score="50" max_score="100" color="red" %}
 
                 {% include result-bar.html %}
-
-
 
 
             </div>
@@ -113,26 +109,24 @@ name:   "John Sample"
             <div class="col-5">
             </div>
             <div class="col-7">
-                <h2>Dimensions and Intervals</h2>
-                <p>Total Resilience: 382</p>
+                <h2 class="h4 text-dark">Dimensions and Intervals</h2>
+                <h3 class="h5 fw-normal">Total Resilience: 382</h3>
                 <ul>
                     <li>Ability to adapt.</li>
                     <li>Time needed to bounce back from adversity.</li>
                     <li>Capacity to cope with stress.</li>
                 </ul>
-
-                Very High Range: 365–450
-                This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.
-                High Range: 331–364
-                Individuals with this level of resilience will be able to succeed when faced with significant challenges and serious problems, and have a high capacity to cope with stress.
-                Average Range: 262–330
-                Individuals with this level of resilience have a reasonable capacity to respond to difficult circumstances, to adapt to change and to cope in stressful situations.
-                Low Range: 228–261
-                Individuals with this level of resilience are likely to find it difficult to succeed
-                when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.
-                Very Low Range: 0–227
-                Individuals with this level of resilience may frequently find it difficult to progress and to improve their situation when faced with significant challenges. Individuals may be uncomfortable dealing with problems or stress.
-
+                <h6>Very High Range: 365–450</h6>
+                <p>This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.</p>
+                <h6>High Range: 331–364</h6>
+                <p>Individuals with this level of resilience will be able to succeed when faced with significant challenges and serious problems, and have a high capacity to cope with stress.</p>
+                <h6>Average Range: 262–330</h6>
+                <p>Individuals with this level of resilience have a reasonable capacity to respond to difficult circumstances, to adapt to change and to cope in stressful situations.</p>
+                <h6>Low Range: 228–261</h6>
+                <p>Individuals with this level of resilience are likely to find it difficult to succeed
+                    when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.</p>
+                <h6>Very Low Range: 0–227</h6>
+                <p>Individuals with this level of resilience may frequently find it difficult to progress and to improve their situation when faced with significant challenges. Individuals may be uncomfortable dealing with problems or stress.</p>
             </div>
         </div>
         {% include example-page-footer.html %}
@@ -153,18 +147,16 @@ name:   "John Sample"
                     <li>Awareness of potential or actual threat</li>
                     <li>Ability to formulate a plan to continue</li>
                 </ul>
-
-                Very High Range: 72–90
-                Individuals with this level of threat perception are very perceptive and acutely aware of their surrounding situation, especially recognising potential or actual problems or threats, and will very quickly formulate a recovery plan.
-                High Range: 65–71
-                Individuals with this level of threat perception are more aware of the surrounding environment than others. They will notice problems before they arise and will quickly plan a way forward.
-                Average Range: 50–64
-                Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.
-                Low Range: 43–49
-                Individuals with this level of threat perception may be less aware of the surrounding environment. Individuals may only notice problems after they arise.
-                Very Low Range: 0–42
-                Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.
-
+                <h6>Very High Range: 72–90</h6>
+                <p>Individuals with this level of threat perception are very perceptive and acutely aware of their surrounding situation, especially recognising potential or actual problems or threats, and will very quickly formulate a recovery plan.</p>
+                <h6>High Range: 65–71</h6>
+                <p>Individuals with this level of threat perception are more aware of the surrounding environment than others. They will notice problems before they arise and will quickly plan a way forward.</p>
+                <h6>Average Range: 50–64</h6>
+                <p>Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.</p>
+                <h6>Low Range: 43–49</h6>
+                <p>Individuals with this level of threat perception may be less aware of the surrounding environment. Individuals may only notice problems after they arise.</p>
+                <h6>Very Low Range: 0–42</h6>
+                <p>Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.</p>
             </div>
         </div>
         {% include example-page-footer.html %}
@@ -188,7 +180,7 @@ name:   "John Sample"
                 </div>
             </div>
             <div class="col-12 text-center mt-2">
-                <img class="img-fluid" width="700px" src="{{ site.url }}/assets/images/Adult Resilience_artwork_Bell curve.svg" alt="" />
+                <img class="img-fluid mx-auto" width="700px" src="{{ site.url }}/assets/images/Adult Resilience_artwork_Bell curve.svg" alt="" />
             </div>
         </div>
         {% include example-page-footer.html %}
