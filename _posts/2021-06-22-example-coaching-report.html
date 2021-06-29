@@ -7,7 +7,7 @@ name:   "John Sample"
 
 
 
-<!-- First page -->
+<!-- Page 1 -->
 <div class="page">
     <div class="container-fluid bg-pastel bg-colourful-tree">
         <div class="row">
@@ -31,7 +31,7 @@ name:   "John Sample"
     </div>
 </div>
 
-<!-- Second page -->
+<!-- Page 2 -->
 <div class="page">
     <div class="container-fluid d-flex flex-column h-100">
         {% include example-page-header.html %}
@@ -51,7 +51,7 @@ name:   "John Sample"
     </div>
 </div>
 
-<!-- Third page -->
+<!-- Page 3 -->
 <div class="page">
     <div class="container-fluid d-flex flex-column h-100">
         {% include example-page-header.html %}
@@ -80,51 +80,21 @@ name:   "John Sample"
     </div>
 </div>
 
-<!-- Forth page -->
+<!-- Page 4 -->
 <div class="page">
     <div class="container-fluid d-flex flex-column h-100">
         {% include example-page-header.html %}
-        <div class="row flex-fill py-3">
+        <div class="row py-3">
             <div class="col-5">
             </div>
             <div class="col-7">
                 <h3>Results for John Sample</h3>
                 <h4>Overview</h4>
                 <h5>Total Resilience</h5>
+                {% include result-bar.html %}
+                
+                {% include result-bar.html %}
 
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-
-                <div class="score-progress mx-2">
-                    <p class="position-relative zero-score">0</p>
-                    <div class="progress-bar-text d-flex w-100">
-                        <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very low</p></div>
-                        <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Low</p></div>
-                        <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Average</p></div>
-                        <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">High</p></div>
-                        <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very High</p></div>
-                    </div>
-                    <div class="progress-bar-lines d-flex w-100">
-                        <div class="line d-inline-flex flex-fill"></div>
-                        <div class="line d-inline-flex flex-fill"></div>
-                        <div class="line d-inline-flex flex-fill"></div>
-                        <div class="line d-inline-flex flex-fill"></div>
-                        <div class="line d-inline-flex flex-fill"></div>
-                    </div>
-
-                    <div class="progress position-relative w-100">
-                        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                            <div class="up">
-                                <p>25%<p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <p class="position-relative end-score">300</p>
-                </div>
 
 
 
@@ -134,7 +104,7 @@ name:   "John Sample"
     </div>
 </div>
 
-<!-- Fifth page -->
+<!-- Page 5 -->
 <div class="page">
     <div class="container-fluid d-flex flex-column h-100">
         {% include example-page-header.html %}
@@ -168,7 +138,7 @@ name:   "John Sample"
     </div>
 </div>
 
-<!-- Sixth page -->
+<!-- Page 6 -->
 <div class="page">
     <div class="container-fluid d-flex flex-column h-100">
         {% include example-page-header.html %}
@@ -217,7 +187,7 @@ name:   "John Sample"
                 </div>
             </div>
             <div class="col-12 text-center mt-2">
-                <img class="img-fluid" width="800px" src="{{ site.url }}/assets/images/Adult Resilience_artwork_Bell curve.svg" alt="" />
+                <img class="img-fluid" width="700px" src="{{ site.url }}/assets/images/Adult Resilience_artwork_Bell curve.svg" alt="" />
             </div>
         </div>
         {% include example-page-footer.html %}
