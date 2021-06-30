@@ -47,6 +47,9 @@ $navy: #355570;
 
   // A page is always 100% of the viewport for dev
   height: 100vh;
+  // Flex properties to deal with header and footer for each page nicely
+  display: flex;
+  flex-direction: column;
 
   h6, .h6 {
     color: #000;
@@ -172,8 +175,8 @@ h1 {
 }
 
 .page-footer {
-  position: fixed;
-  bottom: 0;
+  //position: fixed;
+  //bottom: 0;
 }
 
 .ph-heading {

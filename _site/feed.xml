@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-06-30T15:45:28+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example Candidate Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-candidate-report" rel="alternate" type="text/html" title="Example Candidate Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-candidate-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-candidate-report"></content><author><name></name></author></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-06-30T15:52:53+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example Candidate Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-candidate-report" rel="alternate" type="text/html" title="Example Candidate Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-candidate-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-candidate-report"></content><author><name></name></author></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page&quot;&gt;
     &lt;div class=&quot;container-fluid bg-pastel bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -39,8 +39,8 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-    &lt;div class=&quot;container-fluid d-flex flex-column&quot;&gt;
-        &lt;div class=&quot;row flex-fill py-3&quot;&gt;
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row py-3&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
                 &lt;h2&gt;Definition of&lt;br&gt; Resilience&lt;/h2&gt;
             &lt;/div&gt;
@@ -53,7 +53,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container-fluid page-footer&quot;&gt;
+    &lt;div class=&quot;container-fluid&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
             &lt;p class=&quot;h6 fw-light w-100 ms-3 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
@@ -79,7 +79,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-    &lt;div class=&quot;container-fluid d-flex flex-column&quot;&gt;
+    &lt;div class=&quot;container-fluid&quot;&gt;
         &lt;div class=&quot;row flex-fill py-3&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
@@ -102,7 +102,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container-fluid page-footer&quot;&gt;
+    &lt;div class=&quot;container-fluid&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
             &lt;p class=&quot;h6 fw-light w-100 ms-3 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
@@ -205,7 +205,7 @@
 
 &lt;!--            &lt;/div&gt;--&gt;
 &lt;!--        &lt;/div&gt;--&gt;
-&lt;!--        &lt;div class=&quot;container-fluid page-footer&quot;&gt;
+&lt;!--        &lt;div class=&quot;container-fluid&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
             &lt;p class=&quot;h6 fw-light w-100 ms-3 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
@@ -257,7 +257,7 @@
 &lt;!--                &lt;p&gt;Individuals with this level of resilience may frequently find it difficult to progress and to improve their situation when faced with significant challenges. Individuals may be uncomfortable dealing with problems or stress.&lt;/p&gt;--&gt;
 &lt;!--            &lt;/div&gt;--&gt;
 &lt;!--        &lt;/div&gt;--&gt;
-&lt;!--        &lt;div class=&quot;container-fluid page-footer&quot;&gt;
+&lt;!--        &lt;div class=&quot;container-fluid&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
             &lt;p class=&quot;h6 fw-light w-100 ms-3 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
@@ -307,7 +307,7 @@
 &lt;!--                &lt;p&gt;Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.&lt;/p&gt;--&gt;
 &lt;!--            &lt;/div&gt;--&gt;
 &lt;!--        &lt;/div&gt;--&gt;
-&lt;!--        &lt;div class=&quot;container-fluid page-footer&quot;&gt;
+&lt;!--        &lt;div class=&quot;container-fluid&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
             &lt;p class=&quot;h6 fw-light w-100 ms-3 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
@@ -351,7 +351,7 @@
 &lt;!--                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;700px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/Adult Resilience_artwork_Bell curve.svg&quot; alt=&quot;&quot; /&gt;--&gt;
 &lt;!--            &lt;/div&gt;--&gt;
 &lt;!--        &lt;/div&gt;--&gt;
-&lt;!--        &lt;div class=&quot;container-fluid page-footer&quot;&gt;
+&lt;!--        &lt;div class=&quot;container-fluid&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
             &lt;p class=&quot;h6 fw-light w-100 ms-3 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
