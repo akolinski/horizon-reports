@@ -224,7 +224,7 @@
 //$enable-button-pointers:      true !default;
 //$enable-rfs:                  true !default;
 //$enable-validation-icons:     true !default;
-//$enable-negative-margins:     false !default;
+$enable-negative-margins:     true !default;
 //$enable-deprecation-messages: true !default;
 //$enable-important-utilities:  true !default;
 //
@@ -247,33 +247,58 @@
 // You can add more entries to the $spacers map, should you need more variation.
 
 // scss-docs-start spacer-variables-maps
-$spacer: 3.7795275591px !default; // = 1mm
+//$spacer: 2px !default;
+//$spacers: (
+//    0: 0,
+//    1: $spacer * 5,
+//    2: $spacer * 10,
+//    3: $spacer * 15,
+//    4: $spacer * 20,
+//    5: $spacer * 25,
+//    6: $spacer * 30,
+//    7: $spacer * 35,
+//    8: $spacer * 40,
+//    9: $spacer * 45,
+//    10: $spacer * 50,
+//    11: $spacer * 55,
+//    12: $spacer * 60,
+//    13: $spacer * 65,
+//    14: $spacer * 70,
+//    15: $spacer * 75,
+//    16: $spacer * 80,
+//    17: $spacer * 85,
+//    18: $spacer * 90,
+//    19: $spacer * 95,
+//    20: $spacer * 100
+//) !default;
+
+$spacer: 1rem !default;
 $spacers: (
     0: 0,
-    1: $spacer * 5,
-    2: $spacer * 10,
-    3: $spacer * 15,
-    4: $spacer * 20,
-    5: $spacer * 25,
-    6: $spacer * 30,
-    7: $spacer * 35,
-    8: $spacer * 40,
-    9: $spacer * 45,
-    10: $spacer * 50,
-    11: $spacer * 55,
-    12: $spacer * 60,
-    13: $spacer * 65,
-    14: $spacer * 70,
-    15: $spacer * 75,
-    16: $spacer * 80,
-    17: $spacer * 85,
-    18: $spacer * 90,
-    19: $spacer * 95,
-    20: $spacer * 100
+    1: $spacer * .25,
+    2: $spacer * .5,
+    3: $spacer,
+    4: $spacer * 1.5,
+    5: $spacer * 3,
+    7: $spacer * 3.5,
+    8: $spacer * 4,
+    9: $spacer * 4.5,
+    10: $spacer * 5,
+    11: $spacer * 5.5,
+    12: $spacer * 6,
+    13: $spacer * 6.5,
+    14: $spacer * 7,
+    15: $spacer * 7.5,
+    16: $spacer * 8,
+    17: $spacer * 8.5,
+    18: $spacer * 9,
+    19: $spacer * 9.5,
+  //    20: $spacer * 100
 ) !default;
 
 //$negative-spacers: if($enable-negative-margins, negativify-map($spacers), null) !default;
-//// scss-docs-end spacer-variables-maps
+
+// scss-docs-end spacer-variables-maps
 //
 //// Position
 ////
