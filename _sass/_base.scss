@@ -1,3 +1,11 @@
+// How to reference images in scss with jekyll: background-image: url("#{$baseurl}/assets/images/colourful-tree.svg");
+
+// https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
+// https://guide.pressbooks.com/chapter/changing-page-margins-in-pdf-exports/
+@page {
+ margin: 0;
+}
+
 $purple: #65539c;
 $fuchsia: #e24a67;
 $orange: #dc623e;
@@ -27,12 +35,6 @@ $navy: #355570;
 
 .text-navy {
   color: $navy;
-}
-
-// https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
-// https://guide.pressbooks.com/chapter/changing-page-margins-in-pdf-exports/
-@page {
- margin: 0;
 }
 
 // PDF Page layout
@@ -79,11 +81,12 @@ code {
 }
 
 .bg-colourful-tree {
-  background-image: url("#{$baseurl}/assets/images/colourful-tree.svg");
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: 95% 0;
   height: 188mm;
+}
+
+.colourful-tree-img {
+  bottom: 0;
+  right: 0.75rem;
 }
 
 // Creating height
