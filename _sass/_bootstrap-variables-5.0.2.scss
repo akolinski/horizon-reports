@@ -224,7 +224,7 @@
 //$enable-button-pointers:      true !default;
 //$enable-rfs:                  true !default;
 //$enable-validation-icons:     true !default;
-$enable-negative-margins:     true !default;
+//$enable-negative-margins:     true !default;
 //$enable-deprecation-messages: true !default;
 //$enable-important-utilities:  true !default;
 //
@@ -280,20 +280,20 @@ $spacers: (
     3: $spacer,
     4: $spacer * 1.5,
     5: $spacer * 3,
-    7: $spacer * 3.5,
-    8: $spacer * 4,
-    9: $spacer * 4.5,
-    10: $spacer * 5,
-    11: $spacer * 5.5,
-    12: $spacer * 6,
-    13: $spacer * 6.5,
-    14: $spacer * 7,
-    15: $spacer * 7.5,
-    16: $spacer * 8,
-    17: $spacer * 8.5,
-    18: $spacer * 9,
-    19: $spacer * 9.5,
-  //    20: $spacer * 100
+    6: $spacer * 3.5,
+    7: $spacer * 4,
+    8: $spacer * 4.5,
+    9: $spacer * 5,
+    10: $spacer * 5.5,
+    11: $spacer * 6,
+    12: $spacer * 6.5,
+    13: $spacer * 7,
+    14: $spacer * 7.5,
+    15: $spacer * 8,
+    16: $spacer * 8.5,
+    17: $spacer * 9,
+    18: $spacer * 9.5,
+    20: $spacer * 10
 ) !default;
 
 //$negative-spacers: if($enable-negative-margins, negativify-map($spacers), null) !default;
@@ -383,7 +383,7 @@ $spacers: (
 // Set the number of columns and specify the width of the gutters.
 
 $grid-columns:                12 !default;
-$grid-gutter-width:           1.5rem !default;
+$grid-gutter-width:           0rem !default;
 $grid-row-columns:            6 !default;
 
 $gutters: $spacers !default;
