@@ -82,27 +82,26 @@ name:   "John Sample"
     {% include example-page-footer.html  page_number="2" %}
 </div>
 
-<!--&lt;!&ndash; Page 4 &ndash;&gt;-->
-<!--<div class="page">-->
-<!--    <div class="container-fluid d-flex flex-column h-100">-->
-<!--        {% include example-page-header.html %}-->
-<!--        <div class="row py-3">-->
-<!--            <div class="col-5">-->
-<!--            </div>-->
-<!--            <div class="col-7">-->
-<!--                <h3>Results for John Sample</h3>-->
-<!--                <h4 class="fw-400 text-dark">Overview</h4>-->
+<!-- Page 4 -->
+<div class="page">
+    {% include example-page-header.html %}
+    <div class="container-fluid flex-fill">
+        <div class="row py-3">
+            <div class="col-5">
+            </div>
+            <div class="col-7">
+                <h3>Results for John Sample</h3>
+                <h4 class="fw-400 text-dark">Overview</h4>
 
-<!--                {% include result-bar.html title="Total Resilience" classes="navy-progress" score="50" max_score="100" color="red" %}-->
+                {% include result-bar.html title="Total Resilience" classes="navy-progress" score="50" max_score="100" color="red" %}
 
-<!--                {% include result-bar.html %}-->
+                {% include result-bar.html %}
 
-
-<!--            </div>-->
-<!--        </div>-->
-<!--        {% include example-page-footer.html %}-->
-<!--    </div>-->
-<!--</div>-->
+            </div>
+        </div>
+    </div>
+    {% include example-page-footer.html %}
+</div>
 
 <!--&lt;!&ndash; Page 5 &ndash;&gt;-->
 <!--<div class="page">-->
