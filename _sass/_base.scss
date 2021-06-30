@@ -46,7 +46,7 @@ $navy: #355570;
   }
 
   // A page is always 100% of the viewport for dev
-  height: 100vh;
+  //height: 100vh;
 
   h6, .h6 {
     color: #000;
@@ -182,12 +182,18 @@ h1 {
   }
 }
 
-.page-header {
-  height: 50px;
-}
-
 .page-footer {
   .bg-pastel {
     height: 60px;
   }
+}
+
+.ph-heading {
+  margin-top: 45px;
+  margin-bottom: 5px;
+}
+
+.pf-heading {
+  margin-bottom: 30px !important;
+  margin-top: 20px;
 }
