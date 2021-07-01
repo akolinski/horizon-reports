@@ -1,4 +1,4 @@
-<div class="{{ include.color }}-progress">
+<div class="{{ include.color }}-progress progress-wrapper d-inline-block w-100">
     <h4 class="fw-light mb-0 result-bar-heading">{{ include.title }}</h4>
     <div class="score-progress mx-2">
         <p class="position-relative zero-score">0</p>
@@ -21,7 +21,7 @@
         </div>
         <p class="position-relative end-score">{{ include.max_score }}</p>
         <div class="arrow-position w-100">
-            <div class="up-arrow position-relative" style="left: {{ include.percentage | minus: 3.8 }}%;">
+            <div class="up-arrow position-relative" style="left: {{ include.percentage }}%;">
                 <p class="arrow-text">{{ include.display_score }}<p>
             </div>
         </div>

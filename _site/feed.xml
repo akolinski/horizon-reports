@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-01T15:57:55+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-01T16:26:28+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="http://localhost:4000/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>http://localhost:4000/reports/example-client-report</id><content type="html" xml:base="http://localhost:4000/reports/example-client-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -86,14 +86,14 @@
         &lt;/div&gt;
     &lt;/div&gt;
     {% include example-page-footer.html  page_number=&quot;2&quot; %}
-&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;!-- Page 1 --&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="http://localhost:4000/reports/example-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>http://localhost:4000/reports/example-coaching-report</id><content type="html" xml:base="http://localhost:4000/reports/example-coaching-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page&quot;&gt;
     &lt;div class=&quot;container-fluid bg-pastel bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-12 mt-4&quot;&gt;
                 &lt;h2&gt;John Sample&lt;br&gt;
                 &lt;date class=&quot;fw-light&quot;&gt;11.06.2021&lt;/date&gt;&lt;/h2&gt;
-                &lt;img class=&quot;img-fluid position-absolute colourful-tree-img&quot; width=&quot;560px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/colourful-tree.svg&quot; alt=&quot;&quot; /&gt;
+                &lt;img class=&quot;img-fluid position-absolute colourful-tree-img&quot; width=&quot;560px&quot; src=&quot;http://localhost:4000/assets/images/colourful-tree.svg&quot; alt=&quot;&quot; /&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -108,7 +108,7 @@
     &lt;div class=&quot;container-fluid pb-6&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;img class=&quot;float-end&quot; width=&quot;160px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
+                &lt;img class=&quot;float-end&quot; width=&quot;160px&quot; src=&quot;http://localhost:4000/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -186,7 +186,7 @@
                 &lt;p&gt;Speed of returning to normal activity after challenging situations.&lt;/p&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-12 text-center mt-3&quot;&gt;
-                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;515px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/Adult Resilience_artwork_Figure.svg&quot; alt=&quot;&quot; /&gt;
+                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;515px&quot; src=&quot;http://localhost:4000/assets/images/Adult Resilience_artwork_Figure.svg&quot; alt=&quot;&quot; /&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -224,7 +224,7 @@
                 &lt;h3 class=&quot;mb-3&quot;&gt;Results for John Sample&lt;/h3&gt;
                 &lt;h4 class=&quot;fw-400 text-dark mb-4&quot;&gt;Overview&lt;/h4&gt;
 
-                &lt;div class=&quot;navy-progress&quot;&gt;
+                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100&quot;&gt;
     &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
@@ -247,7 +247,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
         &lt;div class=&quot;arrow-position w-100&quot;&gt;
-            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 90.2%;&quot;&gt;
+            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 94%;&quot;&gt;
                 &lt;p class=&quot;arrow-text&quot;&gt;282&lt;p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -256,7 +256,7 @@
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;purple-progress&quot;&gt;
+                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100&quot;&gt;
     &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
@@ -279,7 +279,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         &lt;div class=&quot;arrow-position w-100&quot;&gt;
-            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 61.2%;&quot;&gt;
+            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 65%;&quot;&gt;
                 &lt;p class=&quot;arrow-text&quot;&gt;39&lt;p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -288,7 +288,7 @@
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;orange-progress&quot;&gt;
+                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100&quot;&gt;
     &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
@@ -311,7 +311,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         &lt;div class=&quot;arrow-position w-100&quot;&gt;
-            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 46.2%;&quot;&gt;
+            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 50%;&quot;&gt;
                 &lt;p class=&quot;arrow-text&quot;&gt;30&lt;p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -320,7 +320,7 @@
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;green-progress&quot;&gt;
+                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100&quot;&gt;
     &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
@@ -343,7 +343,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
         &lt;div class=&quot;arrow-position w-100&quot;&gt;
-            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 51.7%;&quot;&gt;
+            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 55.5%;&quot;&gt;
                 &lt;p class=&quot;arrow-text&quot;&gt;50&lt;p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -352,7 +352,7 @@
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;fuchsia-progress&quot;&gt;
+                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100&quot;&gt;
     &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
@@ -375,7 +375,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
         &lt;div class=&quot;arrow-position w-100&quot;&gt;
-            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 85.1%;&quot;&gt;
+            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 88.9%;&quot;&gt;
                 &lt;p class=&quot;arrow-text&quot;&gt;80&lt;p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -384,7 +384,7 @@
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;yellow-progress&quot;&gt;
+                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100&quot;&gt;
     &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
@@ -407,7 +407,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
         &lt;div class=&quot;arrow-position w-100&quot;&gt;
-            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 85.1%;&quot;&gt;
+            &lt;div class=&quot;up-arrow position-relative&quot; style=&quot;left: 88.9%;&quot;&gt;
                 &lt;p class=&quot;arrow-text&quot;&gt;80&lt;p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -415,8 +415,6 @@
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-
 
             &lt;/div&gt;
         &lt;/div&gt;
@@ -563,7 +561,7 @@
                 &lt;/div&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-12 text-center mt-5&quot;&gt;
-                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;95%&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/Adult Resilience_artwork_Bell curve.svg&quot; alt=&quot;&quot; /&gt;
+                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;95%&quot; src=&quot;http://localhost:4000/assets/images/Adult Resilience_artwork_Bell curve.svg&quot; alt=&quot;&quot; /&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
