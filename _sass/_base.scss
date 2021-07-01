@@ -239,8 +239,8 @@ code {
 
         .line {
           border-right: solid 2px #000000;
-          height: 42px;
-          z-index: 1;
+          height: 40px;
+          z-index: 9999999 !important;
 
           &:first-of-type {
             border-left: solid 2px #000000;
@@ -249,7 +249,7 @@ code {
       }
 
       .progress {
-        height: 32px;
+        height: 30px;
         top: -46px;
         background-color: transparent;
         border-radius: 0;
