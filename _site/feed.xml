@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-01T16:27:51+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-01T16:43:50+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -87,7 +87,7 @@
     &lt;/div&gt;
     {% include example-page-footer.html  page_number=&quot;2&quot; %}
 &lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-coaching-report">&lt;!-- Page 1 --&gt;
-&lt;div class=&quot;page&quot;&gt;
+&lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-pastel bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-12 mt-4&quot;&gt;
@@ -115,7 +115,7 @@
 &lt;/div&gt;
 
 &lt;!-- Page 2 --&gt;
-&lt;div class=&quot;page&quot;&gt;
+&lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
@@ -155,7 +155,7 @@
 &lt;/div&gt;
 
 &lt;!-- Page 3 --&gt;
-&lt;div class=&quot;page&quot;&gt;
+&lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
@@ -204,7 +204,7 @@
 &lt;/div&gt;
 
 &lt;!-- Page 4 --&gt;
-&lt;div class=&quot;page&quot;&gt;
+&lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
@@ -225,7 +225,7 @@
                 &lt;h4 class=&quot;fw-400 text-dark mb-4&quot;&gt;Overview&lt;/h4&gt;
 
                 &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
@@ -257,7 +257,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
@@ -289,7 +289,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
@@ -321,7 +321,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
@@ -353,7 +353,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
@@ -385,7 +385,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;fw-light mb-0 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
     &lt;div class=&quot;score-progress mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
@@ -433,7 +433,7 @@
 &lt;/div&gt;
 
 &lt;!-- Page 5 --&gt;
-&lt;div class=&quot;page&quot;&gt;
+&lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
@@ -485,7 +485,7 @@
 &lt;/div&gt;
 
 &lt;!-- Page 6 --&gt;
-&lt;div class=&quot;page&quot;&gt;
+&lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
@@ -535,7 +535,7 @@
 &lt;/div&gt;
 
 &lt;!-- Page 7 --&gt;
-&lt;div class=&quot;page&quot;&gt;
+&lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
         &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;

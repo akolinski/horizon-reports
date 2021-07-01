@@ -14,158 +14,29 @@
 
 // https://www.makeuseof.com/format-web-page-for-printer/#handling-page-breaks
 // https://guide.pressbooks.com/chapter/changing-page-margins-in-pdf-exports/
+
+// Default styles
 @page {
- margin: 0;
+  margin: 0;
 }
 
-$purple: #65539c;
-$fuchsia: #e24a67;
-$orange: #dc623e;
-$yellow: #efae4e;
-$green: #4e9383;
-$navy: #355570;
-
-.text-purple {
-  color: $purple;
-}
-
-.text-fuchsia {
-  color: $fuchsia;
-}
-
-.text-orange {
-  color: $orange;
-}
-
-.text-yellow {
-  color: $yellow;
-}
-
-.text-green {
-  color: $green;
-}
-
-.text-navy {
-  color: $navy;
-}
-
-// Styles for the different progress bar styles
-.purple-progress {
-  .progress-bar {
-    background: $purple;
-  }
-
-  .up-arrow {
-    border-color: transparent transparent $purple transparent;
-  }
-
-  .result-bar-heading {
-    color: $purple;
-  }
-}
-
-.fuchsia-progress {
-  .progress-bar {
-    background: $fuchsia;
-  }
-
-  .up-arrow {
-    border-color: transparent transparent $fuchsia transparent;
-  }
-
-  .result-bar-heading {
-    color: $fuchsia;
-  }
-}
-
-.orange-progress {
-  .progress-bar {
-    background: $orange;
-  }
-
-  .up-arrow {
-    border-color: transparent transparent $orange transparent;
-  }
-
-  .result-bar-heading {
-    color: $orange;
-  }
-}
-
-.yellow-progress {
-  .progress-bar {
-    background: $yellow;
-  }
-
-  .up-arrow {
-    border-color: transparent transparent $yellow transparent;
-  }
-
-  .result-bar-heading {
-    color: $yellow;
-  }
-}
-
-.green-progress {
-  .progress-bar {
-    background: $green;
-  }
-
-  .up-arrow {
-    border-color: transparent transparent $green transparent;
-  }
-
-  .result-bar-heading {
-    color: $green;
-  }
-}
-
-.navy-progress {
-  .progress-bar {
-    background: $navy;
-  }
-
-  .up-arrow {
-    border-color: transparent transparent $navy transparent;
-  }
-
-  .result-bar-heading {
-    color: $navy;
-  }
-}
-
-
-
-// PDF Page layout
-// https://www.w3schools.com/cssref/pr_print_pageba.asp
 .page{
   page-break-inside: avoid; // Don't break a page inside this class
   &:not(:last-child){ // If it ISN'T the last .page...
     page-break-after: always; // always break the page after this class
   }
-
   // A page is always 100% of the viewport for dev
   height: 100vh;
   // Flex properties to deal with header and footer for each page nicely
   display: flex;
   flex-direction: column;
-
-  h6, .h6 {
-    color: #000;
-    margin-bottom: 10px;
-  }
 }
-
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   // Don't break pages directly after a title tag
   page-break-after: avoid;
-  // Other styles
-  color: $navy;
-  font-weight: $font-weight-bold;
 }
 
-// code block styles
 code {
   font-size: inherit;
   font-family: Operator Mono SSm A,Operator Mono SSm B,Source Code Pro,Menlo,Consolas,Monaco,monospace;
@@ -176,112 +47,6 @@ code {
   padding: .1rem .3rem .2rem;
   border-radius: .2rem;
   background: #ffeff0;
-}
-
-.bg-pastel {
-  background-color: #a9dbda;
-}
-
-.bg-colourful-tree {
-  height: 188mm;
-}
-
-.colourful-tree-img {
-  bottom: 0;
-  right: 10%;
-}
-
-h1 {
-  font-size: 40pt;
-  line-height: 48pt;
-}
-
-// Styles for the progress bar
-.progress-wrapper {
-  border: solid 1px red;
-  height: 140px;
-}
-
-.score-progress {
-  .zero-score {
-    font-family: $font-family-poppins;
-    font-weight: 700;
-    font-size: 0.9rem;
-    height: 0;
-    top: 47px;
-    left: -25px;
-  }
-
-  .progress-bar-text {
-    font-family: $font-family-roboto;
-    font-size: 0.9rem;
-  }
-
-  .progress-bar-lines {
-    border: none;
-
-    .line {
-      border-right: solid 2px #000000;
-      height: 42px;
-      z-index: 1;
-
-      &:first-of-type {
-        border-left: solid 2px #000000;
-      }
-    }
-  }
-
-  .progress {
-    height: 32px;
-    top: -46px;
-    background-color: transparent;
-    border-radius: 0;
-    border: solid 2px #000000;
-  }
-
-  .final-score {
-
-  }
-
-  .end-score {
-    font-family: $font-family-poppins;
-    font-weight: 700;
-    font-size: 0.9rem;
-    height: 0;
-    top: -76px;
-    left: 0;
-    padding-left: 102%;
-  }
-
-  .up-arrow {
-    width: 0;
-    height: 0;
-    border-style: inset;
-    border-width: 0 12px 18px 12px;
-    // border-color: transparent transparent #007bff transparent;
-    float: left;
-    transform: rotate(360deg);
-    -ms-transform: rotate(360deg);
-    -moz-transform: rotate(360deg);
-    -webkit-transform: rotate(360deg);
-    -o-transform: rotate(360deg);
-    // Need to position the up arrow
-    left: 50%;
-    top: -60px;
-
-    .arrow-text {
-      font-family: $font-family-poppins;
-      font-weight: 700;
-      font-size: 0.9rem;
-      text-align: center;
-      top: 18px;
-      left: -47px;
-      position: relative;
-      width: 93px;
-      height: 93px;
-      margin: 0;
-    }
-  }
 }
 
 .ph-heading {
@@ -302,4 +67,239 @@ h1 {
 .content-align {
   position: relative;
   left: -10px;
+}
+
+// Custom styles to abstract
+
+.example-report-wrapper {
+  $purple: #65539c;
+  $fuchsia: #e24a67;
+  $orange: #dc623e;
+  $yellow: #efae4e;
+  $green: #4e9383;
+  $navy: #355570;
+
+  .text-purple {
+    color: $purple;
+  }
+
+  .text-fuchsia {
+    color: $fuchsia;
+  }
+
+  .text-orange {
+    color: $orange;
+  }
+
+  .text-yellow {
+    color: $yellow;
+  }
+
+  .text-green {
+    color: $green;
+  }
+
+  .text-navy {
+    color: $navy;
+  }
+
+  // Styles for the different progress bar styles
+  .purple-progress {
+    .progress-bar {
+      background: $purple;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent $purple transparent;
+    }
+
+    .result-bar-heading {
+      color: $purple;
+    }
+  }
+
+  .fuchsia-progress {
+    .progress-bar {
+      background: $fuchsia;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent $fuchsia transparent;
+    }
+
+    .result-bar-heading {
+      color: $fuchsia;
+    }
+  }
+
+  .orange-progress {
+    .progress-bar {
+      background: $orange;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent $orange transparent;
+    }
+
+    .result-bar-heading {
+      color: $orange;
+    }
+  }
+
+  .yellow-progress {
+    .progress-bar {
+      background: $yellow;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent $yellow transparent;
+    }
+
+    .result-bar-heading {
+      color: $yellow;
+    }
+  }
+
+  .green-progress {
+    .progress-bar {
+      background: $green;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent $green transparent;
+    }
+
+    .result-bar-heading {
+      color: $green;
+    }
+  }
+
+  .navy-progress {
+    .progress-bar {
+      background: $navy;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent $navy transparent;
+    }
+
+    .result-bar-heading {
+      color: $navy;
+    }
+  }
+
+  h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    color: $navy;
+    font-weight: $font-weight-bold;
+  }
+
+  h6, .h6 {
+    color: #000;
+    margin-bottom: 10px;
+  }
+
+  .bg-pastel {
+    background-color: #a9dbda;
+  }
+
+  .bg-colourful-tree {
+    height: 188mm;
+  }
+
+  .colourful-tree-img {
+    bottom: 0;
+    right: 10%;
+  }
+
+  h1 {
+    font-size: 40pt;
+    line-height: 48pt;
+  }
+
+  // Styles for the progress bar
+  .progress-wrapper {
+    border: solid 1px red;
+    height: 140px;
+
+    .score-progress {
+      padding-left: 1.5rem;
+      padding-right: 2.2rem;
+
+      .zero-score {
+        font-family: $font-family-poppins;
+        font-weight: 700;
+        font-size: 0.9rem;
+        height: 0;
+        top: 45px;
+        left: -17px;
+      }
+
+      .progress-bar-text {
+        font-family: $font-family-roboto;
+        font-size: 0.9rem;
+      }
+
+      .progress-bar-lines {
+        border: none;
+
+        .line {
+          border-right: solid 2px #000000;
+          height: 42px;
+          z-index: 1;
+
+          &:first-of-type {
+            border-left: solid 2px #000000;
+          }
+        }
+      }
+
+      .progress {
+        height: 32px;
+        top: -46px;
+        background-color: transparent;
+        border-radius: 0;
+        border: solid 2px #000000;
+      }
+
+      .end-score {
+        font-family: $font-family-poppins;
+        font-weight: 700;
+        font-size: 0.9rem;
+        height: 0;
+        top: -73px;
+        left: 4px;
+        padding-left: 100%;
+      }
+
+      .up-arrow {
+        width: 0;
+        height: 0;
+        border-style: inset;
+        border-width: 0 12px 18px 12px;
+        // border-color: transparent transparent #007bff transparent;
+        float: left;
+        transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        // Need to position the up arrow
+        left: 50%;
+        top: -60px;
+
+        .arrow-text {
+          font-family: $font-family-poppins;
+          font-weight: 700;
+          font-size: 0.9rem;
+          text-align: center;
+          top: 18px;
+          left: -47px;
+          position: relative;
+          width: 93px;
+          height: 93px;
+          margin: 0;
+        }
+      }
+    }
+  }
 }
