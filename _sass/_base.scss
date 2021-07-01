@@ -108,7 +108,7 @@ code {
     }
 
     .up-arrow {
-      border-color: transparent transparent $purple transparent;
+      border-color: transparent transparent darken($purple, 10%) transparent;
     }
 
     .result-bar-heading {
@@ -123,7 +123,7 @@ code {
     }
 
     .up-arrow {
-      border-color: transparent transparent $fuchsia transparent;
+      border-color: transparent transparent darken($fuchsia, 10%) transparent;
     }
 
     .result-bar-heading {
@@ -138,7 +138,7 @@ code {
     }
 
     .up-arrow {
-      border-color: transparent transparent $orange transparent;
+      border-color: transparent transparent darken($orange, 10%) transparent;
     }
 
     .result-bar-heading {
@@ -153,7 +153,7 @@ code {
     }
 
     .up-arrow {
-      border-color: transparent transparent $yellow transparent;
+      border-color: transparent transparent darken($yellow, 10%) transparent;
     }
 
     .result-bar-heading {
@@ -168,7 +168,7 @@ code {
     }
 
     .up-arrow {
-      border-color: transparent transparent $green transparent;
+      border-color: transparent transparent darken($green, 10%) transparent;
     }
 
     .result-bar-heading {
@@ -183,7 +183,7 @@ code {
     }
 
     .up-arrow {
-      border-color: transparent transparent $navy transparent;
+      border-color: transparent transparent darken($navy, 10%) transparent;
     }
 
     .result-bar-heading {
