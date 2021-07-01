@@ -102,6 +102,7 @@ code {
   .purple-progress {
     .progress-bar {
       background: $purple;
+      border-color: $purple;
     }
 
     .up-arrow {
@@ -116,6 +117,7 @@ code {
   .fuchsia-progress {
     .progress-bar {
       background: $fuchsia;
+      border-color: $fuchsia;
     }
 
     .up-arrow {
@@ -130,6 +132,7 @@ code {
   .orange-progress {
     .progress-bar {
       background: $orange;
+      border-color: $orange;
     }
 
     .up-arrow {
@@ -144,6 +147,7 @@ code {
   .yellow-progress {
     .progress-bar {
       background: $yellow;
+      border-color: $yellow;
     }
 
     .up-arrow {
@@ -158,6 +162,7 @@ code {
   .green-progress {
     .progress-bar {
       background: $green;
+      border-color: $green;
     }
 
     .up-arrow {
@@ -172,6 +177,7 @@ code {
   .navy-progress {
     .progress-bar {
       background: $navy;
+      border-color: $navy;
     }
 
     .up-arrow {
@@ -213,8 +219,8 @@ code {
 
   // Styles for the progress bar
   .progress-wrapper {
-    //border: solid 1px red;
-    height: 128px;
+    border: solid 1px red;
+    height: 124px;
 
     .score-progress {
       padding-left: 0.7rem;
@@ -227,6 +233,11 @@ code {
         height: 0;
         top: 45px;
         left: -17px;
+      }
+
+      .progress-bar {
+        height: 100%;
+        border: solid 1px transparent;
       }
 
       .progress-bar-text {
