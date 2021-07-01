@@ -93,7 +93,23 @@ name:   "John Sample"
                 <h3 class="mb-3">Results for John Sample</h3>
                 <h4 class="fw-400 text-dark mb-4">Overview</h4>
 
-                {% include result-bar.html title="Total Resilience" text_classes="text-navy" classes="navy-progress" score="50" max_score="100" %}
+                {% include result-bar.html title="Total Resilience" color="navy" display_score="282" max_score="300" percentage="94" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include result-bar.html title="Threat Perception" color="purple" display_score="39" max_score="60" percentage="65" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include result-bar.html title="Adjustment" color="orange" display_score="30" max_score="60" percentage="50" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include result-bar.html title="Decision Making" color="green" display_score="50" max_score="90" percentage="55.5" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include result-bar.html title="Coping" color="fuchsia" display_score="80" max_score="90" percentage="88.9" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include result-bar.html title="Recovery" color="yellow" display_score="80" max_score="90" percentage="88.9" %}
+                <!-- Percentage = display_score/max_score * 100 -->
 
             </div>
         </div>

@@ -49,6 +49,93 @@ $navy: #355570;
   color: $navy;
 }
 
+// Styles for the different progress bar styles
+.purple-progress {
+  .progress-bar {
+    background: $purple;
+  }
+
+  .up-arrow {
+    border-color: transparent transparent $purple transparent;
+  }
+
+  .result-bar-heading {
+    color: $purple;
+  }
+}
+
+.fuchsia-progress {
+  .progress-bar {
+    background: $fuchsia;
+  }
+
+  .up-arrow {
+    border-color: transparent transparent $fuchsia transparent;
+  }
+
+  .result-bar-heading {
+    color: $fuchsia;
+  }
+}
+
+.orange-progress {
+  .progress-bar {
+    background: $orange;
+  }
+
+  .up-arrow {
+    border-color: transparent transparent $orange transparent;
+  }
+
+  .result-bar-heading {
+    color: $orange;
+  }
+}
+
+.yellow-progress {
+  .progress-bar {
+    background: $yellow;
+  }
+
+  .up-arrow {
+    border-color: transparent transparent $yellow transparent;
+  }
+
+  .result-bar-heading {
+    color: $yellow;
+  }
+}
+
+.green-progress {
+  .progress-bar {
+    background: $green;
+  }
+
+  .up-arrow {
+    border-color: transparent transparent $green transparent;
+  }
+
+  .result-bar-heading {
+    color: $green;
+  }
+}
+
+.navy-progress {
+  .progress-bar {
+    background: $navy;
+  }
+
+  .up-arrow {
+    border-color: transparent transparent $navy transparent;
+  }
+
+  .result-bar-heading {
+    color: $navy;
+  }
+}
+
+
+
 // PDF Page layout
 // https://www.w3schools.com/cssref/pr_print_pageba.asp
 .page{
@@ -112,28 +199,39 @@ h1 {
 // Styles for the progress bar
 .score-progress {
   .zero-score {
-    top: 70px;
+    font-family: $font-family-poppins;
+    font-weight: 700;
+    font-size: 0.9rem;
+    height: 0;
+    top: 47px;
     left: -25px;
   }
 
+  .progress-bar-text {
+    font-family: $font-family-roboto;
+    font-size: 0.9rem;
+  }
+
   .progress-bar-lines {
-    border: solid 1px #000000;
+    border: none;
 
     .line {
-      border-right: solid 1px #000000;
-      height: 40px;
+      border-right: solid 2px #000000;
+      height: 52px;
       z-index: 1;
 
-      &:last-of-type {
-        border-right: none;
+      &:first-of-type {
+        border-left: solid 2px #000000;
       }
     }
   }
 
   .progress {
     height: 42px;
-    top: -42px;
+    top: -56px;
     background-color: transparent;
+    border-radius: 0;
+    border: solid 2px #000000;
   }
 
   .final-score {
@@ -141,54 +239,44 @@ h1 {
   }
 
   .end-score {
-    top: -78px;
-    right: -656px;
-  }
-
-
-}
-
-.up-arrow {
-  width: 0;
-  height: 0;
-  border-style: inset;
-  border-width: 0 25px 40px 25px;
-  border-color: transparent transparent #007bff transparent;
-  float: left;
-  transform: rotate(360deg);
-  -ms-transform: rotate(360deg);
-  -moz-transform: rotate(360deg);
-  -webkit-transform: rotate(360deg);
-  -o-transform: rotate(360deg);
-  // Need to position the up arrow
-  left: 50%;
-  top: -70px;
-
-  p {
-    text-align: center;
-    top: 40px;
-    left: -47px;
-    position: relative;
-    width: 93px;
-    height: 93px;
-    margin: 0;
-  }
-}
-
-// Styles for the different progress bar styles
-.navy-progress {
-  .progress-bar {
-    background: $navy;
+    font-family: $font-family-poppins;
+    font-weight: 700;
+    font-size: 0.9rem;
+    height: 0;
+    top: -86px;
+    left: 0;
+    padding-left: 102%;
   }
 
   .up-arrow {
-    border-color: transparent transparent $navy transparent;
-  }
-}
+    width: 0;
+    height: 0;
+    border-style: inset;
+    border-width: 0 25px 40px 25px;
+    // border-color: transparent transparent #007bff transparent;
+    float: left;
+    transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    // Need to position the up arrow
+    left: 50%;
+    top: -66px;
 
-.page-footer {
-  //position: fixed;
-  //bottom: 0;
+    .arrow-text {
+      font-family: $font-family-poppins;
+      font-weight: 700;
+      font-size: 0.9rem;
+      text-align: center;
+      top: 40px;
+      left: -47px;
+      position: relative;
+      width: 93px;
+      height: 93px;
+      margin: 0;
+    }
+  }
 }
 
 .ph-heading {
