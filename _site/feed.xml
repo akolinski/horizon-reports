@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-01T18:28:40+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-01T18:38:44+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -136,7 +136,7 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-5&quot;&gt;
+        &lt;div class=&quot;row py-4&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
                 &lt;h2&gt;Definition of&lt;br&gt; Resilience&lt;/h2&gt;
             &lt;/div&gt;
@@ -176,7 +176,7 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-5&quot;&gt;
+        &lt;div class=&quot;row py-4&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
@@ -225,7 +225,7 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-5&quot;&gt;
+        &lt;div class=&quot;row py-4&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
@@ -454,7 +454,7 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-5&quot;&gt;
+        &lt;div class=&quot;row py-4&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
@@ -539,7 +539,7 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-5&quot;&gt;
+        &lt;div class=&quot;row py-4&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
@@ -622,7 +622,7 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-5&quot;&gt;
+        &lt;div class=&quot;row py-4&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
                 &lt;div class=&quot;row&quot;&gt;
                     &lt;div class=&quot;col-5&quot;&gt;
