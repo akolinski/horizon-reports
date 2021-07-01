@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-02T09:16:52+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-02T09:20:51+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -80,7 +80,7 @@
                 {% include result-bar.html title=&quot;no&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;65&quot; %}
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 72–90&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-0&quot;&gt;Very High Range: 72–90&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are very perceptive and acutely aware of their surrounding situation, especially recognising potential or actual problems or threats, and will very quickly formulate a recovery plan.&lt;/p&gt;
                 &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 65–71&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are more aware of the surrounding environment than others. They will notice problems before they arise and will quickly plan a way forward.&lt;/p&gt;
@@ -182,7 +182,7 @@
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
                 &lt;h3 class=&quot;mb-2&quot;&gt;Model of Resilience&lt;/h3&gt;
                 &lt;p&gt;The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Threat Perception&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-0&quot;&gt;Threat Perception&lt;/h6&gt;
                 &lt;p&gt;Awareness of potential or actual threat and ability to formulate a plan.&lt;/p&gt;
                 &lt;h6 class=&quot;mb-1&quot;&gt;Adjustment&lt;/h6&gt;
                 &lt;p&gt;Ability to adjust when unexpected events cause disruption.&lt;/p&gt;
