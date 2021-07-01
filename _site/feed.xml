@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-01T19:21:03+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-02T09:16:52+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -20,7 +20,7 @@
     &lt;div class=&quot;container-fluid pb-6 bg-pastel&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;img class=&quot;float-end&quot; width=&quot;160px&quot; src=&quot;{{ site.url }}/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
+                &lt;img class=&quot;float-end&quot; width=&quot;150px&quot; src=&quot;{{ site.url }}/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -34,7 +34,7 @@
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h2 class=&quot;h3 mb-2 text-dark mb-3&quot;&gt;Dimensions and Intervals&lt;/h2&gt;
+                &lt;h2 class=&quot;h3 text-dark mb-2&quot;&gt;Dimensions and Intervals&lt;/h2&gt;
                 &lt;h4 class=&quot;fw-light text-navy&quot;&gt;Total Resilience: 382&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Ability to adapt.&lt;/li&gt;
@@ -45,16 +45,16 @@
                 {% include result-bar.html title=&quot;no&quot; color=&quot;navy&quot; display_score=&quot;282&quot; max_score=&quot;300&quot; percentage=&quot;94&quot; %}
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;h6&gt;Very High Range: 365–450&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 365–450&lt;/h6&gt;
                 &lt;p&gt;This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.&lt;/p&gt;
-                &lt;h6&gt;High Range: 331–364&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 331–364&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience will be able to succeed when faced with significant challenges and serious problems, and have a high capacity to cope with stress.&lt;/p&gt;
-                &lt;h6&gt;Average Range: 262–330&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 262–330&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience have a reasonable capacity to respond to difficult circumstances, to adapt to change and to cope in stressful situations.&lt;/p&gt;
-                &lt;h6&gt;Low Range: 228–261&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 228–261&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience are likely to find it difficult to succeed
                     when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.&lt;/p&gt;
-                &lt;h6&gt;Very Low Range: 0–227&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–227&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience may frequently find it difficult to progress and to improve their situation when faced with significant challenges. Individuals may be uncomfortable dealing with problems or stress.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -80,15 +80,15 @@
                 {% include result-bar.html title=&quot;no&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;65&quot; %}
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;h6&gt;Very High Range: 72–90&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 72–90&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are very perceptive and acutely aware of their surrounding situation, especially recognising potential or actual problems or threats, and will very quickly formulate a recovery plan.&lt;/p&gt;
-                &lt;h6&gt;High Range: 65–71&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 65–71&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are more aware of the surrounding environment than others. They will notice problems before they arise and will quickly plan a way forward.&lt;/p&gt;
-                &lt;h6&gt;Average Range: 50–64&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 50–64&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.&lt;/p&gt;
-                &lt;h6&gt;Low Range: 43–49&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 43–49&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception may be less aware of the surrounding environment. Individuals may only notice problems after they arise.&lt;/p&gt;
-                &lt;h6&gt;Very Low Range: 0–42&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–42&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -116,7 +116,7 @@
     &lt;div class=&quot;container-fluid pb-6&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;img class=&quot;float-end&quot; width=&quot;160px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
+                &lt;img class=&quot;float-end&quot; width=&quot;150px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -136,7 +136,7 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-4&quot;&gt;
+        &lt;div class=&quot;row pt-5&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
                 &lt;h2&gt;Definition of&lt;br&gt; Resilience&lt;/h2&gt;
             &lt;/div&gt;
@@ -144,7 +144,7 @@
                 &lt;p&gt;Many people have encountered an adverse experience at some point in their lives. Yet, some bounce back quickly while others endure the negativity for a longer period. A distinguishing factor between these people is their level of resilience.&lt;/p&gt;
                 &lt;p&gt;Resilience has been widely defined as the ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Resilience has also been recognised as a measure of stress and the ability to cope with negative events, and can thus be defined as the personal qualities that enable an individual to thrive in difficult circumstances.&lt;/p&gt;
                 &lt;p&gt;Research suggests that resilient people adapt more successfully in response to major life events and traumatic experiences (Sarkar &amp; Fletcher, 2014). Research also shows that resilience is not necessarily related to personality or intelligence (Carver &amp; Connor-Smith, 2010).&lt;/p&gt;
-                &lt;h3 class=&quot;mt-4 mb-3&quot;&gt;Interpreting the Adult Resilience Scale Scores&lt;/h3&gt;
+                &lt;h3 class=&quot;mt-4 mb-2&quot;&gt;Interpreting the Adult Resilience Scale Scores&lt;/h3&gt;
                 &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -176,21 +176,21 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-4&quot;&gt;
+        &lt;div class=&quot;row pt-5&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h3 class=&quot;mb-3&quot;&gt;Model of Resilience&lt;/h3&gt;
+                &lt;h3 class=&quot;mb-2&quot;&gt;Model of Resilience&lt;/h3&gt;
                 &lt;p&gt;The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:&lt;/p&gt;
-                &lt;h6&gt;Threat Perception&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Threat Perception&lt;/h6&gt;
                 &lt;p&gt;Awareness of potential or actual threat and ability to formulate a plan.&lt;/p&gt;
-                &lt;h6&gt;Adjustment&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Adjustment&lt;/h6&gt;
                 &lt;p&gt;Ability to adjust when unexpected events cause disruption.&lt;/p&gt;
-                &lt;h6&gt;Decision Making&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Decision Making&lt;/h6&gt;
                 &lt;p&gt;Ability to make clear decisions during stressful situations.&lt;/p&gt;
-                &lt;h6&gt;Coping&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Coping&lt;/h6&gt;
                 &lt;p&gt;Capacity to deal with stressful events and ability to return to normal routine.&lt;/p&gt;
-                &lt;h6&gt;Recovery&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Recovery&lt;/h6&gt;
                 &lt;p&gt;Speed of returning to normal activity after challenging situations.&lt;/p&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-12 text-center mt-3&quot;&gt;
@@ -225,12 +225,12 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-4&quot;&gt;
+        &lt;div class=&quot;row pt-5&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h3 class=&quot;mb-3&quot;&gt;Results for John Sample&lt;/h3&gt;
-                &lt;h4 class=&quot;fw-400 text-dark mb-4&quot;&gt;Overview&lt;/h4&gt;
+                &lt;h3 class=&quot;mb-2&quot;&gt;Results for John Sample&lt;/h3&gt;
+                &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
 
                 &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100&quot;&gt;
     &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
@@ -454,11 +454,11 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-4&quot;&gt;
+        &lt;div class=&quot;row pt-5&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h2 class=&quot;h3 mb-2 text-dark mb-3&quot;&gt;Dimensions and Intervals&lt;/h2&gt;
+                &lt;h2 class=&quot;h3 text-dark mb-2&quot;&gt;Dimensions and Intervals&lt;/h2&gt;
                 &lt;h4 class=&quot;fw-light text-navy&quot;&gt;Total Resilience: 382&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Ability to adapt.&lt;/li&gt;
@@ -498,16 +498,16 @@
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;h6&gt;Very High Range: 365–450&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 365–450&lt;/h6&gt;
                 &lt;p&gt;This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.&lt;/p&gt;
-                &lt;h6&gt;High Range: 331–364&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 331–364&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience will be able to succeed when faced with significant challenges and serious problems, and have a high capacity to cope with stress.&lt;/p&gt;
-                &lt;h6&gt;Average Range: 262–330&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 262–330&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience have a reasonable capacity to respond to difficult circumstances, to adapt to change and to cope in stressful situations.&lt;/p&gt;
-                &lt;h6&gt;Low Range: 228–261&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 228–261&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience are likely to find it difficult to succeed
                     when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.&lt;/p&gt;
-                &lt;h6&gt;Very Low Range: 0–227&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–227&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience may frequently find it difficult to progress and to improve their situation when faced with significant challenges. Individuals may be uncomfortable dealing with problems or stress.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -539,7 +539,7 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-4&quot;&gt;
+        &lt;div class=&quot;row pt-5&quot;&gt;
             &lt;div class=&quot;col-5&quot;&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
@@ -582,15 +582,15 @@
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;h6&gt;Very High Range: 72–90&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 72–90&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are very perceptive and acutely aware of their surrounding situation, especially recognising potential or actual problems or threats, and will very quickly formulate a recovery plan.&lt;/p&gt;
-                &lt;h6&gt;High Range: 65–71&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 65–71&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are more aware of the surrounding environment than others. They will notice problems before they arise and will quickly plan a way forward.&lt;/p&gt;
-                &lt;h6&gt;Average Range: 50–64&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 50–64&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.&lt;/p&gt;
-                &lt;h6&gt;Low Range: 43–49&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 43–49&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception may be less aware of the surrounding environment. Individuals may only notice problems after they arise.&lt;/p&gt;
-                &lt;h6&gt;Very Low Range: 0–42&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–42&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -622,13 +622,13 @@
 &lt;/div&gt;
 
     &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row py-4&quot;&gt;
+        &lt;div class=&quot;row pt-5&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
                 &lt;div class=&quot;row&quot;&gt;
                     &lt;div class=&quot;col-5&quot;&gt;
                     &lt;/div&gt;
                     &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                        &lt;h3 class=&quot;mb-3&quot;&gt;Adult Resilience Scale and Bell Curve Distribution&lt;/h3&gt;
+                        &lt;h3 class=&quot;mb-2&quot;&gt;Adult Resilience Scale and Bell Curve Distribution&lt;/h3&gt;
                         &lt;p&gt;A bell curve is the informal name of a graph that depicts a normal probability distribution. The raw scores on the Adult Resilience Scale are best viewed in the below bell curve distribution. The bell curve represents a ‘normal distribution’ of the general population. A normal distribution has the average (or mean) centred and an equal distribution above and below average like the curve below. The bell curve assumes there is an equivalent number of people above and below average, and a very small number of people two standard deviations above and below the average (mean).&lt;/p&gt;
                         &lt;p&gt;The raw scores on the Adult Resilience Scale are converted to mean (average) scores and standard deviations across five intervals ranging from Very Low, Low, Average, High, and Very High. For further information on scores and interpretation, refer to the Adult Resilience Scale Manual.&lt;/p&gt;
                     &lt;/div&gt;
