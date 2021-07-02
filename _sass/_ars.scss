@@ -1,0 +1,284 @@
+// Custom styles for this report
+.report-wrapper {
+  $purple: #65539B;
+  $fuchsia: #E24A66;
+  $orange: #DB623D;
+  $yellow: #EB9D4A;
+  $green: #4D9283;
+  $navy: #345470;
+
+  // Page header text margin
+  .ph-heading {
+    margin-top: 18px !important;
+    margin-bottom: 6px !important;
+  }
+
+  // Page footer text margin
+  .pf-heading {
+    margin-top: 6px !important;
+    margin-bottom: 18px !important;
+  }
+
+  .page-number {
+    font-family: $font-family-poppins;
+    font-weight: 600;
+    font-size: 0.8333rem;
+  }
+
+  .content-align {
+    position: relative;
+    left: -10px;
+  }
+
+  .fill-purple {
+    fill: $purple;
+  }
+
+  .fill-fuchsia {
+    fill: $fuchsia;
+  }
+
+  .fill-orange {
+    fill: $orange;
+  }
+
+  .fill-yellow {
+    fill: $yellow;
+  }
+
+  .fill-green {
+    fill: $green;
+  }
+
+  .fill-navy {
+    fill: $navy;
+  }
+
+  .text-purple {
+    color: $purple;
+  }
+
+  .text-fuchsia {
+    color: $fuchsia;
+  }
+
+  .text-orange {
+    color: $orange;
+  }
+
+  .text-yellow {
+    color: $yellow;
+  }
+
+  .text-green {
+    color: $green;
+  }
+
+  .text-navy {
+    color: $navy;
+  }
+
+  // Styles for the different progress bar styles
+  .purple-progress {
+    .progress-bar {
+      background: $purple;
+      border-color: $purple;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent darken($purple, 10%) transparent;
+    }
+
+    .result-bar-heading {
+      color: $purple;
+    }
+  }
+
+  .fuchsia-progress {
+    .progress-bar {
+      background: $fuchsia;
+      border-color: $fuchsia;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent darken($fuchsia, 10%) transparent;
+    }
+
+    .result-bar-heading {
+      color: $fuchsia;
+    }
+  }
+
+  .orange-progress {
+    .progress-bar {
+      background: $orange;
+      border-color: $orange;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent darken($orange, 10%) transparent;
+    }
+
+    .result-bar-heading {
+      color: $orange;
+    }
+  }
+
+  .yellow-progress {
+    .progress-bar {
+      background: $yellow;
+      border-color: $yellow;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent darken($yellow, 10%) transparent;
+    }
+
+    .result-bar-heading {
+      color: $yellow;
+    }
+  }
+
+  .green-progress {
+    .progress-bar {
+      background: $green;
+      border-color: $green;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent darken($green, 10%) transparent;
+    }
+
+    .result-bar-heading {
+      color: $green;
+    }
+  }
+
+  .navy-progress {
+    .progress-bar {
+      background: $navy;
+      border-color: $navy;
+    }
+
+    .up-arrow {
+      border-color: transparent transparent darken($navy, 10%) transparent;
+    }
+
+    .result-bar-heading {
+      color: $navy;
+    }
+  }
+
+  h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    color: $navy;
+    font-weight: $font-weight-bold;
+  }
+
+  h6, .h6 {
+    color: #000;
+    margin-bottom: 10px;
+  }
+
+  .bg-pastel {
+    background-color: #a9dbda;
+  }
+
+  .bg-colourful-tree {
+    height: 188mm;
+  }
+
+  .colourful-tree-img {
+    bottom: 0;
+    right: 10%;
+  }
+
+  h1 {
+    font-size: 40pt;
+    line-height: 48pt;
+  }
+
+  // Styles for the progress bar
+  .progress-wrapper {
+    height: 110px;
+
+    .score-progress {
+      height: 30px;
+      top: 29px;
+      padding-left: 0.7rem;
+      padding-right: 1.5rem;
+
+      .zero-score {
+        font-family: $font-family-poppins;
+        font-weight: 700;
+        font-size: 0.9rem;
+        height: 0;
+        top: -4px;
+        left: -17px;
+      }
+
+      .progress-bar {
+        height: 100%;
+        border: solid 1px transparent;
+      }
+
+      .progress-bar-text {
+        top: -45px;
+        font-family: $font-family-roboto;
+        font-size: 0.8333rem;
+      }
+
+      .progress-bar-lines {
+        top: -76px;
+        border: none;
+
+        .line {
+          border-right: solid 2px #000000;
+          height: 40px;
+          z-index: 9999999 !important;
+
+          &:first-of-type {
+            border-left: solid 2px #000000;
+          }
+        }
+      }
+
+      .progress {
+        height: 30px;
+        top: -47px;
+        background-color: transparent;
+        border-radius: 0;
+        border: solid 2px #000000;
+      }
+
+      .end-score {
+        font-family: $font-family-poppins;
+        font-weight: 700;
+        font-size: 0.9rem;
+        height: 0;
+        top: -118px;
+        left: 4px;
+        padding-left: 100%;
+      }
+
+      .arrow-position {
+        top: -109px;
+
+        .result-bar-triangle {
+          width: 24px;
+        }
+
+        .arrow-text {
+          font-family: $font-family-poppins;
+          font-weight: 700;
+          font-size: 0.9rem;
+          text-align: center;
+          top: -2px;
+          left: -35px;
+          width: 93px;
+          height: 93px;
+          margin: 0;
+        }
+      }
+    }
+  }
+}

@@ -1,18 +1,19 @@
 ---
 layout: report
+stylesheet: ars
 title:  "Adult Resilience Scale Client Report"
-date:   2021-06-21
+date:   2021-07-02
 name:   "John Sample"
 ---
 
 <!-- Page 1 -->
-<div class="page example-report-wrapper">
+<div class="page report-wrapper">
     <div class="container-fluid bg-colourful-tree position-relative">
         <div class="row">
             <div class="col-12 mt-12">
                 <h2>John Sample<br>
                 <date class="fw-light">11.06.2021</date></h2>
-                <img class="img-fluid position-absolute colourful-tree-img" width="560px" src="{{ site.url }}/assets/images/colourful-tree.svg" alt="" />
+                <img class="img-fluid position-absolute colourful-tree-img" width="560px" src="{{ site.url }}/assets/images/ars/colourful-tree.svg" alt="" />
             </div>
         </div>
     </div>
@@ -34,8 +35,8 @@ name:   "John Sample"
 </div>
 
 <!-- Page 2 -->
-<div class="page example-report-wrapper">
-    {% include example-page-header.html %}
+<div class="page report-wrapper">
+    {% include ars/header.html %}
     <div class="container-fluid flex-fill">
         <div class="row py-5">
             <div class="col-5">
@@ -49,7 +50,7 @@ name:   "John Sample"
                     <li>Capacity to cope with stress.</li>
                 </ul>
 
-                {% include result-bar.html title="no" color="navy" display_score="282" max_score="300" percentage="94" %}
+                {% include ars/result-bar.html title="no" color="navy" display_score="282" max_score="300" percentage="94" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
                 <h6 class="mb-1">Very High Range: 365–450</h6>
@@ -66,12 +67,12 @@ name:   "John Sample"
             </div>
         </div>
     </div>
-    {% include example-page-footer.html  page_number="1" %}
+    {% include ars/footer.html page_number="1" %}
 </div>
 
 <!-- Page 2 -->
-<div class="page example-report-wrapper">
-    {% include example-page-header.html %}
+<div class="page report-wrapper">
+    {% include ars/header.html %}
     <div class="container-fluid flex-fill">
         <div class="row py-5">
             <div class="col-5">
@@ -84,7 +85,7 @@ name:   "John Sample"
                     <li>Ability to formulate a plan to continue</li>
                 </ul>
 
-                {% include result-bar.html title="no" color="purple" display_score="39" max_score="60" percentage="65" %}
+                {% include ars/result-bar.html title="no" color="purple" display_score="39" max_score="60" percentage="65" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
                 <h6 class="mb-1">Very High Range: 72–90</h6>
@@ -100,5 +101,5 @@ name:   "John Sample"
             </div>
         </div>
     </div>
-    {% include example-page-footer.html  page_number="2" %}
+    {% include ars/footer.html page_number="2" %}
 </div>

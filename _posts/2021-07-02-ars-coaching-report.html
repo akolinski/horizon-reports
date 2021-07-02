@@ -1,18 +1,19 @@
 ---
 layout: report
+stylesheet: ars
 title:  "Adult Resilience Scale Coach Report"
-date:   2021-06-21
+date:   2021-07-02
 name:   "John Sample"
 ---
 
 <!-- Page 1 -->
-<div class="page example-report-wrapper">
+<div class="page report-wrapper">
     <div class="container-fluid bg-pastel bg-colourful-tree position-relative">
         <div class="row">
             <div class="col-12 mt-12">
                 <h2>John Sample<br>
                 <date class="fw-light">11.06.2021</date></h2>
-                <img class="img-fluid position-absolute colourful-tree-img" width="560px" src="{{ site.url }}/assets/images/colourful-tree.svg" alt="" />
+                <img class="img-fluid position-absolute colourful-tree-img" width="560px" src="{{ site.url }}/assets/images/ars/colourful-tree.svg" alt="" />
             </div>
         </div>
     </div>
@@ -34,8 +35,8 @@ name:   "John Sample"
 </div>
 
 <!-- Page 2 -->
-<div class="page example-report-wrapper">
-    {% include example-page-header.html %}
+<div class="page report-wrapper">
+    {% include ars/header.html %}
     <div class="container-fluid flex-fill">
         <div class="row pt-10">
             <div class="col-5">
@@ -50,12 +51,12 @@ name:   "John Sample"
             </div>
         </div>
     </div>
-    {% include example-page-footer.html  page_number="1" %}
+    {% include ars/footer.html page_number="1" %}
 </div>
 
 <!-- Page 3 -->
-<div class="page example-report-wrapper">
-    {% include example-page-header.html %}
+<div class="page report-wrapper">
+    {% include ars/header.html %}
     <div class="container-fluid flex-fill">
         <div class="row pt-10">
             <div class="col-5">
@@ -75,16 +76,16 @@ name:   "John Sample"
                 <p>Speed of returning to normal activity after challenging situations.</p>
             </div>
             <div class="col-12 text-center mt-3">
-                <img class="img-fluid mx-auto" width="515px" src="{{ site.url }}/assets/images/Adult Resilience_artwork_Figure.svg" alt="" />
+                <img class="img-fluid mx-auto" width="515px" src="{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Figure.svg" alt="" />
             </div>
         </div>
     </div>
-    {% include example-page-footer.html  page_number="2" %}
+    {% include ars/footer.html page_number="2" %}
 </div>
 
 <!-- Page 4 -->
-<div class="page example-report-wrapper">
-    {% include example-page-header.html %}
+<div class="page report-wrapper">
+    {% include ars/header.html %}
     <div class="container-fluid flex-fill">
         <div class="row pt-10">
             <div class="col-5">
@@ -93,33 +94,33 @@ name:   "John Sample"
                 <h3 class="mb-2">Results for John Sample</h3>
                 <h4 class="fw-400 text-dark mb-3">Overview</h4>
 
-                {% include result-bar.html title="Total Resilience" color="navy" display_score="282" max_score="300" percentage="94" %}
+                {% include ars/result-bar.html title="Total Resilience" color="navy" display_score="282" max_score="300" percentage="94" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
-                {% include result-bar.html title="Threat Perception" color="purple" display_score="39" max_score="60" percentage="65" %}
+                {% include ars/result-bar.html title="Threat Perception" color="purple" display_score="39" max_score="60" percentage="65" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
-                {% include result-bar.html title="Adjustment" color="orange" display_score="30" max_score="60" percentage="50" %}
+                {% include ars/result-bar.html title="Adjustment" color="orange" display_score="30" max_score="60" percentage="50" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
-                {% include result-bar.html title="Decision Making" color="green" display_score="50" max_score="90" percentage="55.5" %}
+                {% include ars/result-bar.html title="Decision Making" color="green" display_score="50" max_score="90" percentage="55.5" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
-                {% include result-bar.html title="Coping" color="fuchsia" display_score="80" max_score="90" percentage="88.9" %}
+                {% include ars/result-bar.html title="Coping" color="fuchsia" display_score="80" max_score="90" percentage="88.9" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
-                {% include result-bar.html title="Recovery" color="yellow" display_score="80" max_score="90" percentage="88.9" %}
+                {% include ars/result-bar.html title="Recovery" color="yellow" display_score="80" max_score="90" percentage="88.9" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
             </div>
         </div>
     </div>
-    {% include example-page-footer.html  page_number="3" %}
+    {% include ars/footer.html page_number="3" %}
 </div>
 
 <!-- Page 5 -->
-<div class="page example-report-wrapper">
-    {% include example-page-header.html %}
+<div class="page report-wrapper">
+    {% include ars/header.html %}
     <div class="container-fluid flex-fill">
         <div class="row pt-10">
             <div class="col-5">
@@ -133,7 +134,7 @@ name:   "John Sample"
                     <li>Capacity to cope with stress.</li>
                 </ul>
 
-                {% include result-bar.html title="no" color="navy" display_score="282" max_score="300" percentage="94" %}
+                {% include ars/result-bar.html title="no" color="navy" display_score="282" max_score="300" percentage="94" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
                 <h6 class="mb-1">Very High Range: 365–450</h6>
@@ -150,12 +151,12 @@ name:   "John Sample"
             </div>
         </div>
     </div>
-    {% include example-page-footer.html  page_number="4" %}
+    {% include ars/footer.html page_number="4" %}
 </div>
 
 <!-- Page 6 -->
-<div class="page example-report-wrapper">
-    {% include example-page-header.html %}
+<div class="page report-wrapper">
+    {% include ars/header.html %}
     <div class="container-fluid flex-fill">
         <div class="row pt-10">
             <div class="col-5">
@@ -168,7 +169,7 @@ name:   "John Sample"
                     <li>Ability to formulate a plan to continue</li>
                 </ul>
 
-                {% include result-bar.html title="no" color="purple" display_score="39" max_score="60" percentage="65" %}
+                {% include ars/result-bar.html title="no" color="purple" display_score="39" max_score="60" percentage="65" %}
                 <!-- Percentage = display_score/max_score * 100 -->
 
                 <h6 class="mb-1">Very High Range: 72–90</h6>
@@ -184,12 +185,12 @@ name:   "John Sample"
             </div>
         </div>
     </div>
-    {% include example-page-footer.html  page_number="5" %}
+    {% include ars/footer.html page_number="5" %}
 </div>
 
 <!-- Page 7 -->
-<div class="page example-report-wrapper">
-    {% include example-page-header.html %}
+<div class="page report-wrapper">
+    {% include ars/header.html %}
     <div class="container-fluid flex-fill">
         <div class="row pt-10">
             <div class="col-12">
@@ -204,9 +205,9 @@ name:   "John Sample"
                 </div>
             </div>
             <div class="col-12 text-center mt-5">
-                <img class="img-fluid mx-auto" width="95%" src="{{ site.url }}/assets/images/Adult Resilience_artwork_Bell curve.svg" alt="" />
+                <img class="img-fluid mx-auto" width="95%" src="{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Bell curve.svg" alt="" />
             </div>
         </div>
     </div>
-    {% include example-page-footer.html  page_number="6" %}
+    {% include ars/footer.html page_number="6" %}
 </div>
