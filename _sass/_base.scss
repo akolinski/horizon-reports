@@ -68,14 +68,13 @@ code {
 }
 
 // Custom styles to abstract
-
 .example-report-wrapper {
-  $purple: #65539c;
-  $fuchsia: #e24a67;
-  $orange: #dc623e;
-  $yellow: #efae4e;
-  $green: #4e9383;
-  $navy: #355570;
+  $purple: #65539B;
+  $fuchsia: #E24A66;
+  $orange: #DB623D;
+  $yellow: #EB9D4A;
+  $green: #4D9283;
+  $navy: #345470;
 
   .fill-purple {
     fill: $purple;
@@ -246,11 +245,10 @@ code {
 
   // Styles for the progress bar
   .progress-wrapper {
-    height: 124px;
-    border: solid 1px red;
+    height: 110px;
 
     .score-progress {
-      top: -12px;
+      top: 28px;
       padding-left: 0.7rem;
       padding-right: 1.5rem;
 
@@ -259,7 +257,7 @@ code {
         font-weight: 700;
         font-size: 0.9rem;
         height: 0;
-        top: 45px;
+        top: -4px;
         left: -17px;
       }
 
@@ -269,6 +267,7 @@ code {
       }
 
       .progress-bar-text {
+        top: -45px;
         font-family: $font-family-roboto;
         font-size: 0.9rem;
       }
@@ -301,16 +300,15 @@ code {
         font-weight: 700;
         font-size: 0.9rem;
         height: 0;
-        top: -73px;
+        top: -118px;
         left: 4px;
         padding-left: 100%;
       }
 
-      .arrow-position-2 {
-        top: -63px;
+      .arrow-position {
+        top: -109px;
 
         .result-bar-triangle {
-          border: solid 1px red;
           width: 24px;
         }
 
@@ -326,7 +324,7 @@ code {
           margin: 0;
         }
       }
-
     }
   }
+
 }

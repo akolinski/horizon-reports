@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-02T10:38:24+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-02T10:49:42+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-06-21T00:00:00+10:00</published><updated>2021-06-21T00:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-client-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page example-report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -236,7 +236,7 @@
     &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
-        &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
@@ -254,7 +254,7 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
-        &lt;div class=&quot;arrow-position-2 w-100 position-relative&quot;&gt;
+        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
             &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 90.25%;&quot;&gt;
                 &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
                 &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
@@ -269,7 +269,7 @@
     &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
-        &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
@@ -287,7 +287,7 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position-2 w-100 position-relative&quot;&gt;
+        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
             &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 61.25%;&quot;&gt;
                 &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
                 &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
@@ -302,7 +302,7 @@
     &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
-        &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
@@ -320,7 +320,7 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position-2 w-100 position-relative&quot;&gt;
+        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
             &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 46.25%;&quot;&gt;
                 &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
                 &lt;p class=&quot;arrow-text position-relative&quot;&gt;30&lt;p&gt;
@@ -335,7 +335,7 @@
     &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
-        &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
@@ -353,7 +353,7 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position-2 w-100 position-relative&quot;&gt;
+        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
             &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 51.75%;&quot;&gt;
                 &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-green&quot;/&gt;&lt;/svg&gt;
                 &lt;p class=&quot;arrow-text position-relative&quot;&gt;50&lt;p&gt;
@@ -368,7 +368,7 @@
     &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
-        &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
@@ -386,7 +386,7 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position-2 w-100 position-relative&quot;&gt;
+        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
             &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 85.15%;&quot;&gt;
                 &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
                 &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
@@ -401,7 +401,7 @@
     &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
-        &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
@@ -419,7 +419,7 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position-2 w-100 position-relative&quot;&gt;
+        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
             &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 85.15%;&quot;&gt;
                 &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
                 &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
@@ -476,7 +476,7 @@
     
     &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
-        &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
@@ -494,7 +494,7 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
-        &lt;div class=&quot;arrow-position-2 w-100 position-relative&quot;&gt;
+        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
             &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 90.25%;&quot;&gt;
                 &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
                 &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
@@ -561,7 +561,7 @@
     
     &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
-        &lt;div class=&quot;progress-bar-text d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
@@ -579,7 +579,7 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position-2 w-100 position-relative&quot;&gt;
+        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
             &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 61.25%;&quot;&gt;
                 &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
                 &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
