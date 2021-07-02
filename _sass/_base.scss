@@ -57,7 +57,7 @@ code {
 }
 
 .page-number {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 0.8333rem;
 }
 
@@ -75,6 +75,30 @@ code {
   $yellow: #efae4e;
   $green: #4e9383;
   $navy: #355570;
+
+  .fill-purple {
+    fill: $purple;
+  }
+
+  .fill-fuchsia {
+    fill: $fuchsia;
+  }
+
+  .fill-orange {
+    fill: $orange;
+  }
+
+  .fill-yellow {
+    fill: $yellow;
+  }
+
+  .fill-green {
+    fill: $green;
+  }
+
+  .fill-navy {
+    fill: $navy;
+  }
 
   .text-purple {
     color: $purple;
@@ -222,8 +246,10 @@ code {
   // Styles for the progress bar
   .progress-wrapper {
     height: 124px;
+    border: solid 1px red;
 
     .score-progress {
+      top: -12px;
       padding-left: 0.7rem;
       padding-right: 1.5rem;
 
@@ -278,35 +304,57 @@ code {
         padding-left: 100%;
       }
 
-      .up-arrow {
-        width: 0;
-        height: 0;
-        border-style: inset;
-        border-width: 0 12px 18px 12px;
-        // border-color: transparent transparent #007bff transparent;
-        float: left;
-        transform: rotate(360deg);
-        -ms-transform: rotate(360deg);
-        -moz-transform: rotate(360deg);
-        -webkit-transform: rotate(360deg);
-        -o-transform: rotate(360deg);
-        // Need to position the up arrow
-        left: 50%;
-        top: -60px;
+      //.up-arrow {
+      //  width: 0;
+      //  height: 0;
+      //  border-style: inset;
+      //  border-width: 0 12px 18px 12px;
+      //  // border-color: transparent transparent #007bff transparent;
+      //  float: left;
+      //  transform: rotate(360deg);
+      //  -ms-transform: rotate(360deg);
+      //  -moz-transform: rotate(360deg);
+      //  -webkit-transform: rotate(360deg);
+      //  -o-transform: rotate(360deg);
+      //  // Need to position the up arrow
+      //  left: 50%;
+      //  top: -60px;
+      //
+      //  .arrow-text {
+      //    font-family: $font-family-poppins;
+      //    font-weight: 700;
+      //    font-size: 0.9rem;
+      //    text-align: center;
+      //    top: 18px;
+      //    left: -47px;
+      //    position: relative;
+      //    width: 93px;
+      //    height: 93px;
+      //    margin: 0;
+      //  }
+      //}
+
+      .arrow-position-2 {
+        top: -63px;
+
+        .result-bar-triangle {
+          border: solid 1px red;
+          width: 24px;
+        }
 
         .arrow-text {
           font-family: $font-family-poppins;
           font-weight: 700;
           font-size: 0.9rem;
           text-align: center;
-          top: 18px;
-          left: -47px;
-          position: relative;
+          top: -2px;
+          left: -35px;
           width: 93px;
           height: 93px;
           margin: 0;
         }
       }
+
     }
   }
 }

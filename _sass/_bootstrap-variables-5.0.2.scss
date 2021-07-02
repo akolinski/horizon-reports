@@ -275,25 +275,25 @@
 $spacer: 1rem !default;
 $spacers: (
     0: 0,
-    1: $spacer * .25,
-    2: $spacer * .5,
+    1: $spacer * .4,
+    2: $spacer * .7,
     3: $spacer,
-    4: $spacer * 1.5,
-    5: $spacer * 3,
-    6: $spacer * 3.5,
-    7: $spacer * 4,
-    8: $spacer * 4.5,
-    9: $spacer * 5,
-    10: $spacer * 5.5,
-    11: $spacer * 6,
-    12: $spacer * 6.5,
-    13: $spacer * 7,
-    14: $spacer * 7.5,
-    15: $spacer * 8,
-    16: $spacer * 8.5,
-    17: $spacer * 9,
-    18: $spacer * 9.5,
-    20: $spacer * 10
+    4: $spacer * 1.4,
+    5: $spacer * 1.7,
+    6: $spacer * 2,
+    7: $spacer * 2.4,
+    8: $spacer * 2.7,
+    9: $spacer * 3,
+    10: $spacer * 3.4,
+    11: $spacer * 3.7,
+    12: $spacer * 4,
+    13: $spacer * 4.4,
+    14: $spacer * 4.7,
+    15: $spacer * 5,
+    16: $spacer * 5.4,
+    17: $spacer * 5.7,
+    18: $spacer * 6,
+    20: $spacer * 6.4
 ) !default;
 
 //$negative-spacers: if($enable-negative-margins, negativify-map($spacers), null) !default;
