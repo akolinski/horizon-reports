@@ -248,7 +248,8 @@ code {
     height: 110px;
 
     .score-progress {
-      top: 28px;
+      height: 30px;
+      top: 29px;
       padding-left: 0.7rem;
       padding-right: 1.5rem;
 
@@ -269,7 +270,7 @@ code {
       .progress-bar-text {
         top: -45px;
         font-family: $font-family-roboto;
-        font-size: 0.9rem;
+        font-size: 0.8333rem;
       }
 
       .progress-bar-lines {
