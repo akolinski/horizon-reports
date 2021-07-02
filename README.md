@@ -12,7 +12,7 @@
 
 <p>When you are happy locally with your changes you can run a <code>jekyll build</code> to generate the necessary code for production. Then add, commit and push all your changes to the <code>gh-pages</code> branch. Which will deploy our site to GitHub pages. Viewable:
 
-<p><a href="https://akolinski.github.io/reports/example-report">https://akolinski.github.io/reports/example-report</a></p>
+<p><a href="https://akolinski.github.io/horizon-reports/reports/example-report">https://akolinski.github.io/horizon-reports/reports/example-report</a></p>
 
 <h2>Step 3 - Style with SASS</h2>
 <p class="lead">Jekyll compiles sass out of the box.</p>
@@ -23,7 +23,7 @@
 <p>Reports live in the _posts directory. You’ll find an example report in the <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site by running <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p><a href="http://127.0.0.1:4000/reports/example-report">http://127.0.0.1:4000/reports/example-report</a></p>
-<p><a href="https://akolinski.github.io/reports/example-report">https://akolinski.github.io/reports/example-report</a></p>
+<p><a href="https://akolinski.github.io/horizon-reports/reports/example-report">https://akolinski.github.io/horizon-reports/reports/example-report</a></p>
 
 <p>To add new reports, simply add a file in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-DD-name-of-report.html</code> and includes the necessary front matter. Take a look at the source for one of the example reports to get an idea about how it works.</p>
 
