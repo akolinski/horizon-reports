@@ -9,26 +9,19 @@
             <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">High</p></div>
             <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very High</p></div>
         </div>
-        <div class="progress-bar-lines fw-light mb-1 d-flex w-100">
-            <div class="line d-inline-flex flex-fill"></div>
-            <div class="line d-inline-flex flex-fill"></div>
-            <div class="line d-inline-flex flex-fill"></div>
-            <div class="line d-inline-flex flex-fill"></div>
-            <div class="line d-inline-flex flex-fill"></div>
-        </div>
         <div class="progress position-relative w-100">
             <div class="progress-bar" role="progressbar" style="width: {{ include.percentage }}%;" aria-valuenow="{{ include.display_score }}" aria-valuemin="0" aria-valuemax="{{ include.max_score }}"></div>
         </div>
+        <div class="progress-bar-lines position-relative fw-light mb-1 d-flex w-100">
+            <div class="line d-inline-flex flex-fill"></div>
+            <div class="line d-inline-flex flex-fill"></div>
+            <div class="line d-inline-flex flex-fill"></div>
+            <div class="line d-inline-flex flex-fill"></div>
+            <div class="line d-inline-flex flex-fill"></div>
+        </div>
         <p class="position-relative end-score">{{ include.max_score }}</p>
-<!--        <div class="arrow-position w-100">-->
-<!--            <div class="up-arrow position-relative" style="left: {{ include.percentage | minus: 3.75 }}%;">-->
-<!--                <p class="arrow-text">{{ include.display_score }}<p>-->
-<!--            </div>-->
-<!--        </div>-->
-
         <div class="arrow-position-2 w-100 position-relative">
-<!--            <div class="up-arrow-2 position-absolute" style="left: {{ include.percentage | minus: 3.75 }}%;">-->
-            <div class="up-arrow-2 position-absolute" style="left: {{ include.percentage }}%;">
+            <div class="up-arrow-2 position-absolute" style="left: {{ include.percentage | minus: 3.75 }}%;">
                 <svg class="result-bar-triangle" width="24" height="24" viewBox="0 0 37 31" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18.5 0L36.2535 30.75H0.746479L18.5 0Z" class="fill-{{ include.color }}"/></svg>
                 <p class="arrow-text position-relative">{{ include.display_score }}<p>
             </div>
