@@ -1,5 +1,3 @@
-# Horizon reports
-
 <h1>Horizon reports</h1>
 <p class="lead">Welcome to a Jekyll project built on Bootstrap 5.0.2 to generate horizon reports using PDF Reactor.</p>
 <h2>Step 1 - Setup repository</h2>
@@ -24,8 +22,8 @@
 <h2>Step 4 - Creating reports</h2>
 <p>Reports live in the _posts directory. You’ll find an example report in the <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site by running <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
-<p><a href="http://127.0.0.1:4000/reports/example-report">http://127.0.0.1:4000/reports/example-coaching-report</a></p>
-<p><a href="https://akolinski.github.io/reports/example-report">https://akolinski.github.io/reports/example-coaching-report</a></p>
+<p><a href="http://127.0.0.1:4000/reports/example-report">http://127.0.0.1:4000/reports/example-report</a></p>
+<p><a href="https://akolinski.github.io/reports/example-report">https://akolinski.github.io/reports/example-report</a></p>
 
 <p>To add new reports, simply add a file in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-DD-name-of-report.html</code> and includes the necessary front matter. Take a look at the source for one of the example reports to get an idea about how it works.</p>
 
@@ -37,7 +35,7 @@
 
 <p><code class="d-block">
     {<br>
-    &nbsp;&nbsp;"document": "https://akolinski.github.io/horizon-reports/reports/example-coaching-report",<br>
+    &nbsp;&nbsp;"document": "https://akolinski.github.io/horizon-reports/reports/example-report",<br>
     &nbsp;&nbsp;"conformance": "PDFUA1",<br>
     &nbsp;&nbsp;"addLinks": 1,<br>
     &nbsp;&nbsp;"addBookmarks": 1,<br>
