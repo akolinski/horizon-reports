@@ -19,6 +19,11 @@
       color: #000;
     }
 
+    > :not(caption) > * > * {
+      padding: 3px;
+      box-shadow: none;
+    }
+
     thead {
       background: $dark-gray;
 
