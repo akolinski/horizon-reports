@@ -17,6 +17,13 @@
     border: solid 1px $aqua;
   }
 
+  .border-aqua-accent {
+    border-top: solid 1px $aqua !important;
+    border-right: solid 1px $aqua !important;
+    border-bottom: solid 2px $aqua !important;
+    border-left: solid 2px $aqua !important;
+  }
+
   .table {
     caption {
       background: $aqua;
