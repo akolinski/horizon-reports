@@ -9,6 +9,10 @@
     font-weight: 600;
   }
 
+  .bg-aqua {
+    background: $aqua !important;
+  }
+
   .border-aqua {
     border: solid 1px $aqua;
   }
@@ -19,8 +23,12 @@
       color: #000;
     }
 
+    > :not(:last-child) > :last-child > * {
+      border-bottom: solid 1px $aqua;
+    }
+
     > :not(caption) > * > * {
-      padding: 3px;
+      padding: 2px 5px;
       box-shadow: none;
     }
 
@@ -33,6 +41,10 @@
     }
 
     tr, thead, th, td {
+      border: solid 1px $aqua;
+    }
+
+    thead, tbody, tfoot, tr, td, th {
       border: solid 1px $aqua;
     }
   }
@@ -57,4 +69,13 @@
       border-bottom: solid 1px $aqua;
     }
   }
+}
+
+
+.w-60 {
+  width: 60%;
+}
+
+.w-40 {
+  width: 40%;
 }
