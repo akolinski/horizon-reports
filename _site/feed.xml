@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-07T13:10:01+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report">&lt;!-- Landing page --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-07T17:15:30+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report">&lt;!-- Landing page --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -136,10 +136,10 @@
                 &lt;h3 class=&quot;mb-2&quot;&gt;Results for John Sample&lt;/h3&gt;
                 &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
 
-                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -148,31 +148,26 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 94%;&quot; aria-valuenow=&quot;282&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;300&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 100%;&quot; aria-valuenow=&quot;282&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;300&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 90.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -181,31 +176,26 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 65%;&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 60%;&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 61.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -214,31 +204,26 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 50%;&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 40%;&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 46.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;30&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -247,31 +232,26 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 55.5%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 20%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 51.75%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-green&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;50&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -280,31 +260,26 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 88.9%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 80%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 85.15%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -313,22 +288,17 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 88.9%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 80%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 85.15%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -376,10 +346,10 @@
                     &lt;li&gt;Time needed to bounce back from adversity.&lt;/li&gt;
                     &lt;li&gt;Capacity to cope with stress.&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100&quot;&gt;
+                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
     
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -388,22 +358,17 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 94%;&quot; aria-valuenow=&quot;282&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;300&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 100%;&quot; aria-valuenow=&quot;282&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;300&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 90.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -417,10 +382,10 @@
                     &lt;li&gt;Awareness of potential or actual threat.&lt;/li&gt;
                     &lt;li&gt;Ability to formulate a plan to continue.&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100&quot;&gt;
+                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
     
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -429,22 +394,17 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 65%;&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 60%;&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 61.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -458,10 +418,10 @@
                     &lt;li&gt;Assessment of recovery options.&lt;/li&gt;
                     &lt;li&gt;Flexibility and openness to new circumstances.&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100&quot;&gt;
+                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
     
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -470,22 +430,17 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 50%;&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 40%;&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 46.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;30&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -532,10 +487,10 @@
                     &lt;li&gt;Capacity to make good decisions under pressure.&lt;/li&gt;
                     &lt;li&gt;Capacity to make clear decisions in stressful events.&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100&quot;&gt;
+                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
     
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -544,22 +499,17 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 55.5%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 20%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 51.75%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-green&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;50&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -573,10 +523,10 @@
                     &lt;li&gt;Ability to put stressful events into perspective.&lt;/li&gt;
                     &lt;li&gt;Capacity to activate coping mechanisms in a stressful event.&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100&quot;&gt;
+                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
     
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -585,22 +535,17 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 88.9%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 80%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 85.15%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -614,10 +559,10 @@
                     &lt;li&gt;Speed of self-management after a stressful event.&lt;/li&gt;
                     &lt;li&gt;Return to healthy self after a stressful event.&lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100&quot;&gt;
+                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
     
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
-        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
@@ -626,22 +571,17 @@
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 88.9%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 80%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 85.15%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+        
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -706,7 +646,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-coaching-report">&lt;!-- Page 1 --&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-coaching-report">&lt;!-- Landing page --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-pastel bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -734,7 +674,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;!-- Page 2 --&gt;
+&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
@@ -774,7 +714,7 @@
 
 &lt;/div&gt;
 
-&lt;!-- Page 3 --&gt;
+&lt;!-- Page 2 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
@@ -823,7 +763,7 @@
 
 &lt;/div&gt;
 
-&lt;!-- Page 4 --&gt;
+&lt;!-- Page 3 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
@@ -844,9 +784,9 @@
                 &lt;h3 class=&quot;mb-2&quot;&gt;Results for John Sample&lt;/h3&gt;
                 &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
 
-                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
+                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -858,7 +798,7 @@
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
             &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 94%;&quot; aria-valuenow=&quot;282&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;300&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
@@ -866,20 +806,20 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 90.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
-            &lt;/div&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 92.1%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
         &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
+                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -891,7 +831,7 @@
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
             &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 65%;&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
@@ -899,20 +839,20 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 61.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
-            &lt;/div&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 63.1%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
         &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
+                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -924,7 +864,7 @@
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
             &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 50%;&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
@@ -932,20 +872,20 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 46.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;30&lt;p&gt;
-            &lt;/div&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 48.1%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;30&lt;p&gt;
         &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
+                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -957,7 +897,7 @@
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
             &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 55.5%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
@@ -965,20 +905,20 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 51.75%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-green&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;50&lt;p&gt;
-            &lt;/div&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 53.6%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-green&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;50&lt;p&gt;
         &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
+                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -990,7 +930,7 @@
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
             &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 88.9%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
@@ -998,20 +938,20 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 85.15%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
-            &lt;/div&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 87.0%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
         &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-0 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
+                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -1023,7 +963,7 @@
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
             &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 88.9%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
@@ -1031,12 +971,12 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 85.15%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
-            &lt;/div&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 87.0%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
         &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1058,7 +998,7 @@
 
 &lt;/div&gt;
 
-&lt;!-- Page 5 --&gt;
+&lt;!-- Page 4 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
@@ -1084,9 +1024,9 @@
                     &lt;li&gt;Capacity to cope with stress.&lt;/li&gt;
                 &lt;/ul&gt;
 
-                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100&quot;&gt;
+                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100 ms-3 mt-2 mb-15&quot;&gt;
     
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -1098,7 +1038,7 @@
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
             &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 94%;&quot; aria-valuenow=&quot;282&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;300&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
@@ -1106,27 +1046,26 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 90.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
-            &lt;/div&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 92.1%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
         &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 365–450&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 244–300&lt;/h6&gt;
                 &lt;p&gt;This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 331–364&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 221–243&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience will be able to succeed when faced with significant challenges and serious problems, and have a high capacity to cope with stress.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 262–330&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 175–220&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience have a reasonable capacity to respond to difficult circumstances, to adapt to change and to cope in stressful situations.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 228–261&lt;/h6&gt;
-                &lt;p&gt;Individuals with this level of resilience are likely to find it difficult to succeed
-                    when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–227&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 152–174&lt;/h6&gt;
+                &lt;p&gt;Individuals with this level of resilience are likely to find it difficult to succeed when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–151&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of resilience may frequently find it difficult to progress and to improve their situation when faced with significant challenges. Individuals may be uncomfortable dealing with problems or stress.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -1144,7 +1083,7 @@
 
 &lt;/div&gt;
 
-&lt;!-- Page 6 --&gt;
+&lt;!-- Page 5 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
@@ -1169,9 +1108,9 @@
                     &lt;li&gt;Ability to formulate a plan to continue&lt;/li&gt;
                 &lt;/ul&gt;
 
-                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100&quot;&gt;
+                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100 ms-3 mt-2 mb-15&quot;&gt;
     
-    &lt;div class=&quot;score-progress position-relative mx-2&quot;&gt;
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
             &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
@@ -1183,7 +1122,7 @@
         &lt;div class=&quot;progress position-relative w-100&quot;&gt;
             &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 65%;&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-relative fw-light mb-1 d-flex w-100&quot;&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
@@ -1191,26 +1130,26 @@
             &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
-        &lt;div class=&quot;arrow-position w-100 position-relative&quot;&gt;
-            &lt;div class=&quot;up-arrow-2 position-absolute&quot; style=&quot;left: 61.25%;&quot;&gt;
-                &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
-                &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
-            &lt;/div&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 63.1%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
         &lt;/div&gt;
+        
     &lt;/div&gt;
 &lt;/div&gt;
 
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 72–90&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 48–60&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are very perceptive and acutely aware of their surrounding situation, especially recognising potential or actual problems or threats, and will very quickly formulate a recovery plan.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 65–71&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 44–47&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are more aware of the surrounding environment than others. They will notice problems before they arise and will quickly plan a way forward.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 50–64&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 34–43&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 43–49&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 29–33&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception may be less aware of the surrounding environment. Individuals may only notice problems after they arise.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–42&lt;/h6&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–28&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -1228,7 +1167,343 @@
 
 &lt;/div&gt;
 
+&lt;!-- Page 6 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    &lt;div class=&quot;container-fluid p-0&quot;&gt;
+    &lt;div class=&quot;row g-0 w-100&quot;&gt;
+        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
+            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
+            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Coach Report&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h4 class=&quot;fw-light text-orange&quot;&gt;Adjustment: 30&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to adjust when unexpected events cause disruption.&lt;/li&gt;
+                    &lt;li&gt;Assessment of recovery options.&lt;/li&gt;
+                    &lt;li&gt;Flexibility and openness to new circumstances.&lt;/li&gt;
+                &lt;/ul&gt;
+
+                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 ms-3 mt-2 mb-15&quot;&gt;
+    
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 50%;&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 48.1%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;30&lt;p&gt;
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 54–60&lt;/h6&gt;
+                &lt;p&gt;This level of adjustment indicates a very high ability to adjust to unexpected events that cause disruption, as well as a very high ability to assess subsequent recovery options. Individuals have a very high level of flexibility and openness to new circumstances.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 48–53&lt;/h6&gt;
+                &lt;p&gt;This level of adjustment indicates a high ability to adjust to unexpected events that cause disruption, as well as a high ability to assess subsequent recovery options. Individuals have a high level of flexibility and openness to new circumstances.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 35–47&lt;/h6&gt;
+                &lt;p&gt;This level of adjustment capacity indicates an average ability to continue in the face of difficult circumstances. Individuals have an average ability to assess recovery options and have an average level of flexibility and openness to new circumstances. Individuals may be better than others at noticing when a new approach to a problem is needed.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 29–34&lt;/h6&gt;
+                &lt;p&gt;This level of adjustment capacity indicates a low ability to continue in the face of difficult circumstances. Individuals have limited ability to assess recovery options and are rarely flexible or open to new circumstances.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–28&lt;/h6&gt;
+                &lt;p&gt;This level of adjustment capacity indicates a very low ability to continue in the face of difficult circumstances. Individuals have a very limited ability to assess recovery options and are very rarely flexible or open to new circumstances.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container-fluid p-0&quot;&gt;
+    &lt;div class=&quot;row g-0 w-100&quot;&gt;
+        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
+            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
+            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;6&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
 &lt;!-- Page 7 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    &lt;div class=&quot;container-fluid p-0&quot;&gt;
+    &lt;div class=&quot;row g-0 w-100&quot;&gt;
+        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
+            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
+            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Coach Report&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h4 class=&quot;fw-light text-green&quot;&gt;Decision Making: 43&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to decide on recovery actions.&lt;/li&gt;
+                    &lt;li&gt;Capacity to make good decisions under pressure.&lt;/li&gt;
+                    &lt;li&gt;Capacity to make clear decisions in stressful events.&lt;/li&gt;
+                &lt;/ul&gt;
+
+                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 ms-3 mt-2 mb-15&quot;&gt;
+    
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 71.7%;&quot; aria-valuenow=&quot;43&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 69.8%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;43&lt;p&gt;
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 49–60&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of decision making have a very strong ability to make good decisions under pressure, and to determine recovery actions in the face of difficult circumstances. They have a very high ability to make clear decisions in stressful situations, to assess the available recovery options and to choose the best one.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 44–48&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of decision making have the capacity to make very good decisions under pressure. They have a high ability to make clear decisions in stressful situations, to assess the available recovery options, and to choose the best one.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 32–43&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of decision making have an average ability to make good decisions under pressure. They can determine recovery actions in the face of difficult circumstances and make clear decisions when in stressful situations. Individuals can assess the available recovery options before choosing the best one.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 27–31&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of decision making may have trouble making decisions under pressure. Individuals may find it difficult to assess the available options or to choose one that will help them recover quickly.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–26&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of decision making have very limited ability to make good decisions under pressure and to determine recovery actions in the face of difficult circumstances. They have a poor ability to make clear decisions when in stressful situations. Individuals find it difficult to assess the available recovery options and to choose the best one.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container-fluid p-0&quot;&gt;
+    &lt;div class=&quot;row g-0 w-100&quot;&gt;
+        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
+            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
+            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;7&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;!-- Page 8 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    &lt;div class=&quot;container-fluid p-0&quot;&gt;
+    &lt;div class=&quot;row g-0 w-100&quot;&gt;
+        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
+            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
+            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Coach Report&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h4 class=&quot;fw-light text-fuchsia&quot;&gt;Coping: 53&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Capacity to deal with difficult issues.&lt;/li&gt;
+                    &lt;li&gt;Ability to put stressful events into perspective.&lt;/li&gt;
+                    &lt;li&gt;Capacity to activate coping mechanisms in a stressful event.&lt;/li&gt;
+                &lt;/ul&gt;
+
+                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100 ms-3 mt-2 mb-15&quot;&gt;
+    
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 88.3%;&quot; aria-valuenow=&quot;53&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 86.4%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;53&lt;p&gt;
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 54–60&lt;/h6&gt;
+                &lt;p&gt;This level of coping capacity indicates a very high ability to deal with difficult issues as they arise, as well as a very high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals have a very high ability to act on decisions when under pressure and can readily apply the chosen solution to the problem.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 49–53&lt;/h6&gt;
+                &lt;p&gt;This level of coping capacity indicates a significant ability to deal with difficult issues as they arise, as well as a high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals may find it easier than others to act on decisions when under pressure and can easily apply the chosen solution to the problem.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 38–48&lt;/h6&gt;
+                &lt;p&gt;Individuals within this range of coping have an average capacity to deal with difficult issues as they arise, to put stressful events into perspective and to operate recovery coping mechanisms. They have a reasonable ability to accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals can often apply the chosen solution to the problem.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 32–37&lt;/h6&gt;
+                &lt;p&gt;Individuals have a limited capacity to deal with difficult issues as they arise and to put stressful events into perspective. They can sometimes operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals can sometimes apply the chosen solution to the problem.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–31&lt;/h6&gt;
+                &lt;p&gt;Individuals may find it more difficult than others to act on their decisions when under pressure. They may struggle to apply the chosen solution to the problem. Individuals sometimes require more time to rest and recover before trying to tackle the problem. Individuals may choose options that are easier to implement, even though they may not be the best solutions.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container-fluid p-0&quot;&gt;
+    &lt;div class=&quot;row g-0 w-100&quot;&gt;
+        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
+            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
+            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;8&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;!-- Page 9 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    &lt;div class=&quot;container-fluid p-0&quot;&gt;
+    &lt;div class=&quot;row g-0 w-100&quot;&gt;
+        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
+            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
+            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Coach Report&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h4 class=&quot;fw-light text-yellow&quot;&gt;Recovery: 53&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to plan effectively.&lt;/li&gt;
+                    &lt;li&gt;Speed of self-management after a stressful event.&lt;/li&gt;
+                    &lt;li&gt;Return to healthy self after a stressful event.&lt;/li&gt;
+                &lt;/ul&gt;
+
+                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100 ms-3 mt-2 mb-15&quot;&gt;
+    
+    &lt;div class=&quot;score-progress position-relative&quot;&gt;
+        &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
+        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
+            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 88.3%;&quot; aria-valuenow=&quot;53&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex&quot;&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
+        
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 86.4%;&quot;&gt;
+            &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
+            &lt;p class=&quot;arrow-text position-relative&quot;&gt;53&lt;p&gt;
+        &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range: 54–60&lt;/h6&gt;
+                &lt;p&gt;This level of recovery capacity indicates a very strong ability to plan effectively and to return to normal activity. Individuals recover very quickly after hardship or negative situations.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range: 47–53&lt;/h6&gt;
+                &lt;p&gt;This level of recovery capacity indicates a strong ability to plan effectively and to return to normal activity quickly after hardship or negative situations.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range: 33–46&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of recovery may regain strength and resilience soon after problems are dealt with. Individuals have an average ability to plan effectively and to return to normal activity after hardship or negative situations.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range: 26–32&lt;/h6&gt;
+                &lt;p&gt;This level of recovery capacity indicates a limited ability to plan effectively and to return to normal activity after hardship or negative situations.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range: 0–25&lt;/h6&gt;
+                &lt;p&gt;This level of recovery capacity indicates a very limited ability to plan effectively and to return to normal activity after hardship or negative situations.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container-fluid p-0&quot;&gt;
+    &lt;div class=&quot;row g-0 w-100&quot;&gt;
+        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
+            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
+            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;9&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;!-- Page 10 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid p-0&quot;&gt;
     &lt;div class=&quot;row g-0 w-100&quot;&gt;
@@ -1265,7 +1540,7 @@
             &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
-            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;6&lt;/p&gt;
+            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;10&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
