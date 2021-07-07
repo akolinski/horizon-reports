@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-07T13:00:04+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report">&lt;!-- Landing page --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-07T13:10:01+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report">&lt;!-- Landing page --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -411,7 +411,7 @@
                 &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range&lt;/h6&gt;
                 &lt;p&gt;This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.&lt;/p&gt;
 
-                &lt;h4 class=&quot;fw-light text-purple mt-6&quot;&gt;Threat Perception&lt;/h4&gt;
+                &lt;h4 class=&quot;fw-light text-purple mt-3&quot;&gt;Threat Perception&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Perceptive ability or situational awareness.&lt;/li&gt;
                     &lt;li&gt;Awareness of potential or actual threat.&lt;/li&gt;
@@ -452,7 +452,7 @@
                 &lt;h6 class=&quot;mb-1&quot;&gt;Average Range&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.&lt;/p&gt;
 
-                &lt;h4 class=&quot;fw-light text-orange mt-6&quot;&gt;Adjustment&lt;/h4&gt;
+                &lt;h4 class=&quot;fw-light text-orange mt-3&quot;&gt;Adjustment&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Ability to adjust when unexpected events cause disruption.&lt;/li&gt;
                     &lt;li&gt;Assessment of recovery options.&lt;/li&gt;
@@ -567,7 +567,7 @@
                 &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range&lt;/h6&gt;
                 &lt;p&gt;Individuals at this level of decision making have very limited ability to make good decisions under pressure and to determine recovery actions in the face of difficult circumstances. They have a poor ability to make clear decisions when in stressful situations. Individuals find it difficult to assess the available recovery options and to choose the best one.&lt;/p&gt;
 
-                &lt;h4 class=&quot;fw-light text-fuchsia mt-6&quot;&gt;Coping&lt;/h4&gt;
+                &lt;h4 class=&quot;fw-light text-fuchsia mt-3&quot;&gt;Coping&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Capacity to deal with difficult issues.&lt;/li&gt;
                     &lt;li&gt;Ability to put stressful events into perspective.&lt;/li&gt;
@@ -608,7 +608,7 @@
                 &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
                 &lt;p&gt;This level of coping capacity indicates a significant ability to deal with difficult issues as they arise, as well as a high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals may find it easier than others to act on decisions when under pressure and can easily apply the chosen solution to the problem.&lt;/p&gt;
 
-                &lt;h4 class=&quot;fw-light text-yellow mt-6&quot;&gt;Recovery&lt;/h4&gt;
+                &lt;h4 class=&quot;fw-light text-yellow mt-3&quot;&gt;Recovery&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Ability to plan effectively.&lt;/li&gt;
                     &lt;li&gt;Speed of self-management after a stressful event.&lt;/li&gt;
