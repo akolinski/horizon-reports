@@ -21,7 +21,7 @@
         </div>
         {% if include.simple!='yes' %}<p class="position-relative end-score">{{ include.max_score }}</p>{% endif %}
         {% if include.simple!='yes' %}
-        <div class="arrow-position position-absolute" style="left: {{ include.percentage | minus: 2.3 }}%;">
+        <div class="arrow-position position-absolute" style="left: {{ include.percentage | minus: 3 }}%;">
             <svg class="result-bar-triangle" width="24" height="24" viewBox="0 0 37 31" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18.5 0L36.2535 30.75H0.746479L18.5 0Z" class="fill-{{ include.color }}"/></svg>
             <p class="arrow-text position-relative">{{ include.display_score }}<p>
         </div>
