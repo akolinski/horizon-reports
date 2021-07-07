@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-07T17:15:30+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report">&lt;!-- Landing page --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-07T17:37:08+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report">&lt;!-- Landing page --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -137,7 +137,7 @@
                 &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
 
                 &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -165,7 +165,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -193,7 +193,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -221,7 +221,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -249,7 +249,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -277,7 +277,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -376,7 +376,7 @@
                 &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range&lt;/h6&gt;
                 &lt;p&gt;This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.&lt;/p&gt;
 
-                &lt;h4 class=&quot;fw-light text-purple mt-3&quot;&gt;Threat Perception&lt;/h4&gt;
+                &lt;h4 class=&quot;fw-light text-purple mt-6&quot;&gt;Threat Perception&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Perceptive ability or situational awareness.&lt;/li&gt;
                     &lt;li&gt;Awareness of potential or actual threat.&lt;/li&gt;
@@ -412,7 +412,7 @@
                 &lt;h6 class=&quot;mb-1&quot;&gt;Average Range&lt;/h6&gt;
                 &lt;p&gt;Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.&lt;/p&gt;
 
-                &lt;h4 class=&quot;fw-light text-orange mt-3&quot;&gt;Adjustment&lt;/h4&gt;
+                &lt;h4 class=&quot;fw-light text-orange mt-6&quot;&gt;Adjustment&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Ability to adjust when unexpected events cause disruption.&lt;/li&gt;
                     &lt;li&gt;Assessment of recovery options.&lt;/li&gt;
@@ -517,7 +517,7 @@
                 &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range&lt;/h6&gt;
                 &lt;p&gt;Individuals at this level of decision making have very limited ability to make good decisions under pressure and to determine recovery actions in the face of difficult circumstances. They have a poor ability to make clear decisions when in stressful situations. Individuals find it difficult to assess the available recovery options and to choose the best one.&lt;/p&gt;
 
-                &lt;h4 class=&quot;fw-light text-fuchsia mt-3&quot;&gt;Coping&lt;/h4&gt;
+                &lt;h4 class=&quot;fw-light text-fuchsia mt-6&quot;&gt;Coping&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Capacity to deal with difficult issues.&lt;/li&gt;
                     &lt;li&gt;Ability to put stressful events into perspective.&lt;/li&gt;
@@ -553,7 +553,7 @@
                 &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
                 &lt;p&gt;This level of coping capacity indicates a significant ability to deal with difficult issues as they arise, as well as a high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals may find it easier than others to act on decisions when under pressure and can easily apply the chosen solution to the problem.&lt;/p&gt;
 
-                &lt;h4 class=&quot;fw-light text-yellow mt-3&quot;&gt;Recovery&lt;/h4&gt;
+                &lt;h4 class=&quot;fw-light text-yellow mt-6&quot;&gt;Recovery&lt;/h4&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Ability to plan effectively.&lt;/li&gt;
                     &lt;li&gt;Speed of self-management after a stressful event.&lt;/li&gt;
@@ -785,7 +785,7 @@
                 &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
 
                 &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -807,7 +807,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 92.1%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 91.7%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
         &lt;/div&gt;
@@ -818,7 +818,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -840,7 +840,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 63.1%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 62.7%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
         &lt;/div&gt;
@@ -851,7 +851,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -873,7 +873,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 48.1%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 47.7%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;30&lt;p&gt;
         &lt;/div&gt;
@@ -884,7 +884,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -906,7 +906,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 53.6%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 53.2%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-green&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;50&lt;p&gt;
         &lt;/div&gt;
@@ -917,7 +917,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -939,7 +939,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 87.0%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 86.6%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
         &lt;/div&gt;
@@ -950,7 +950,7 @@
                 &lt;!-- Percentage = display_score/max_score * 100 --&gt;
 
                 &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100 ms-3 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-3 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
+    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
     &lt;div class=&quot;score-progress position-relative&quot;&gt;
         &lt;p class=&quot;position-relative zero-score&quot;&gt;0&lt;/p&gt;
         &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
@@ -972,7 +972,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 87.0%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 86.6%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;80&lt;p&gt;
         &lt;/div&gt;
@@ -1047,7 +1047,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 92.1%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 91.7%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;282&lt;p&gt;
         &lt;/div&gt;
@@ -1131,7 +1131,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 63.1%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 62.7%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;39&lt;p&gt;
         &lt;/div&gt;
@@ -1215,7 +1215,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 48.1%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 47.7%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;30&lt;p&gt;
         &lt;/div&gt;
@@ -1299,7 +1299,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 69.8%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 69.4%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;43&lt;p&gt;
         &lt;/div&gt;
@@ -1383,7 +1383,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 86.4%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 86.0%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;53&lt;p&gt;
         &lt;/div&gt;
@@ -1467,7 +1467,7 @@
         &lt;/div&gt;
         &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
         
-        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 86.4%;&quot;&gt;
+        &lt;div class=&quot;arrow-position position-absolute&quot; style=&quot;left: 86.0%;&quot;&gt;
             &lt;svg class=&quot;result-bar-triangle&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
             &lt;p class=&quot;arrow-text position-relative&quot;&gt;53&lt;p&gt;
         &lt;/div&gt;

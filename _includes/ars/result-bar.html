@@ -1,5 +1,5 @@
 <div class="{{ include.color }}-progress progress-wrapper d-inline-block w-100{% if include.extra_classes!='' %} {{ include.extra_classes }}{% endif %}">
-    {% if include.title!='no' %}<h4 class="h5 fw-light mb-3 result-bar-heading">{{ include.title }}</h4>{% endif %}
+    {% if include.title!='no' %}<h4 class="h5 fw-light mb-4 result-bar-heading">{{ include.title }}</h4>{% endif %}
     <div class="score-progress position-relative">
         {% if include.simple!='yes' %}<p class="position-relative zero-score">0</p>{% endif %}
         <div class="progress-bar-text position-relative d-flex w-100">
@@ -21,7 +21,7 @@
         </div>
         {% if include.simple!='yes' %}<p class="position-relative end-score">{{ include.max_score }}</p>{% endif %}
         {% if include.simple!='yes' %}
-        <div class="arrow-position position-absolute" style="left: {{ include.percentage | minus: 1.9 }}%;">
+        <div class="arrow-position position-absolute" style="left: {{ include.percentage | minus: 2.3 }}%;">
             <svg class="result-bar-triangle" width="24" height="24" viewBox="0 0 37 31" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18.5 0L36.2535 30.75H0.746479L18.5 0Z" class="fill-{{ include.color }}"/></svg>
             <p class="arrow-text position-relative">{{ include.display_score }}<p>
         </div>
