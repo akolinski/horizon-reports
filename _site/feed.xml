@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-08T17:21:18+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-writing-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-08T20:39:26+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-writing-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
@@ -97,11 +97,9 @@
                 &lt;p&gt;The purpose of this short indicator assessment is to check the current skill levels of candidates in both Reading and
                 Numeracy. Unlike the full CSPA assessments in Reading &amp; Numeracy, the SRNI does not provide an ACSF* level estimate.
                 Instead, the results provide an indication of whether a candidate is above or below ACSF Exit Level 2 in each of these key
-                skills. Please note that candidates who have been assessed by SRNI as being above ACSF Exit Level 2 may well be
-                    performing at much higher levels of the ACSF.&lt;/p&gt;
+                skills. Please note that candidates who have been assessed by SRNI as being above ACSF Exit Level 2 may well be performing at much higher levels of the ACSF.&lt;/p&gt;
                 &lt;p&gt;Any candidates identified by the SRNI as below Exit Level 2 of the ACSF should undertake a more comprehensive
-                assessment of their LLN skills using the full suite of CSPA assessments and potentially be targeted for specific LLN support
-                    programs.&lt;/p&gt;
+                assessment of their LLN skills using the full suite of CSPA assessments and potentially be targeted for specific LLN support programs.&lt;/p&gt;
                 &lt;p&gt;*ACSF = Australian Core Skills Framework&lt;/p&gt;
 
                 &lt;table class=&quot;table&quot;&gt;
@@ -131,8 +129,8 @@
                             &lt;td class=&quot;border-0 w-90&quot;&gt;&lt;/td&gt;
                             &lt;td class=&quot;text-end border-0 d-block border-aqua-accent float-end w-100&quot;&gt;188&lt;/td&gt;
                         &lt;/tr&gt;
-                 &lt;/table&gt;
                     &lt;/tbody&gt;
+                 &lt;/table&gt;
 
             &lt;/div&gt;
         &lt;/div&gt;
