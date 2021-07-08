@@ -1,210 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-08T11:48:53+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="http://localhost:4000/reports/cspa-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>http://localhost:4000/reports/cspa-report</id><content type="html" xml:base="http://localhost:4000/reports/cspa-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-08T17:21:18+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-writing-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
-        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt; cw&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt; 17-12-2018&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt; Cam Cam&lt;/li&gt;
+        &lt;ul class=&quot;list-table row row-cols-2 mb-1&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
             &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt; CSPA Numeracy&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt; cw&lt;/li&gt;
-            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt; working at level 1 / not yet achieved&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt; 41&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Combined Score:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col w-100 border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;p class=&quot;my-1&quot;&gt;*ACSF = Australian Core Skills Framework&lt;/p&gt;
         &lt;/ul&gt;
-        &lt;div class=&quot;row mt-3&quot;&gt;
+        &lt;div class=&quot;row mt-0&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;table class=&quot;table caption-top&quot;&gt;
-                    &lt;caption class=&quot;fw-bold py-1 ps-2&quot;&gt;Assessment Question Summary:&lt;/caption&gt;
-                    &lt;thead class=&quot;text-center&quot;&gt;
-                        &lt;tr&gt;
-                            &lt;th&gt;No.&lt;/th&gt;
-                            &lt;th&gt;Description. The candidate can:&lt;/th&gt;
-                            &lt;th&gt;Area&lt;/th&gt;
-                            &lt;th&gt;Result&lt;/th&gt;
-                            &lt;th&gt;ACSF&lt;/th&gt;
-                        &lt;/tr&gt;
-                    &lt;/thead&gt;
-                    &lt;tbody&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1&lt;/td&gt;
-                            &lt;td&gt;interpret data and statements to comprehend a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;3.09 3.11&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;2&lt;/td&gt;
-                            &lt;td&gt;read and interpret maximum value on a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;3&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;4&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;5&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;6&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;7&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;8&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;9&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;10&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;11&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;12&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;13&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;14&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;15&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;16&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;17&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;18&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;19&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;20&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;21&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;22&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;23&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;24&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                        &lt;tr&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;25&lt;/td&gt;
-                            &lt;td&gt;estimate mean value from a graph.&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;S &amp; P&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;N/A&lt;/td&gt;
-                            &lt;td class=&quot;text-center&quot;&gt;1.09 1.10&lt;/td&gt;
-                        &lt;/tr&gt;
-                    &lt;/tbody&gt;
-                &lt;/table&gt;
-                &lt;p class=&quot;mb-0 fst-italic fw-light&quot;&gt;* N/A: Not attempted&lt;/p&gt;
-                &lt;p class=&quot;mb-0 fst-italic fw-bold&quot;&gt;** N &amp; A: Number and algebra; S &amp; P: Statistics and probability; M &amp; G: Measurement and geometry;&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -215,50 +26,575 @@
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
-        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt; cw&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt; 17-12-2018&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt; Cam Cam&lt;/li&gt;
+        &lt;ul class=&quot;list-table row row-cols-2 mb-1&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
             &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt; CSPA Numeracy&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt; cw&lt;/li&gt;
-            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt; working at level 1 / not yet achieved&lt;/li&gt;
-            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt; 41&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Combined Score:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col w-100 border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
         &lt;/ul&gt;
-        &lt;div class=&quot;row mt-3&quot;&gt;
+        &lt;div class=&quot;row mt-0&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;table class=&quot;table caption-top&quot;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include cspa/footer.html %}
+&lt;/div&gt;
+
+&lt;!-- Page 3 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include cspa/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
+        &lt;ul class=&quot;list-table row row-cols-2 mb-1&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Combined Score:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col w-100 border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;row py-6&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;table class=&quot;table&quot;&gt;
                     &lt;thead class=&quot;bg-aqua&quot;&gt;
                         &lt;tr&gt;
-                            &lt;th class=&quot;fw-bold py-1&quot;&gt;Numeracy Ability Description&lt;/th&gt;
-                            &lt;th&gt;&lt;/th&gt;
+                            &lt;th class=&quot;fw-bold text-capitalize py-1&quot;&gt;WRITING RECOMMENDATION&lt;/th&gt;
                         &lt;/tr&gt;
                     &lt;/thead&gt;
-                    &lt;tbody&gt;
-                    &lt;tr&gt;
-                        &lt;td class=&quot;w-60 p-109219837
-  &quot;&gt;
-                            &lt;p class=&quot;mb-0&quot;&gt;LI: learners are likely to be able to locate, recognise and use key mathematical information in simple and highly familiar activities, including to:&lt;/p&gt;
-                            &lt;p class=&quot;mb-0&quot;&gt;
-                                &lt;ul&gt;
-                                    &lt;li&gt;compare, add and subtract whole number amounts (in to the 100s) including with money;&lt;/li&gt;
-                                    &lt;li&gt;recognise, compare and measure familiar shapes and objects using basic metric measurements and quantities;&lt;/li&gt;
-                                    &lt;li&gt;compare information and data within highly familiar simple texts, lists, graphs and tables;&lt;/li&gt;
-                                    &lt;li&gt;give and follow simple and familiar oral directions.&lt;/li&gt;
-                                &lt;/ul&gt;
-                            &lt;/p&gt;
-                        &lt;/td&gt;
-                        &lt;td class=&quot;w-40&quot;&gt;
+                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;
 
-                        &lt;/td&gt;
-                    &lt;/tr&gt;
+                            &lt;/td&gt;
+                        &lt;/tr&gt;
                     &lt;/tbody&gt;
                 &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     {% include cspa/footer.html %}
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Username: cw Date: 17-12-2018 Name: Cam Cam Unique ID: Skill: CSPA Numeracy Key Tag: cw ACSF level estimate: working at level 1 / not yet achieved Scale score estimate: 41 Assessment Question Summary: No. Description. The candidate can: Area Result ACSF 1 interpret data and statements to comprehend a graph. S &amp; P N/A 3.09 3.11 2 read and interpret maximum value on a graph. S &amp; P N/A 1.09 1.10 3 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 4 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 5 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 6 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 7 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 8 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 9 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 10 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 11 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 12 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 13 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 14 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 15 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 16 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 17 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 18 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 19 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 20 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 21 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 22 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 23 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 24 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 25 estimate mean value from a graph. S &amp; P N/A 1.09 1.10 * N/A: Not attempted ** N &amp; A: Number and algebra; S &amp; P: Statistics and probability; M &amp; G: Measurement and geometry; Australian Council for Educational Research</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="http://localhost:4000/reports/ars-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>http://localhost:4000/reports/ars-coaching-report</id><content type="html" xml:base="http://localhost:4000/reports/ars-coaching-report">&lt;!-- Landing page --&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Username: Date: Name: Unique ID: Skill: Key Tag: Scale score estimate: Combined Score: ACSF level estimate: *ACSF = Australian Core Skills Framework Australian Council for Educational Research</summary></entry><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-srni-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-srni-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-srni-report">&lt;!-- Page 1 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include cspa/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
+        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;row mt-3&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;p&gt;The purpose of this short indicator assessment is to check the current skill levels of candidates in both Reading and
+                Numeracy. Unlike the full CSPA assessments in Reading &amp; Numeracy, the SRNI does not provide an ACSF* level estimate.
+                Instead, the results provide an indication of whether a candidate is above or below ACSF Exit Level 2 in each of these key
+                skills. Please note that candidates who have been assessed by SRNI as being above ACSF Exit Level 2 may well be
+                    performing at much higher levels of the ACSF.&lt;/p&gt;
+                &lt;p&gt;Any candidates identified by the SRNI as below Exit Level 2 of the ACSF should undertake a more comprehensive
+                assessment of their LLN skills using the full suite of CSPA assessments and potentially be targeted for specific LLN support
+                    programs.&lt;/p&gt;
+                &lt;p&gt;*ACSF = Australian Core Skills Framework&lt;/p&gt;
+
+                &lt;table class=&quot;table&quot;&gt;
+                    &lt;thead&gt;
+                        &lt;tr&gt;
+                            &lt;th class=&quot;bg-light-aqua w-90&quot;&gt;Reading&lt;/th&gt;
+                            &lt;th class=&quot;fw-bold text-end bg-aqua&quot;&gt;TOTAL&lt;/th&gt;
+                        &lt;/tr&gt;
+                    &lt;/thead&gt;
+                    &lt;tbody class=&quot;fill-tbody-20&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;border-0 w-90&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-end border-0 d-block border-aqua-accent float-end w-100&quot;&gt;282&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/tbody&gt;
+                &lt;/table&gt;
+
+                 &lt;table class=&quot;table&quot;&gt;
+                    &lt;thead&gt;
+                        &lt;tr&gt;
+                            &lt;th class=&quot;bg-light-aqua w-90&quot;&gt;Numeracy&lt;/th&gt;
+                            &lt;th class=&quot;fw-bold text-end bg-aqua&quot;&gt;TOTAL&lt;/th&gt;
+                        &lt;/tr&gt;
+                    &lt;/thead&gt;
+                    &lt;tbody class=&quot;fill-tbody-20&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;border-0 w-90&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-end border-0 d-block border-aqua-accent float-end w-100&quot;&gt;188&lt;/td&gt;
+                        &lt;/tr&gt;
+                 &lt;/table&gt;
+                    &lt;/tbody&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include cspa/footer.html %}
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Username: Date: Name: Unique ID: Summary: Key Tag: The purpose of this short indicator assessment is to check the current skill levels of candidates in both Reading and Numeracy. Unlike the full CSPA assessments in Reading &amp; Numeracy, the SRNI does not provide an ACSF* level estimate. Instead, the results provide an indication of whether a candidate is above or below ACSF Exit Level 2 in each of these key skills. Please note that candidates who have been assessed by SRNI as being above ACSF Exit Level 2 may well be performing at much higher levels of the ACSF. Any candidates identified by the SRNI as below Exit Level 2 of the ACSF should undertake a more comprehensive assessment of their LLN skills using the full suite of CSPA assessments and potentially be targeted for specific LLN support programs. *ACSF = Australian Core Skills Framework</summary></entry><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report-test" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report-test</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report-test">&lt;!-- Landing page --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12 mt-12&quot;&gt;
+                &lt;h2&gt;John Sample&lt;br&gt;
+                &lt;date class=&quot;fw-light&quot;&gt;11.06.2021&lt;/date&gt;&lt;/h2&gt;
+                &lt;img class=&quot;img-fluid position-absolute colourful-tree-img&quot; width=&quot;560px&quot; src=&quot;{{ site.url }}/assets/images/ars/colourful-tree.svg&quot; alt=&quot;&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container-fluid flex-fill bg-pastel&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;h1 class=&quot;mt-12&quot;&gt;Adult Resilience Scale&lt;br&gt;
+                    &lt;span class=&quot;fw-light&quot;&gt;Client Report&lt;/span&gt;&lt;/h1&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container-fluid pb-12 bg-pastel&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;img class=&quot;float-end&quot; width=&quot;130px&quot; src=&quot;{{ site.url }}/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Page 1 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+                &lt;h2&gt;Definition of&lt;br&gt; Resilience&lt;/h2&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;p&gt;Many people have encountered an adverse experience at some point in their lives. Yet, some bounce back quickly while others endure the negativity for a longer period. A distinguishing factor between these people is their level of resilience.&lt;/p&gt;
+                &lt;p&gt;Resilience has been widely defined as the ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Resilience has also been recognised as a measure of stress and the ability to cope with negative events, and can thus be defined as the personal qualities that enable an individual to thrive in difficult circumstances.&lt;/p&gt;
+                &lt;p&gt;Research suggests that resilient people adapt more successfully in response to major life events and traumatic experiences (Sarkar &amp; Fletcher, 2014). Research also shows that resilience is not necessarily related to personality or intelligence (Carver &amp; Connor-Smith, 2010).&lt;/p&gt;
+                &lt;h3 class=&quot;mt-4 mb-2&quot;&gt;Interpreting the Adult Resilience Scale Scores&lt;/h3&gt;
+                &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;1&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 2 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h3 class=&quot;mb-2&quot;&gt;Model of Resilience&lt;/h3&gt;
+                &lt;p&gt;The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Threat Perception&lt;/h6&gt;
+                &lt;p&gt;Awareness of potential or actual threat and ability to formulate a plan.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Adjustment&lt;/h6&gt;
+                &lt;p&gt;Ability to adjust when unexpected events cause disruption.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Decision Making&lt;/h6&gt;
+                &lt;p&gt;Ability to make clear decisions during stressful situations.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Coping&lt;/h6&gt;
+                &lt;p&gt;Capacity to deal with stressful events and ability to return to normal routine.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Recovery&lt;/h6&gt;
+                &lt;p&gt;Speed of returning to normal activity after challenging situations.&lt;/p&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 text-center mt-3&quot;&gt;
+                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;515px&quot; src=&quot;{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Figure.svg&quot; alt=&quot;&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;2&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 3 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h3 class=&quot;mb-2&quot;&gt;Results for John Sample&lt;/h3&gt;
+                &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
+
+                {% include ars/result-bar.html title=&quot;Total Resilience&quot; color=&quot;navy&quot; display_score=&quot;282&quot; max_score=&quot;300&quot; percentage=&quot;100&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Threat Perception&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;60&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Adjustment&quot; color=&quot;orange&quot; display_score=&quot;30&quot; max_score=&quot;60&quot; percentage=&quot;40&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Decision Making&quot; color=&quot;green&quot; display_score=&quot;50&quot; max_score=&quot;90&quot; percentage=&quot;20&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Coping&quot; color=&quot;fuchsia&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Recovery&quot; color=&quot;yellow&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;3&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 4 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h2 class=&quot;h3 text-dark mb-2&quot;&gt;Dimensions and Intervals&lt;/h2&gt;
+
+                &lt;h4 class=&quot;fw-light text-navy&quot;&gt;Total Resilience&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to adapt.&lt;/li&gt;
+                    &lt;li&gt;Time needed to bounce back from adversity.&lt;/li&gt;
+                    &lt;li&gt;Capacity to cope with stress.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;navy&quot; display_score=&quot;282&quot; max_score=&quot;300&quot; percentage=&quot;100&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range&lt;/h6&gt;
+                &lt;p&gt;Individuals with this level of resilience are likely to find it difficult to succeed when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.&lt;/p&gt;
+
+                &lt;h4 class=&quot;fw-light text-purple mt-5&quot;&gt;Threat Perception&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Perceptive ability or situational awareness.&lt;/li&gt;
+                    &lt;li&gt;Awareness of potential or actual threat.&lt;/li&gt;
+                    &lt;li&gt;Ability to formulate a plan to continue.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;60&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range&lt;/h6&gt;
+                &lt;p&gt;Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.&lt;/p&gt;
+
+                &lt;h4 class=&quot;fw-light text-orange mt-5&quot;&gt;Adjustment&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to adjust when unexpected events cause disruption.&lt;/li&gt;
+                    &lt;li&gt;Assessment of recovery options.&lt;/li&gt;
+                    &lt;li&gt;Flexibility and openness to new circumstances.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;orange&quot; display_score=&quot;30&quot; max_score=&quot;60&quot; percentage=&quot;40&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range&lt;/h6&gt;
+                &lt;p&gt;This level of adjustment capacity indicates an average ability to continue in the face of difficult circumstances. Individuals have an average ability to assess recovery options and have an average level of flexibility and openness to new circumstances. Individuals may be better than others at noticing when a new approach to a problem is needed.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;4&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 5 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h4 class=&quot;fw-light text-green&quot;&gt;Decision Making&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to decide on recovery actions.&lt;/li&gt;
+                    &lt;li&gt;Capacity to make good decisions under pressure.&lt;/li&gt;
+                    &lt;li&gt;Capacity to make clear decisions in stressful events.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;green&quot; display_score=&quot;50&quot; max_score=&quot;90&quot; percentage=&quot;20&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of decision making have very limited ability to make good decisions under pressure and to determine recovery actions in the face of difficult circumstances. They have a poor ability to make clear decisions when in stressful situations. Individuals find it difficult to assess the available recovery options and to choose the best one.&lt;/p&gt;
+
+                &lt;h4 class=&quot;fw-light text-fuchsia mt-5&quot;&gt;Coping&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Capacity to deal with difficult issues.&lt;/li&gt;
+                    &lt;li&gt;Ability to put stressful events into perspective.&lt;/li&gt;
+                    &lt;li&gt;Capacity to activate coping mechanisms in a stressful event.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;fuchsia&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
+                &lt;p&gt;This level of coping capacity indicates a significant ability to deal with difficult issues as they arise, as well as a high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals may find it easier than others to act on decisions when under pressure and can easily apply the chosen solution to the problem.&lt;/p&gt;
+
+                &lt;h4 class=&quot;fw-light text-yellow mt-5&quot;&gt;Recovery&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to plan effectively.&lt;/li&gt;
+                    &lt;li&gt;Speed of self-management after a stressful event.&lt;/li&gt;
+                    &lt;li&gt;Return to healthy self after a stressful event.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;yellow&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of recovery may regain strength and resilience soon after problems are dealt with. Individuals have an average ability to plan effectively and to return to normal activity after hardship or negative situations.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;5&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 6 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;div class=&quot;row&quot;&gt;
+                    &lt;div class=&quot;col-5&quot;&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                        &lt;h3 class=&quot;mb-2&quot;&gt;Adult Resilience Scale and Bell Curve Distribution&lt;/h3&gt;
+                        &lt;p&gt;A bell curve is the informal name of a graph that depicts a normal probability distribution. The raw scores on the Adult Resilience Scale are best viewed in the below bell curve distribution. The bell curve represents a ‘normal distribution’ of the general population. A normal distribution has the average (or mean) centred and an equal distribution above and below average like the curve below. The bell curve assumes there is an equivalent number of people above and below average, and a very small number of people two standard deviations above and below the average (mean).&lt;/p&gt;
+                        &lt;p&gt;The raw scores on the Adult Resilience Scale are converted to mean (average) scores and standard deviations across five intervals ranging from Very Low, Low, Average, High, and Very High.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 text-center mt-5&quot;&gt;
+                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;95%&quot; src=&quot;{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Bell curve.svg&quot; alt=&quot;&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;6&quot; %}
+&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report">&lt;!-- Landing page --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12 mt-12&quot;&gt;
+                &lt;h2&gt;John Sample&lt;br&gt;
+                &lt;date class=&quot;fw-light&quot;&gt;11.06.2021&lt;/date&gt;&lt;/h2&gt;
+                &lt;img class=&quot;img-fluid position-absolute colourful-tree-img&quot; width=&quot;560px&quot; src=&quot;{{ site.url }}/assets/images/ars/colourful-tree.svg&quot; alt=&quot;&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container-fluid flex-fill bg-pastel&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;h1 class=&quot;mt-12&quot;&gt;Adult Resilience Scale&lt;br&gt;
+                    &lt;span class=&quot;fw-light&quot;&gt;Client Report&lt;/span&gt;&lt;/h1&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container-fluid pb-12 bg-pastel&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;img class=&quot;float-end&quot; width=&quot;130px&quot; src=&quot;{{ site.url }}/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Page 1 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+                &lt;h2&gt;Definition of&lt;br&gt; Resilience&lt;/h2&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;p&gt;Many people have encountered an adverse experience at some point in their lives. Yet, some bounce back quickly while others endure the negativity for a longer period. A distinguishing factor between these people is their level of resilience.&lt;/p&gt;
+                &lt;p&gt;Resilience has been widely defined as the ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Resilience has also been recognised as a measure of stress and the ability to cope with negative events, and can thus be defined as the personal qualities that enable an individual to thrive in difficult circumstances.&lt;/p&gt;
+                &lt;p&gt;Research suggests that resilient people adapt more successfully in response to major life events and traumatic experiences (Sarkar &amp; Fletcher, 2014). Research also shows that resilience is not necessarily related to personality or intelligence (Carver &amp; Connor-Smith, 2010).&lt;/p&gt;
+                &lt;h3 class=&quot;mt-4 mb-2&quot;&gt;Interpreting the Adult Resilience Scale Scores&lt;/h3&gt;
+                &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;1&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 2 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h3 class=&quot;mb-2&quot;&gt;Model of Resilience&lt;/h3&gt;
+                &lt;p&gt;The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Threat Perception&lt;/h6&gt;
+                &lt;p&gt;Awareness of potential or actual threat and ability to formulate a plan.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Adjustment&lt;/h6&gt;
+                &lt;p&gt;Ability to adjust when unexpected events cause disruption.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Decision Making&lt;/h6&gt;
+                &lt;p&gt;Ability to make clear decisions during stressful situations.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Coping&lt;/h6&gt;
+                &lt;p&gt;Capacity to deal with stressful events and ability to return to normal routine.&lt;/p&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Recovery&lt;/h6&gt;
+                &lt;p&gt;Speed of returning to normal activity after challenging situations.&lt;/p&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 text-center mt-3&quot;&gt;
+                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;515px&quot; src=&quot;{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Figure.svg&quot; alt=&quot;&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;2&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 3 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h3 class=&quot;mb-2&quot;&gt;Results for John Sample&lt;/h3&gt;
+                &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
+
+                {% include ars/result-bar.html title=&quot;Total Resilience&quot; color=&quot;navy&quot; display_score=&quot;282&quot; max_score=&quot;300&quot; percentage=&quot;100&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Threat Perception&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;60&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Adjustment&quot; color=&quot;orange&quot; display_score=&quot;30&quot; max_score=&quot;60&quot; percentage=&quot;40&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Decision Making&quot; color=&quot;green&quot; display_score=&quot;50&quot; max_score=&quot;90&quot; percentage=&quot;20&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Coping&quot; color=&quot;fuchsia&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+                {% include ars/result-bar.html title=&quot;Recovery&quot; color=&quot;yellow&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;3&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 4 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h2 class=&quot;h3 text-dark mb-2&quot;&gt;Dimensions and Intervals&lt;/h2&gt;
+
+                &lt;h4 class=&quot;fw-light text-navy&quot;&gt;Total Resilience&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to adapt.&lt;/li&gt;
+                    &lt;li&gt;Time needed to bounce back from adversity.&lt;/li&gt;
+                    &lt;li&gt;Capacity to cope with stress.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;navy&quot; display_score=&quot;282&quot; max_score=&quot;300&quot; percentage=&quot;100&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range&lt;/h6&gt;
+                &lt;p&gt;This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.&lt;/p&gt;
+
+                &lt;h4 class=&quot;fw-light text-purple mt-5&quot;&gt;Threat Perception&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Perceptive ability or situational awareness.&lt;/li&gt;
+                    &lt;li&gt;Awareness of potential or actual threat.&lt;/li&gt;
+                    &lt;li&gt;Ability to formulate a plan to continue.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;60&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range&lt;/h6&gt;
+                &lt;p&gt;Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.&lt;/p&gt;
+
+                &lt;h4 class=&quot;fw-light text-orange mt-5&quot;&gt;Adjustment&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to adjust when unexpected events cause disruption.&lt;/li&gt;
+                    &lt;li&gt;Assessment of recovery options.&lt;/li&gt;
+                    &lt;li&gt;Flexibility and openness to new circumstances.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;orange&quot; display_score=&quot;30&quot; max_score=&quot;60&quot; percentage=&quot;40&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range&lt;/h6&gt;
+                &lt;p&gt;This level of adjustment capacity indicates a low ability to continue in the face of difficult circumstances. Individuals have limited ability to assess recovery options and are rarely flexible or open to new circumstances.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;4&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 5 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-5&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                &lt;h4 class=&quot;fw-light text-green&quot;&gt;Decision Making&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to decide on recovery actions.&lt;/li&gt;
+                    &lt;li&gt;Capacity to make good decisions under pressure.&lt;/li&gt;
+                    &lt;li&gt;Capacity to make clear decisions in stressful events.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;green&quot; display_score=&quot;50&quot; max_score=&quot;90&quot; percentage=&quot;20&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range&lt;/h6&gt;
+                &lt;p&gt;Individuals at this level of decision making have very limited ability to make good decisions under pressure and to determine recovery actions in the face of difficult circumstances. They have a poor ability to make clear decisions when in stressful situations. Individuals find it difficult to assess the available recovery options and to choose the best one.&lt;/p&gt;
+
+                &lt;h4 class=&quot;fw-light text-fuchsia mt-5&quot;&gt;Coping&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Capacity to deal with difficult issues.&lt;/li&gt;
+                    &lt;li&gt;Ability to put stressful events into perspective.&lt;/li&gt;
+                    &lt;li&gt;Capacity to activate coping mechanisms in a stressful event.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;fuchsia&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
+                &lt;p&gt;This level of coping capacity indicates a significant ability to deal with difficult issues as they arise, as well as a high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals may find it easier than others to act on decisions when under pressure and can easily apply the chosen solution to the problem.&lt;/p&gt;
+
+                &lt;h4 class=&quot;fw-light text-yellow mt-5&quot;&gt;Recovery&lt;/h4&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ability to plan effectively.&lt;/li&gt;
+                    &lt;li&gt;Speed of self-management after a stressful event.&lt;/li&gt;
+                    &lt;li&gt;Return to healthy self after a stressful event.&lt;/li&gt;
+                &lt;/ul&gt;
+                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;yellow&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
+                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
+                &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
+                &lt;p&gt;This level of recovery capacity indicates a strong ability to plan effectively and to return to normal activity quickly after hardship or negative situations.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;5&quot; %}
+&lt;/div&gt;
+
+&lt;!-- Page 6 --&gt;
+&lt;div class=&quot;page report-wrapper&quot;&gt;
+    {% include ars/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
+        &lt;div class=&quot;row pt-10&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;div class=&quot;row&quot;&gt;
+                    &lt;div class=&quot;col-5&quot;&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
+                        &lt;h3 class=&quot;mb-2&quot;&gt;Adult Resilience Scale and Bell Curve Distribution&lt;/h3&gt;
+                        &lt;p&gt;A bell curve is the informal name of a graph that depicts a normal probability distribution. The raw scores on the Adult Resilience Scale are best viewed in the below bell curve distribution. The bell curve represents a ‘normal distribution’ of the general population. A normal distribution has the average (or mean) centred and an equal distribution above and below average like the curve below. The bell curve assumes there is an equivalent number of people above and below average, and a very small number of people two standard deviations above and below the average (mean).&lt;/p&gt;
+                        &lt;p&gt;The raw scores on the Adult Resilience Scale are converted to mean (average) scores and standard deviations across five intervals ranging from Very Low, Low, Average, High, and Very High.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-12 text-center mt-5&quot;&gt;
+                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;95%&quot; src=&quot;{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Bell curve.svg&quot; alt=&quot;&quot; /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include ars/footer.html page_number=&quot;6&quot; %}
+&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-coaching-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-coaching-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-coaching-report">&lt;!-- Landing page --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-pastel bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
@@ -597,883 +933,579 @@
         &lt;/div&gt;
     &lt;/div&gt;
     {% include ars/footer.html page_number=&quot;10&quot; %}
-&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Coach Report</summary></entry><entry><title type="html">Adult Resilience Scale Client Report</title><link href="http://localhost:4000/reports/ars-client-report-test" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>http://localhost:4000/reports/ars-client-report-test</id><content type="html" xml:base="http://localhost:4000/reports/ars-client-report-test">&lt;!-- Landing page --&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Coach Report</summary></entry><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-numeracy-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-numeracy-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-numeracy-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-12 mt-12&quot;&gt;
-                &lt;h2&gt;John Sample&lt;br&gt;
-                &lt;date class=&quot;fw-light&quot;&gt;11.06.2021&lt;/date&gt;&lt;/h2&gt;
-                &lt;img class=&quot;img-fluid position-absolute colourful-tree-img&quot; width=&quot;560px&quot; src=&quot;http://localhost:4000/assets/images/ars/colourful-tree.svg&quot; alt=&quot;&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container-fluid flex-fill bg-pastel&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
+    {% include cspa/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
+        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;row mt-3&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;h1 class=&quot;mt-12&quot;&gt;Adult Resilience Scale&lt;br&gt;
-                    &lt;span class=&quot;fw-light&quot;&gt;Client Report&lt;/span&gt;&lt;/h1&gt;
+                &lt;table class=&quot;table caption-top&quot;&gt;
+                    &lt;caption class=&quot;fw-bold py-1 ps-2&quot;&gt;Assessment Question Summary:&lt;/caption&gt;
+                    &lt;thead class=&quot;text-center&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;th&gt;No.&lt;/th&gt;
+                            &lt;th&gt;Description. The candidate can:&lt;/th&gt;
+                            &lt;th&gt;Area&lt;/th&gt;
+                            &lt;th&gt;Result&lt;/th&gt;
+                            &lt;th&gt;ACSF&lt;/th&gt;
+                        &lt;/tr&gt;
+                    &lt;/thead&gt;
+                    &lt;tbody&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;1&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;2&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;3&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;4&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;5&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;6&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;7&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;8&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;9&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;10&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;11&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;12&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;13&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;14&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;15&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;16&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;17&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;18&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;19&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;20&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;21&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;22&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;23&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;24&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;25&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/tbody&gt;
+                &lt;/table&gt;
+                &lt;p class=&quot;mb-0 fst-italic fw-light&quot;&gt;* N/A: Not attempted&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container-fluid pb-12 bg-pastel&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-12&quot;&gt;
-                &lt;img class=&quot;float-end&quot; width=&quot;130px&quot; src=&quot;http://localhost:4000/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Page 1 --&gt;
-&lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
-            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Client Report&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-                &lt;h2&gt;Definition of&lt;br&gt; Resilience&lt;/h2&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;p&gt;Many people have encountered an adverse experience at some point in their lives. Yet, some bounce back quickly while others endure the negativity for a longer period. A distinguishing factor between these people is their level of resilience.&lt;/p&gt;
-                &lt;p&gt;Resilience has been widely defined as the ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Resilience has also been recognised as a measure of stress and the ability to cope with negative events, and can thus be defined as the personal qualities that enable an individual to thrive in difficult circumstances.&lt;/p&gt;
-                &lt;p&gt;Research suggests that resilient people adapt more successfully in response to major life events and traumatic experiences (Sarkar &amp; Fletcher, 2014). Research also shows that resilience is not necessarily related to personality or intelligence (Carver &amp; Connor-Smith, 2010).&lt;/p&gt;
-                &lt;h3 class=&quot;mt-4 mb-2&quot;&gt;Interpreting the Adult Resilience Scale Scores&lt;/h3&gt;
-                &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
-            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;1&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/footer.html %}
 &lt;/div&gt;
 
 &lt;!-- Page 2 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
-            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Client Report&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+    {% include cspa/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
+        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;row mt-6&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;table class=&quot;table caption-top&quot;&gt;
+                    &lt;thead class=&quot;bg-aqua&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;th class=&quot;fw-bold py-1&quot;&gt;Numeracy Ability Description&lt;/th&gt;
+                            &lt;th&gt;&lt;/th&gt;
+                        &lt;/tr&gt;
+                    &lt;/thead&gt;
+                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;w-60 p-1&quot;&gt;
 
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h3 class=&quot;mb-2&quot;&gt;Model of Resilience&lt;/h3&gt;
-                &lt;p&gt;The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Threat Perception&lt;/h6&gt;
-                &lt;p&gt;Awareness of potential or actual threat and ability to formulate a plan.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Adjustment&lt;/h6&gt;
-                &lt;p&gt;Ability to adjust when unexpected events cause disruption.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Decision Making&lt;/h6&gt;
-                &lt;p&gt;Ability to make clear decisions during stressful situations.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Coping&lt;/h6&gt;
-                &lt;p&gt;Capacity to deal with stressful events and ability to return to normal routine.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Recovery&lt;/h6&gt;
-                &lt;p&gt;Speed of returning to normal activity after challenging situations.&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-12 text-center mt-3&quot;&gt;
-                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;515px&quot; src=&quot;http://localhost:4000/assets/images/ars/Adult Resilience_artwork_Figure.svg&quot; alt=&quot;&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
-            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;2&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+                            &lt;/td&gt;
+                            &lt;td class=&quot;w-40&quot;&gt;
 
+                            &lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/tbody&gt;
+                &lt;/table&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include cspa/footer.html %}
 &lt;/div&gt;
 
 &lt;!-- Page 3 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
-            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Client Report&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h3 class=&quot;mb-2&quot;&gt;Results for John Sample&lt;/h3&gt;
-                &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
-
-                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Total Resilience&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 100%;&quot; aria-valuenow=&quot;282&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;300&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Threat Perception&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 60%;&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Adjustment&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 40%;&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Decision Making&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 20%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Coping&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 80%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100 mb-12&quot;&gt;
-    &lt;h4 class=&quot;h5 fw-light mb-4 result-bar-heading&quot;&gt;Recovery&lt;/h4&gt;
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 80%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
-            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;3&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;!-- Page 4 --&gt;
-&lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
-            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Client Report&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h2 class=&quot;h3 text-dark mb-2&quot;&gt;Dimensions and Intervals&lt;/h2&gt;
-
-                &lt;h4 class=&quot;fw-light text-navy&quot;&gt;Total Resilience&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ability to adapt.&lt;/li&gt;
-                    &lt;li&gt;Time needed to bounce back from adversity.&lt;/li&gt;
-                    &lt;li&gt;Capacity to cope with stress.&lt;/li&gt;
-                &lt;/ul&gt;
-                &lt;div class=&quot;navy-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
-    
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 100%;&quot; aria-valuenow=&quot;282&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;300&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range&lt;/h6&gt;
-                &lt;p&gt;Individuals with this level of resilience are likely to find it difficult to succeed when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.&lt;/p&gt;
-
-                &lt;h4 class=&quot;fw-light text-purple mt-6&quot;&gt;Threat Perception&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Perceptive ability or situational awareness.&lt;/li&gt;
-                    &lt;li&gt;Awareness of potential or actual threat.&lt;/li&gt;
-                    &lt;li&gt;Ability to formulate a plan to continue.&lt;/li&gt;
-                &lt;/ul&gt;
-                &lt;div class=&quot;purple-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
-    
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 60%;&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range&lt;/h6&gt;
-                &lt;p&gt;Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.&lt;/p&gt;
-
-                &lt;h4 class=&quot;fw-light text-orange mt-6&quot;&gt;Adjustment&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ability to adjust when unexpected events cause disruption.&lt;/li&gt;
-                    &lt;li&gt;Assessment of recovery options.&lt;/li&gt;
-                    &lt;li&gt;Flexibility and openness to new circumstances.&lt;/li&gt;
-                &lt;/ul&gt;
-                &lt;div class=&quot;orange-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
-    
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 40%;&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;60&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range&lt;/h6&gt;
-                &lt;p&gt;This level of adjustment capacity indicates an average ability to continue in the face of difficult circumstances. Individuals have an average ability to assess recovery options and have an average level of flexibility and openness to new circumstances. Individuals may be better than others at noticing when a new approach to a problem is needed.&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
-            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;4&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;!-- Page 5 --&gt;
-&lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
-            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Client Report&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h4 class=&quot;fw-light text-green&quot;&gt;Decision Making&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ability to decide on recovery actions.&lt;/li&gt;
-                    &lt;li&gt;Capacity to make good decisions under pressure.&lt;/li&gt;
-                    &lt;li&gt;Capacity to make clear decisions in stressful events.&lt;/li&gt;
-                &lt;/ul&gt;
-                &lt;div class=&quot;green-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
-    
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 20%;&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range&lt;/h6&gt;
-                &lt;p&gt;Individuals at this level of decision making have very limited ability to make good decisions under pressure and to determine recovery actions in the face of difficult circumstances. They have a poor ability to make clear decisions when in stressful situations. Individuals find it difficult to assess the available recovery options and to choose the best one.&lt;/p&gt;
-
-                &lt;h4 class=&quot;fw-light text-fuchsia mt-6&quot;&gt;Coping&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Capacity to deal with difficult issues.&lt;/li&gt;
-                    &lt;li&gt;Ability to put stressful events into perspective.&lt;/li&gt;
-                    &lt;li&gt;Capacity to activate coping mechanisms in a stressful event.&lt;/li&gt;
-                &lt;/ul&gt;
-                &lt;div class=&quot;fuchsia-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
-    
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 80%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
-                &lt;p&gt;This level of coping capacity indicates a significant ability to deal with difficult issues as they arise, as well as a high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals may find it easier than others to act on decisions when under pressure and can easily apply the chosen solution to the problem.&lt;/p&gt;
-
-                &lt;h4 class=&quot;fw-light text-yellow mt-6&quot;&gt;Recovery&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ability to plan effectively.&lt;/li&gt;
-                    &lt;li&gt;Speed of self-management after a stressful event.&lt;/li&gt;
-                    &lt;li&gt;Return to healthy self after a stressful event.&lt;/li&gt;
-                &lt;/ul&gt;
-                &lt;div class=&quot;yellow-progress progress-wrapper d-inline-block w-100 mt-2 mb-8&quot;&gt;
-    
-    &lt;div class=&quot;score-progress position-relative&quot;&gt;
-        
-        &lt;div class=&quot;progress-bar-text position-relative d-flex w-100&quot;&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Low&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Average&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;High&lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;d-inline-flex flex-fill&quot;&gt;&lt;p class=&quot;w-100 text-center m-0 p-0&quot;&gt;Very High&lt;/p&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress position-relative w-100&quot;&gt;
-            &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 80%;&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;90&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;progress-bar-lines position-absolute fw-light mb-1 d-flex simple&quot;&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-            &lt;div class=&quot;line d-inline-flex flex-fill&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
-                &lt;p&gt;Individuals at this level of recovery may regain strength and resilience soon after problems are dealt with. Individuals have an average ability to plan effectively and to return to normal activity after hardship or negative situations.&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
-            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;5&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;!-- Page 6 --&gt;
-&lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 align-self-end ps-6&quot;&gt;
-            &lt;p class=&quot;mb-0 d-flex&quot;&gt;John Sample  •  02.07.2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 bg-pastel d-flex text-end align-self-end pe-8&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ph-heading&quot;&gt;Adult Resilience Scale Client Report&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
+    {% include cspa/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
+        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;row py-6&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;div class=&quot;row&quot;&gt;
-                    &lt;div class=&quot;col-5&quot;&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                        &lt;h3 class=&quot;mb-2&quot;&gt;Adult Resilience Scale and Bell Curve Distribution&lt;/h3&gt;
-                        &lt;p&gt;A bell curve is the informal name of a graph that depicts a normal probability distribution. The raw scores on the Adult Resilience Scale are best viewed in the below bell curve distribution. The bell curve represents a ‘normal distribution’ of the general population. A normal distribution has the average (or mean) centred and an equal distribution above and below average like the curve below. The bell curve assumes there is an equivalent number of people above and below average, and a very small number of people two standard deviations above and below the average (mean).&lt;/p&gt;
-                        &lt;p&gt;The raw scores on the Adult Resilience Scale are converted to mean (average) scores and standard deviations across five intervals ranging from Very Low, Low, Average, High, and Very High.&lt;/p&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-12 text-center mt-5&quot;&gt;
-                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;95%&quot; src=&quot;http://localhost:4000/assets/images/ars/Adult Resilience_artwork_Bell curve.svg&quot; alt=&quot;&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col-5 bg-pastel d-flex align-self-end&quot;&gt;
-            &lt;p class=&quot;h6 fw-light w-100 ms-6 pf-heading&quot;&gt;Copyright &amp;#169; Denis Flores and ACER 2021&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7 d-flex text-end&quot;&gt;
-            &lt;p class=&quot;me-8 page-number w-100&quot;&gt;6&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+                &lt;table class=&quot;table&quot;&gt;
+                    &lt;thead class=&quot;bg-aqua&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;th class=&quot;fw-bold text-capitalize py-1&quot;&gt;NUMERACY RECOMMENDATION&lt;/th&gt;
+                        &lt;/tr&gt;
+                    &lt;/thead&gt;
+                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Client Report</title><link href="http://localhost:4000/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>http://localhost:4000/reports/ars-client-report</id><content type="html" xml:base="http://localhost:4000/reports/ars-client-report">&lt;!-- Landing page --&gt;
+                            &lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/tbody&gt;
+                &lt;/table&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    {% include cspa/footer.html %}
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Username: Date: Name: Unique ID: Skill: Key Tag: ACSF level estimate: Scale score estimate: Assessment Question Summary: No. Description. The candidate can: Area Result ACSF 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 * N/A: Not attempted Australian Council for Educational Research</summary></entry><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-reading-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-reading-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-reading-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-12 mt-12&quot;&gt;
-                &lt;h2&gt;John Sample&lt;br&gt;
-                &lt;date class=&quot;fw-light&quot;&gt;11.06.2021&lt;/date&gt;&lt;/h2&gt;
-                &lt;img class=&quot;img-fluid position-absolute colourful-tree-img&quot; width=&quot;560px&quot; src=&quot;{{ site.url }}/assets/images/ars/colourful-tree.svg&quot; alt=&quot;&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container-fluid flex-fill bg-pastel&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
+    {% include cspa/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
+        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;row mt-3&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;h1 class=&quot;mt-12&quot;&gt;Adult Resilience Scale&lt;br&gt;
-                    &lt;span class=&quot;fw-light&quot;&gt;Client Report&lt;/span&gt;&lt;/h1&gt;
+                &lt;table class=&quot;table caption-top&quot;&gt;
+                    &lt;caption class=&quot;fw-bold py-1 ps-2&quot;&gt;Assessment Question Summary:&lt;/caption&gt;
+                    &lt;thead class=&quot;text-center&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;th&gt;No.&lt;/th&gt;
+                            &lt;th&gt;Description. The candidate can:&lt;/th&gt;
+                            &lt;th&gt;Area&lt;/th&gt;
+                            &lt;th&gt;Result&lt;/th&gt;
+                            &lt;th&gt;ACSF&lt;/th&gt;
+                        &lt;/tr&gt;
+                    &lt;/thead&gt;
+                    &lt;tbody&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;1&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;2&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;3&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;4&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;5&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;6&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;7&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;8&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;9&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;10&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;11&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;12&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;13&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;14&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;15&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;16&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;17&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;18&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;19&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;20&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;21&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;22&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;23&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;24&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;25&lt;/td&gt;
+                            &lt;td&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                            &lt;td class=&quot;text-center&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/tbody&gt;
+                &lt;/table&gt;
+                &lt;p class=&quot;mb-0 fst-italic fw-light&quot;&gt;* N/A: Not attempted&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container-fluid pb-12 bg-pastel&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-12&quot;&gt;
-                &lt;img class=&quot;float-end&quot; width=&quot;130px&quot; src=&quot;{{ site.url }}/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Page 1 --&gt;
-&lt;div class=&quot;page report-wrapper&quot;&gt;
-    {% include ars/header.html %}
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-                &lt;h2&gt;Definition of&lt;br&gt; Resilience&lt;/h2&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;p&gt;Many people have encountered an adverse experience at some point in their lives. Yet, some bounce back quickly while others endure the negativity for a longer period. A distinguishing factor between these people is their level of resilience.&lt;/p&gt;
-                &lt;p&gt;Resilience has been widely defined as the ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Resilience has also been recognised as a measure of stress and the ability to cope with negative events, and can thus be defined as the personal qualities that enable an individual to thrive in difficult circumstances.&lt;/p&gt;
-                &lt;p&gt;Research suggests that resilient people adapt more successfully in response to major life events and traumatic experiences (Sarkar &amp; Fletcher, 2014). Research also shows that resilience is not necessarily related to personality or intelligence (Carver &amp; Connor-Smith, 2010).&lt;/p&gt;
-                &lt;h3 class=&quot;mt-4 mb-2&quot;&gt;Interpreting the Adult Resilience Scale Scores&lt;/h3&gt;
-                &lt;p&gt;This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    {% include ars/footer.html page_number=&quot;1&quot; %}
+    {% include cspa/footer.html %}
 &lt;/div&gt;
 
 &lt;!-- Page 2 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    {% include ars/header.html %}
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h3 class=&quot;mb-2&quot;&gt;Model of Resilience&lt;/h3&gt;
-                &lt;p&gt;The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Threat Perception&lt;/h6&gt;
-                &lt;p&gt;Awareness of potential or actual threat and ability to formulate a plan.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Adjustment&lt;/h6&gt;
-                &lt;p&gt;Ability to adjust when unexpected events cause disruption.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Decision Making&lt;/h6&gt;
-                &lt;p&gt;Ability to make clear decisions during stressful situations.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Coping&lt;/h6&gt;
-                &lt;p&gt;Capacity to deal with stressful events and ability to return to normal routine.&lt;/p&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Recovery&lt;/h6&gt;
-                &lt;p&gt;Speed of returning to normal activity after challenging situations.&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-12 text-center mt-3&quot;&gt;
-                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;515px&quot; src=&quot;{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Figure.svg&quot; alt=&quot;&quot; /&gt;
+    {% include cspa/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
+        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;row mt-6&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+                &lt;table class=&quot;table caption-top&quot;&gt;
+                    &lt;thead class=&quot;bg-aqua&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;th class=&quot;fw-bold py-1&quot;&gt;Numeracy Ability Description&lt;/th&gt;
+                            &lt;th&gt;&lt;/th&gt;
+                        &lt;/tr&gt;
+                    &lt;/thead&gt;
+                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td class=&quot;w-60 p-1&quot;&gt;
+
+                            &lt;/td&gt;
+                            &lt;td class=&quot;w-40&quot;&gt;
+
+                            &lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/tbody&gt;
+                &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    {% include ars/footer.html page_number=&quot;2&quot; %}
+    {% include cspa/footer.html %}
 &lt;/div&gt;
 
 &lt;!-- Page 3 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    {% include ars/header.html %}
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h3 class=&quot;mb-2&quot;&gt;Results for John Sample&lt;/h3&gt;
-                &lt;h4 class=&quot;fw-400 text-dark mb-3&quot;&gt;Overview&lt;/h4&gt;
-
-                {% include ars/result-bar.html title=&quot;Total Resilience&quot; color=&quot;navy&quot; display_score=&quot;282&quot; max_score=&quot;300&quot; percentage=&quot;100&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                {% include ars/result-bar.html title=&quot;Threat Perception&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;60&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                {% include ars/result-bar.html title=&quot;Adjustment&quot; color=&quot;orange&quot; display_score=&quot;30&quot; max_score=&quot;60&quot; percentage=&quot;40&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                {% include ars/result-bar.html title=&quot;Decision Making&quot; color=&quot;green&quot; display_score=&quot;50&quot; max_score=&quot;90&quot; percentage=&quot;20&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                {% include ars/result-bar.html title=&quot;Coping&quot; color=&quot;fuchsia&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-                {% include ars/result-bar.html title=&quot;Recovery&quot; color=&quot;yellow&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mb-12&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    {% include ars/footer.html page_number=&quot;3&quot; %}
-&lt;/div&gt;
-
-&lt;!-- Page 4 --&gt;
-&lt;div class=&quot;page report-wrapper&quot;&gt;
-    {% include ars/header.html %}
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h2 class=&quot;h3 text-dark mb-2&quot;&gt;Dimensions and Intervals&lt;/h2&gt;
-
-                &lt;h4 class=&quot;fw-light text-navy&quot;&gt;Total Resilience&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ability to adapt.&lt;/li&gt;
-                    &lt;li&gt;Time needed to bounce back from adversity.&lt;/li&gt;
-                    &lt;li&gt;Capacity to cope with stress.&lt;/li&gt;
-                &lt;/ul&gt;
-                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;navy&quot; display_score=&quot;282&quot; max_score=&quot;300&quot; percentage=&quot;100&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very High Range&lt;/h6&gt;
-                &lt;p&gt;This level of resilience indicates an exceptional level of ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Individuals with this level of resilience also have a very high capacity to cope with stress.&lt;/p&gt;
-
-                &lt;h4 class=&quot;fw-light text-purple mt-6&quot;&gt;Threat Perception&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Perceptive ability or situational awareness.&lt;/li&gt;
-                    &lt;li&gt;Awareness of potential or actual threat.&lt;/li&gt;
-                    &lt;li&gt;Ability to formulate a plan to continue.&lt;/li&gt;
-                &lt;/ul&gt;
-                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;60&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Average Range&lt;/h6&gt;
-                &lt;p&gt;Individuals with this level of threat perception have an average awareness of the environment and of potentially stressful situations. Individuals have the capacity to gradually work out a way forward.&lt;/p&gt;
-
-                &lt;h4 class=&quot;fw-light text-orange mt-6&quot;&gt;Adjustment&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ability to adjust when unexpected events cause disruption.&lt;/li&gt;
-                    &lt;li&gt;Assessment of recovery options.&lt;/li&gt;
-                    &lt;li&gt;Flexibility and openness to new circumstances.&lt;/li&gt;
-                &lt;/ul&gt;
-                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;orange&quot; display_score=&quot;30&quot; max_score=&quot;60&quot; percentage=&quot;40&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Low Range&lt;/h6&gt;
-                &lt;p&gt;This level of adjustment capacity indicates a low ability to continue in the face of difficult circumstances. Individuals have limited ability to assess recovery options and are rarely flexible or open to new circumstances.&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    {% include ars/footer.html page_number=&quot;4&quot; %}
-&lt;/div&gt;
-
-&lt;!-- Page 5 --&gt;
-&lt;div class=&quot;page report-wrapper&quot;&gt;
-    {% include ars/header.html %}
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
-            &lt;div class=&quot;col-5&quot;&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                &lt;h4 class=&quot;fw-light text-green&quot;&gt;Decision Making&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ability to decide on recovery actions.&lt;/li&gt;
-                    &lt;li&gt;Capacity to make good decisions under pressure.&lt;/li&gt;
-                    &lt;li&gt;Capacity to make clear decisions in stressful events.&lt;/li&gt;
-                &lt;/ul&gt;
-                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;green&quot; display_score=&quot;50&quot; max_score=&quot;90&quot; percentage=&quot;20&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;Very Low Range&lt;/h6&gt;
-                &lt;p&gt;Individuals at this level of decision making have very limited ability to make good decisions under pressure and to determine recovery actions in the face of difficult circumstances. They have a poor ability to make clear decisions when in stressful situations. Individuals find it difficult to assess the available recovery options and to choose the best one.&lt;/p&gt;
-
-                &lt;h4 class=&quot;fw-light text-fuchsia mt-6&quot;&gt;Coping&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Capacity to deal with difficult issues.&lt;/li&gt;
-                    &lt;li&gt;Ability to put stressful events into perspective.&lt;/li&gt;
-                    &lt;li&gt;Capacity to activate coping mechanisms in a stressful event.&lt;/li&gt;
-                &lt;/ul&gt;
-                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;fuchsia&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
-                &lt;p&gt;This level of coping capacity indicates a significant ability to deal with difficult issues as they arise, as well as a high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals may find it easier than others to act on decisions when under pressure and can easily apply the chosen solution to the problem.&lt;/p&gt;
-
-                &lt;h4 class=&quot;fw-light text-yellow mt-6&quot;&gt;Recovery&lt;/h4&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Ability to plan effectively.&lt;/li&gt;
-                    &lt;li&gt;Speed of self-management after a stressful event.&lt;/li&gt;
-                    &lt;li&gt;Return to healthy self after a stressful event.&lt;/li&gt;
-                &lt;/ul&gt;
-                {% include ars/result-bar.html title=&quot;no&quot; color=&quot;yellow&quot; display_score=&quot;80&quot; max_score=&quot;90&quot; percentage=&quot;80&quot; simple=&quot;yes&quot; extra_classes=&quot;mt-2 mb-8&quot; %}
-                &lt;!-- Percentage = display_score/max_score * 100 --&gt;
-                &lt;h6 class=&quot;mb-1&quot;&gt;High Range&lt;/h6&gt;
-                &lt;p&gt;This level of recovery capacity indicates a strong ability to plan effectively and to return to normal activity quickly after hardship or negative situations.&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    {% include ars/footer.html page_number=&quot;5&quot; %}
-&lt;/div&gt;
-
-&lt;!-- Page 6 --&gt;
-&lt;div class=&quot;page report-wrapper&quot;&gt;
-    {% include ars/header.html %}
-    &lt;div class=&quot;container-fluid flex-fill&quot;&gt;
-        &lt;div class=&quot;row pt-10&quot;&gt;
+    {% include cspa/header.html %}
+    &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
+        &lt;ul class=&quot;list-table row row-cols-2&quot;&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Unique ID:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Skill:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Key Tag:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col border-aqua-accent&quot;&gt;&lt;strong&gt;ACSF level estimate:&lt;/strong&gt;&lt;/li&gt;
+            &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Scale score estimate:&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;row py-6&quot;&gt;
             &lt;div class=&quot;col-12&quot;&gt;
-                &lt;div class=&quot;row&quot;&gt;
-                    &lt;div class=&quot;col-5&quot;&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
-                        &lt;h3 class=&quot;mb-2&quot;&gt;Adult Resilience Scale and Bell Curve Distribution&lt;/h3&gt;
-                        &lt;p&gt;A bell curve is the informal name of a graph that depicts a normal probability distribution. The raw scores on the Adult Resilience Scale are best viewed in the below bell curve distribution. The bell curve represents a ‘normal distribution’ of the general population. A normal distribution has the average (or mean) centred and an equal distribution above and below average like the curve below. The bell curve assumes there is an equivalent number of people above and below average, and a very small number of people two standard deviations above and below the average (mean).&lt;/p&gt;
-                        &lt;p&gt;The raw scores on the Adult Resilience Scale are converted to mean (average) scores and standard deviations across five intervals ranging from Very Low, Low, Average, High, and Very High.&lt;/p&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-12 text-center mt-5&quot;&gt;
-                &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;95%&quot; src=&quot;{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Bell curve.svg&quot; alt=&quot;&quot; /&gt;
+                &lt;table class=&quot;table&quot;&gt;
+                    &lt;thead class=&quot;bg-aqua&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;th class=&quot;fw-bold text-capitalize py-1&quot;&gt;READING RECOMMENDATION&lt;/th&gt;
+                        &lt;/tr&gt;
+                    &lt;/thead&gt;
+                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;
+
+                            &lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/tbody&gt;
+                &lt;/table&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    {% include ars/footer.html page_number=&quot;6&quot; %}
-&lt;/div&gt;</content><author><name></name></author><summary type="html">John Sample 11.06.2021 Adult Resilience Scale Client Report</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="http://localhost:4000/reports/example-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>http://localhost:4000/reports/example-report</id><content type="html" xml:base="http://localhost:4000/reports/example-report">&lt;!-- Page 1 --&gt;
+    {% include cspa/footer.html %}
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Username: Date: Name: Unique ID: Skill: Key Tag: ACSF level estimate: Scale score estimate: Assessment Question Summary: No. Description. The candidate can: Area Result ACSF 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 * N/A: Not attempted Australian Council for Educational Research</summary></entry><entry><title type="html">Adult Resilience Scale Coach Report</title><link href="https://akolinski.github.io/horizon-reports/reports/example-report" rel="alternate" type="text/html" title="Adult Resilience Scale Coach Report" /><published>2021-06-21T06:00:00+10:00</published><updated>2021-06-21T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/example-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/example-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-pastel bg-colourful-tree position-relative&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;

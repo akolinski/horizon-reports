@@ -1,0 +1,67 @@
+---
+layout: report
+stylesheet: cspa
+title:  "Adult Resilience Scale Client Report"
+date:   2021-07-02 06:00:00 +1000
+name:   "John Sample"
+---
+
+<!-- Page 1 -->
+<div class="page report-wrapper">
+    {% include cspa/header.html %}
+    <div class="container-fluid flex-fill pt-4">
+        <ul class="list-table row row-cols-2">
+            <li class="col"><strong>Username:</strong></li>
+            <li class="col"><strong>Date:</strong></li>
+            <li class="col"><strong>Name:</strong></li>
+            <li class="col"><strong>Unique ID:</strong></li>
+            <li class="col border-aqua-accent"><strong>Summary:</strong></li>
+            <li class="col"><strong>Key Tag:</strong></li>
+        </ul>
+        <div class="row mt-3">
+            <div class="col-12">
+                <p>The purpose of this short indicator assessment is to check the current skill levels of candidates in both Reading and
+                Numeracy. Unlike the full CSPA assessments in Reading & Numeracy, the SRNI does not provide an ACSF* level estimate.
+                Instead, the results provide an indication of whether a candidate is above or below ACSF Exit Level 2 in each of these key
+                skills. Please note that candidates who have been assessed by SRNI as being above ACSF Exit Level 2 may well be
+                    performing at much higher levels of the ACSF.</p>
+                <p>Any candidates identified by the SRNI as below Exit Level 2 of the ACSF should undertake a more comprehensive
+                assessment of their LLN skills using the full suite of CSPA assessments and potentially be targeted for specific LLN support
+                    programs.</p>
+                <p>*ACSF = Australian Core Skills Framework</p>
+
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th class="bg-light-aqua w-90">Reading</th>
+                            <th class="fw-bold text-end bg-aqua">TOTAL</th>
+                        </tr>
+                    </thead>
+                    <tbody class="fill-tbody-20">
+                        <tr>
+                            <td class="border-0 w-90"></td>
+                            <td class="text-end border-0 d-block border-aqua-accent float-end w-100">282</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                 <table class="table">
+                    <thead>
+                        <tr>
+                            <th class="bg-light-aqua w-90">Numeracy</th>
+                            <th class="fw-bold text-end bg-aqua">TOTAL</th>
+                        </tr>
+                    </thead>
+                    <tbody class="fill-tbody-20">
+                        <tr>
+                            <td class="border-0 w-90"></td>
+                            <td class="text-end border-0 d-block border-aqua-accent float-end w-100">188</td>
+                        </tr>
+                 </table>
+                    </tbody>
+
+            </div>
+        </div>
+    </div>
+    {% include cspa/footer.html %}
+</div>

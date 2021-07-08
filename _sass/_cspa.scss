@@ -13,6 +13,10 @@
     background: $aqua !important;
   }
 
+  .bg-light-aqua {
+    background: #9cdcf9;
+  }
+
   .border-aqua {
     border: solid 1px $aqua;
   }
@@ -78,6 +82,9 @@
   }
 }
 
+.w-90 {
+  width: 90%;
+}
 
 .w-60 {
   width: 60%;
@@ -85,4 +92,12 @@
 
 .w-40 {
   width: 40%;
+}
+
+.fill-tbody {
+  height: 40vh;
+}
+
+.fill-tbody-20 {
+  height: 15vh;
 }
