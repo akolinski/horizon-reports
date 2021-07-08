@@ -1,0 +1,237 @@
+---
+layout: report
+stylesheet: ars
+title:  "Adult Resilience Scale Client Report"
+date:   2021-07-02 06:00:00 +1000
+name:   "John Sample"
+---
+
+<!-- Landing page -->
+<div class="page report-wrapper">
+    <div class="container-fluid bg-colourful-tree position-relative">
+        <div class="row">
+            <div class="col-12 mt-12">
+                <h2>John Sample<br>
+                <date class="fw-light">11.06.2021</date></h2>
+                <img class="img-fluid position-absolute colourful-tree-img" width="560px" src="{{ site.url }}/assets/images/ars/colourful-tree.svg" alt="" />
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid flex-fill bg-pastel">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="mt-12">Adult Resilience Scale<br>
+                    <span class="fw-light">Client Report</span></h1>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid pb-12 bg-pastel">
+        <div class="row">
+            <div class="col-12">
+                <img class="float-end" width="130px" src="{{ site.url }}/assets/images/acer-logo-black.svg" alt="ACER logo" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Page 1 -->
+<div class="page report-wrapper">
+    {% include ars/header.html %}
+    <div class="container-fluid flex-fill">
+        <div class="row pt-10">
+            <div class="col-5">
+                <h2>Definition of<br> Resilience</h2>
+            </div>
+            <div class="col-7 content-align pe-0">
+                <p>Many people have encountered an adverse experience at some point in their lives. Yet, some bounce back quickly while others endure the negativity for a longer period. A distinguishing factor between these people is their level of resilience.</p>
+                <p>Resilience has been widely defined as the ability to adapt to the changing environment and to bounce back from adversity and personal setbacks. Resilience has also been recognised as a measure of stress and the ability to cope with negative events, and can thus be defined as the personal qualities that enable an individual to thrive in difficult circumstances.</p>
+                <p>Research suggests that resilient people adapt more successfully in response to major life events and traumatic experiences (Sarkar & Fletcher, 2014). Research also shows that resilience is not necessarily related to personality or intelligence (Carver & Connor-Smith, 2010).</p>
+                <h3 class="mt-4 mb-2">Interpreting the Adult Resilience Scale Scores</h3>
+                <p>This report is a confidential summary of the candidate’s responses to the Adult Resilience Scale, and provides descriptions to interpret the scores. The Adult Resilience Scale measures five dimensions of resilience and provides an overall Total Resilience Score. When interpreting the candidate’s results, it is important to remember that scores are neither good nor bad, and should be used as development opportunities.</p>
+            </div>
+        </div>
+    </div>
+    {% include ars/footer.html page_number="1" %}
+</div>
+
+<!-- Page 2 -->
+<div class="page report-wrapper">
+    {% include ars/header.html %}
+    <div class="container-fluid flex-fill">
+        <div class="row pt-10">
+            <div class="col-5">
+            </div>
+            <div class="col-7 content-align pe-0">
+                <h3 class="mb-2">Model of Resilience</h3>
+                <p>The five dimensions of resilience as measured in the Adult Resilience Scale are as follows:</p>
+                <h6 class="mb-1">Threat Perception</h6>
+                <p>Awareness of potential or actual threat and ability to formulate a plan.</p>
+                <h6 class="mb-1">Adjustment</h6>
+                <p>Ability to adjust when unexpected events cause disruption.</p>
+                <h6 class="mb-1">Decision Making</h6>
+                <p>Ability to make clear decisions during stressful situations.</p>
+                <h6 class="mb-1">Coping</h6>
+                <p>Capacity to deal with stressful events and ability to return to normal routine.</p>
+                <h6 class="mb-1">Recovery</h6>
+                <p>Speed of returning to normal activity after challenging situations.</p>
+            </div>
+            <div class="col-12 text-center mt-3">
+                <img class="img-fluid mx-auto" width="515px" src="{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Figure.svg" alt="" />
+            </div>
+        </div>
+    </div>
+    {% include ars/footer.html page_number="2" %}
+</div>
+
+<!-- Page 3 -->
+<div class="page report-wrapper">
+    {% include ars/header.html %}
+    <div class="container-fluid flex-fill">
+        <div class="row pt-10">
+            <div class="col-5">
+            </div>
+            <div class="col-7 content-align pe-0">
+                <h3 class="mb-2">Results for John Sample</h3>
+                <h4 class="fw-400 text-dark mb-3">Overview</h4>
+
+                {% include ars/result-bar.html title="Total Resilience" color="navy" display_score="282" max_score="300" percentage="100" simple="yes" extra_classes="mb-12" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include ars/result-bar.html title="Threat Perception" color="purple" display_score="39" max_score="60" percentage="60" simple="yes" extra_classes="mb-12" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include ars/result-bar.html title="Adjustment" color="orange" display_score="30" max_score="60" percentage="40" simple="yes" extra_classes="mb-12" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include ars/result-bar.html title="Decision Making" color="green" display_score="50" max_score="90" percentage="20" simple="yes" extra_classes="mb-12" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include ars/result-bar.html title="Coping" color="fuchsia" display_score="80" max_score="90" percentage="80" simple="yes" extra_classes="mb-12" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+                {% include ars/result-bar.html title="Recovery" color="yellow" display_score="80" max_score="90" percentage="80" simple="yes" extra_classes="mb-12" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+
+            </div>
+        </div>
+    </div>
+    {% include ars/footer.html page_number="3" %}
+</div>
+
+<!-- Page 4 -->
+<div class="page report-wrapper">
+    {% include ars/header.html %}
+    <div class="container-fluid flex-fill">
+        <div class="row pt-10">
+            <div class="col-5">
+            </div>
+            <div class="col-7 content-align pe-0">
+                <h2 class="h3 text-dark mb-2">Dimensions and Intervals</h2>
+
+                <h4 class="fw-light text-navy">Total Resilience</h4>
+                <ul>
+                    <li>Ability to adapt.</li>
+                    <li>Time needed to bounce back from adversity.</li>
+                    <li>Capacity to cope with stress.</li>
+                </ul>
+                {% include ars/result-bar.html title="no" color="navy" display_score="282" max_score="300" percentage="100" simple="yes" extra_classes="mt-2 mb-8" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+                <h6 class="mb-1">Very High Range</h6>
+                <p>Individuals with this level of resilience are likely to find it difficult to succeed when faced with significant challenges and serious problems. Individuals may be uncomfortable dealing with problems or stress, and are likely to find it difficult to bounce back from adversity and personal setbacks.</p>
+
+                <h4 class="fw-light text-purple mt-6">Threat Perception</h4>
+                <ul>
+                    <li>Perceptive ability or situational awareness.</li>
+                    <li>Awareness of potential or actual threat.</li>
+                    <li>Ability to formulate a plan to continue.</li>
+                </ul>
+                {% include ars/result-bar.html title="no" color="purple" display_score="39" max_score="60" percentage="60" simple="yes" extra_classes="mt-2 mb-8" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+                <h6 class="mb-1">Average Range</h6>
+                <p>Individuals with this level of threat perception are very slow to perceive problems in their surrounding environment. They will frequently not recognise potential problems, actual problems or threats. Individuals will very rarely be able to formulate a plan to continue.</p>
+
+                <h4 class="fw-light text-orange mt-6">Adjustment</h4>
+                <ul>
+                    <li>Ability to adjust when unexpected events cause disruption.</li>
+                    <li>Assessment of recovery options.</li>
+                    <li>Flexibility and openness to new circumstances.</li>
+                </ul>
+                {% include ars/result-bar.html title="no" color="orange" display_score="30" max_score="60" percentage="40" simple="yes" extra_classes="mt-2 mb-8" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+                <h6 class="mb-1">Low Range</h6>
+                <p>This level of adjustment capacity indicates an average ability to continue in the face of difficult circumstances. Individuals have an average ability to assess recovery options and have an average level of flexibility and openness to new circumstances. Individuals may be better than others at noticing when a new approach to a problem is needed.</p>
+            </div>
+        </div>
+    </div>
+    {% include ars/footer.html page_number="4" %}
+</div>
+
+<!-- Page 5 -->
+<div class="page report-wrapper">
+    {% include ars/header.html %}
+    <div class="container-fluid flex-fill">
+        <div class="row pt-10">
+            <div class="col-5">
+            </div>
+            <div class="col-7 content-align pe-0">
+                <h4 class="fw-light text-green">Decision Making</h4>
+                <ul>
+                    <li>Ability to decide on recovery actions.</li>
+                    <li>Capacity to make good decisions under pressure.</li>
+                    <li>Capacity to make clear decisions in stressful events.</li>
+                </ul>
+                {% include ars/result-bar.html title="no" color="green" display_score="50" max_score="90" percentage="20" simple="yes" extra_classes="mt-2 mb-8" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+                <h6 class="mb-1">Very Low Range</h6>
+                <p>Individuals at this level of decision making have very limited ability to make good decisions under pressure and to determine recovery actions in the face of difficult circumstances. They have a poor ability to make clear decisions when in stressful situations. Individuals find it difficult to assess the available recovery options and to choose the best one.</p>
+
+                <h4 class="fw-light text-fuchsia mt-6">Coping</h4>
+                <ul>
+                    <li>Capacity to deal with difficult issues.</li>
+                    <li>Ability to put stressful events into perspective.</li>
+                    <li>Capacity to activate coping mechanisms in a stressful event.</li>
+                </ul>
+                {% include ars/result-bar.html title="no" color="fuchsia" display_score="80" max_score="90" percentage="80" simple="yes" extra_classes="mt-2 mb-8" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+                <h6 class="mb-1">High Range</h6>
+                <p>This level of coping capacity indicates a significant ability to deal with difficult issues as they arise, as well as a high capacity to put stressful events into perspective. Individuals operate recovery coping mechanisms and accept that a change in approach or strategy is required, so that stressful events are less likely to have a negative impact. Individuals may find it easier than others to act on decisions when under pressure and can easily apply the chosen solution to the problem.</p>
+
+                <h4 class="fw-light text-yellow mt-6">Recovery</h4>
+                <ul>
+                    <li>Ability to plan effectively.</li>
+                    <li>Speed of self-management after a stressful event.</li>
+                    <li>Return to healthy self after a stressful event.</li>
+                </ul>
+                {% include ars/result-bar.html title="no" color="yellow" display_score="80" max_score="90" percentage="80" simple="yes" extra_classes="mt-2 mb-8" %}
+                <!-- Percentage = display_score/max_score * 100 -->
+                <h6 class="mb-1">High Range</h6>
+                <p>Individuals at this level of recovery may regain strength and resilience soon after problems are dealt with. Individuals have an average ability to plan effectively and to return to normal activity after hardship or negative situations.</p>
+            </div>
+        </div>
+    </div>
+    {% include ars/footer.html page_number="5" %}
+</div>
+
+<!-- Page 6 -->
+<div class="page report-wrapper">
+    {% include ars/header.html %}
+    <div class="container-fluid flex-fill">
+        <div class="row pt-10">
+            <div class="col-12">
+                <div class="row">
+                    <div class="col-5">
+                    </div>
+                    <div class="col-7 content-align pe-0">
+                        <h3 class="mb-2">Adult Resilience Scale and Bell Curve Distribution</h3>
+                        <p>A bell curve is the informal name of a graph that depicts a normal probability distribution. The raw scores on the Adult Resilience Scale are best viewed in the below bell curve distribution. The bell curve represents a ‘normal distribution’ of the general population. A normal distribution has the average (or mean) centred and an equal distribution above and below average like the curve below. The bell curve assumes there is an equivalent number of people above and below average, and a very small number of people two standard deviations above and below the average (mean).</p>
+                        <p>The raw scores on the Adult Resilience Scale are converted to mean (average) scores and standard deviations across five intervals ranging from Very Low, Low, Average, High, and Very High.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 text-center mt-5">
+                <img class="img-fluid mx-auto" width="95%" src="{{ site.url }}/assets/images/ars/Adult Resilience_artwork_Bell curve.svg" alt="" />
+            </div>
+        </div>
+    </div>
+    {% include ars/footer.html page_number="6" %}
+</div>
