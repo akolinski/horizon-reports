@@ -1,27 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Horizon reports</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Roboto:wght@300;700&display=swap" rel="stylesheet">
-    <link href="http://localhost:4000/assets/main.css?1625725905" rel="stylesheet" media="all">
-    <link href="http://localhost:4000/assets/cspa.css" rel="stylesheet">
-    <meta name="robots" content="noindex">
-<body>
+---
+layout: report
+stylesheet: cspa
+title:  "Adult Resilience Scale Client Report"
+date:   2021-07-02 06:00:00 +1000
+name:   "John Sample"
+---
+
 <!-- Page 1 -->
 <div class="page report-wrapper">
-    <div class="container-fluid p-0">
-    <div class="row g-0 w-100">
-        <div class="col">
-            <img class="img-fluid mx-auto" width="100%" src="http://localhost:4000/assets/images/cspa/CSPA-report-banner-text.svg" alt="Core Skills Profile For Adults" />
-        </div>
-    </div>
-</div>
-
+    {% include cspa/header.html %}
     <div class="container-fluid flex-fill pt-4">
-        <ul class="list-table row row-cols-2">
+        <ul class="list-table row row-cols-2 mb-0">
             <li class="col"><strong>Username:</strong></li>
             <li class="col"><strong>Date:</strong></li>
             <li class="col"><strong>Name:</strong></li>
@@ -30,8 +19,9 @@
             <li class="col"><strong>Key Tag:</strong></li>
             <li class="col border-aqua-accent"><strong>ACSF level estimate:</strong></li>
             <li class="col"><strong>Scale score estimate:</strong></li>
+            <p class="my-1">*ACSF = Australian Core Skills Framework</p>
         </ul>
-        <div class="row mt-3">
+        <div class="row mt-0">
             <div class="col-12">
                 <table class="table caption-top">
                     <caption class="fw-bold py-1 ps-2">Assessment Question Summary:</caption>
@@ -185,72 +175,20 @@
                             <td class="text-center"></td>
                             <td class="text-center"></td>
                         </tr>
-                        <tr>
-                            <td class="text-center">21</td>
-                            <td></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">22</td>
-                            <td></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">23</td>
-                            <td></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">24</td>
-                            <td></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">25</td>
-                            <td></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                            <td class="text-center"></td>
-                        </tr>
                     </tbody>
                 </table>
                 <p class="mb-0 fst-italic fw-light">* N/A: Not attempted</p>
             </div>
         </div>
     </div>
-    <div class="container-fluid pb-6">
-    <div class="row">
-        <div class="col-5">
-            <p class="mb-0">Australian Council for Educational Research</p>
-        </div>
-        <div class="col-7">
-            <img class="float-end" width="130px" src="http://localhost:4000/assets/images/acer-logo-black.svg" alt="ACER logo" />
-        </div>
-    </div>
-</div>
-
+    {% include cspa/footer.html %}
 </div>
 
 <!-- Page 2 -->
 <div class="page report-wrapper">
-    <div class="container-fluid p-0">
-    <div class="row g-0 w-100">
-        <div class="col">
-            <img class="img-fluid mx-auto" width="100%" src="http://localhost:4000/assets/images/cspa/CSPA-report-banner-text.svg" alt="Core Skills Profile For Adults" />
-        </div>
-    </div>
-</div>
-
+    {% include cspa/header.html %}
     <div class="container-fluid flex-fill pt-4">
-        <ul class="list-table row row-cols-2">
+        <ul class="list-table row row-cols-2 mb-0">
             <li class="col"><strong>Username:</strong></li>
             <li class="col"><strong>Date:</strong></li>
             <li class="col"><strong>Name:</strong></li>
@@ -259,8 +197,9 @@
             <li class="col"><strong>Key Tag:</strong></li>
             <li class="col border-aqua-accent"><strong>ACSF level estimate:</strong></li>
             <li class="col"><strong>Scale score estimate:</strong></li>
+            <p class="my-1">*ACSF = Australian Core Skills Framework</p>
         </ul>
-        <div class="row mt-6">
+        <div class="row mt-0">
             <div class="col-12">
                 <table class="table caption-top">
                     <thead class="bg-aqua">
@@ -282,32 +221,33 @@
                 </table>
             </div>
         </div>
-    </div>
-    <div class="container-fluid pb-6">
-    <div class="row">
-        <div class="col-5">
-            <p class="mb-0">Australian Council for Educational Research</p>
-        </div>
-        <div class="col-7">
-            <img class="float-end" width="130px" src="http://localhost:4000/assets/images/acer-logo-black.svg" alt="ACER logo" />
-        </div>
-    </div>
-</div>
+        <div class="row py-6">
+            <div class="col-12">
+                <table class="table">
+                    <thead class="bg-aqua">
+                    <tr>
+                        <th class="fw-bold py-1">Numeracy Recommendation</th>
+                    </tr>
+                    </thead>
+                    <tbody class="fill-tbody">
+                    <tr>
+                        <td>
 
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    {% include cspa/footer.html %}
 </div>
 
 <!-- Page 3 -->
 <div class="page report-wrapper">
-    <div class="container-fluid p-0">
-    <div class="row g-0 w-100">
-        <div class="col">
-            <img class="img-fluid mx-auto" width="100%" src="http://localhost:4000/assets/images/cspa/CSPA-report-banner-text.svg" alt="Core Skills Profile For Adults" />
-        </div>
-    </div>
-</div>
-
+    {% include cspa/header.html %}
     <div class="container-fluid flex-fill pt-4">
-        <ul class="list-table row row-cols-2">
+        <ul class="list-table row row-cols-2 mb-0">
             <li class="col"><strong>Username:</strong></li>
             <li class="col"><strong>Date:</strong></li>
             <li class="col"><strong>Name:</strong></li>
@@ -316,39 +256,226 @@
             <li class="col"><strong>Key Tag:</strong></li>
             <li class="col border-aqua-accent"><strong>ACSF level estimate:</strong></li>
             <li class="col"><strong>Scale score estimate:</strong></li>
+            <p class="my-1">*ACSF = Australian Core Skills Framework</p>
         </ul>
+        <div class="row mt-0">
+            <div class="col-12">
+                <table class="table caption-top">
+                    <caption class="fw-bold py-1 ps-2">Assessment Question Summary:</caption>
+                    <thead class="text-center">
+                    <tr>
+                        <th>No.</th>
+                        <th>Description. The candidate can:</th>
+                        <th>Area</th>
+                        <th>Result</th>
+                        <th>ACSF</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td class="text-center">1</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">2</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">3</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">4</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">5</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">6</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">7</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">8</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">9</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">10</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">11</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">12</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">13</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">14</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">15</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">16</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">17</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">18</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">19</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">20</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                    </tr>
+                    </tbody>
+                </table>
+                <p class="mb-0 fst-italic fw-light">* N/A: Not attempted</p>
+            </div>
+        </div>
+    </div>
+    {% include cspa/footer.html %}
+</div>
+
+<!-- Page 4 -->
+<div class="page report-wrapper">
+    {% include cspa/header.html %}
+    <div class="container-fluid flex-fill pt-4">
+        <ul class="list-table row row-cols-2 mb-0">
+            <li class="col"><strong>Username:</strong></li>
+            <li class="col"><strong>Date:</strong></li>
+            <li class="col"><strong>Name:</strong></li>
+            <li class="col"><strong>Unique ID:</strong></li>
+            <li class="col"><strong>Skill:</strong></li>
+            <li class="col"><strong>Key Tag:</strong></li>
+            <li class="col border-aqua-accent"><strong>ACSF level estimate:</strong></li>
+            <li class="col"><strong>Scale score estimate:</strong></li>
+            <p class="my-1">*ACSF = Australian Core Skills Framework</p>
+        </ul>
+        <div class="row mt-0">
+            <div class="col-12">
+                <table class="table caption-top">
+                    <thead class="bg-aqua">
+                    <tr>
+                        <th class="fw-bold py-1">Reading Ability Description</th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody class="fill-tbody">
+                    <tr>
+                        <td class="w-60 p-1">
+
+                        </td>
+                        <td class="w-40">
+
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
         <div class="row py-6">
             <div class="col-12">
                 <table class="table">
                     <thead class="bg-aqua">
-                        <tr>
-                            <th class="fw-bold text-capitalize py-1">READING RECOMMENDATION</th>
-                        </tr>
+                    <tr>
+                        <th class="fw-bold py-1">Reading Recommendation</th>
+                    </tr>
                     </thead>
                     <tbody class="fill-tbody">
-                        <tr>
-                            <td>
+                    <tr>
+                        <td>
 
-                            </td>
-                        </tr>
+                        </td>
+                    </tr>
                     </tbody>
                 </table>
             </div>
         </div>
     </div>
-    <div class="container-fluid pb-6">
-    <div class="row">
-        <div class="col-5">
-            <p class="mb-0">Australian Council for Educational Research</p>
-        </div>
-        <div class="col-7">
-            <img class="float-end" width="130px" src="http://localhost:4000/assets/images/acer-logo-black.svg" alt="ACER logo" />
-        </div>
-    </div>
+    {% include cspa/footer.html %}
 </div>
-
-</div>
-
-
-</body>
-</html>
