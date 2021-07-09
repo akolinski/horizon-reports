@@ -1,30 +1,34 @@
-<div class="{{ include.color }}-progress progress-wrapper d-inline-block w-95{% if include.extra_classes!='' %} {{ include.extra_classes }}{% endif %}">
-    {% if include.title!='no' %}<h4 class="h5 fw-light mb-4 result-bar-heading{% if include.simple=='yes' %} simple{% endif %}">{{ include.title }}</h4>{% endif %}
-    <div class="score-progress position-relative">
-        {% if include.simple!='yes' %}<p class="position-relative zero-score">0</p>{% endif %}
-        <div class="progress-bar-text position-relative d-flex w-95">
-            <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very low</p></div>
-            <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Low</p></div>
-            <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Average</p></div>
-            <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">High</p></div>
-            <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very High</p></div>
+<div class="result-bar">
+    <div class="{{ include.color }}-progress progress-wrapper d-inline-block w-95{% if include.extra_classes!='' %} {{ include.extra_classes }}{% endif %}">
+        {% if include.title!='no' %}<h4 class="h5 fw-light mb-4 result-bar-heading{% if include.simple=='yes' %} simple{% endif %}">{{ include.title }}</h4>{% endif %}
+        <div class="score-progress position-relative">
+            {% if include.simple!='yes' %}<p class="position-relative zero-score">0</p>{% endif %}
+            <div class="progress-bar-text position-relative d-flex w-95">
+                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very low</p></div>
+                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Low</p></div>
+                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Average</p></div>
+                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">High</p></div>
+                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very High</p></div>
+            </div>
+            <div class="progress position-relative w-95">
+                <div class="progress-bar" role="progressbar" style="width: {{ include.percentage }}%;" aria-valuenow="{{ include.display_score }}" aria-valuemin="0" aria-valuemax="{{ include.max_score }}"></div>
+            </div>
+            <div class="progress-bar-lines w-95 position-absolute fw-light mb-1 d-flex{% if include.simple=='yes' %} simple{% endif %}">
+                <div class="line d-inline-flex flex-fill"></div>
+                <div class="line d-inline-flex flex-fill"></div>
+                <div class="line d-inline-flex flex-fill"></div>
+                <div class="line d-inline-flex flex-fill"></div>
+                <div class="line d-inline-flex flex-fill"></div>
+            </div>
+            {% if include.simple!='yes' %}<p class="position-relative end-score">{{ include.max_score }}</p>{% endif %}
+            {% if include.simple!='yes' %}
+            <div class="arrow-position position-relative w-95">
+                <div class="result-triangle position-relative" style="left: {{ include.percentage | minus: 3.1 }}%;">
+                    <svg class="result-bar-triangle position-absolute" width="24" height="24" viewBox="0 0 37 31" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18.5 0L36.2535 30.75H0.746479L18.5 0Z" class="fill-{{ include.color }}"/></svg>
+                    <p class="arrow-text position-absolute">{{ include.display_score }}<p>
+                </div>
+            </div>
+            {% endif %}
         </div>
-        <div class="progress position-relative w-95">
-            <div class="progress-bar" role="progressbar" style="width: {{ include.percentage }}%;" aria-valuenow="{{ include.display_score }}" aria-valuemin="0" aria-valuemax="{{ include.max_score }}"></div>
-        </div>
-        <div class="progress-bar-lines w-95 position-absolute fw-light mb-1 d-flex{% if include.simple=='yes' %} simple{% endif %}">
-            <div class="line d-inline-flex flex-fill"></div>
-            <div class="line d-inline-flex flex-fill"></div>
-            <div class="line d-inline-flex flex-fill"></div>
-            <div class="line d-inline-flex flex-fill"></div>
-            <div class="line d-inline-flex flex-fill"></div>
-        </div>
-        {% if include.simple!='yes' %}<p class="position-relative end-score">{{ include.max_score }}</p>{% endif %}
-        {% if include.simple!='yes' %}
-        <div class="arrow-position position-absolute" style="left: {{ include.percentage | minus: 5.1 }}%;">
-            <svg class="result-bar-triangle" width="24" height="24" viewBox="0 0 37 31" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18.5 0L36.2535 30.75H0.746479L18.5 0Z" class="fill-{{ include.color }}"/></svg>
-            <p class="arrow-text position-relative">{{ include.display_score }}<p>
-        </div>
-        {% endif %}
     </div>
 </div>
