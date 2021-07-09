@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-09T11:44:42+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-writing-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-09T11:47:22+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-writing-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
@@ -1619,7 +1619,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 90.7%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 90.6%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;282&lt;p&gt;
                 &lt;/div&gt;
@@ -1655,7 +1655,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 61.7%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 61.6%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;39&lt;p&gt;
                 &lt;/div&gt;
@@ -1691,7 +1691,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 46.7%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 46.6%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;30&lt;p&gt;
                 &lt;/div&gt;
@@ -1727,7 +1727,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 52.2%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 52.1%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-green&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;50&lt;p&gt;
                 &lt;/div&gt;
@@ -1763,7 +1763,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 85.6%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 85.5%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;80&lt;p&gt;
                 &lt;/div&gt;
@@ -1799,7 +1799,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;90&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 85.6%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 85.5%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;80&lt;p&gt;
                 &lt;/div&gt;
@@ -1877,7 +1877,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;300&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 90.7%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 90.6%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-navy&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;282&lt;p&gt;
                 &lt;/div&gt;
@@ -1964,7 +1964,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 61.7%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 61.6%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-purple&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;39&lt;p&gt;
                 &lt;/div&gt;
@@ -2051,7 +2051,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 46.7%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 46.6%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-orange&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;30&lt;p&gt;
                 &lt;/div&gt;
@@ -2138,7 +2138,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 68.4%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 68.3%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-green&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;43&lt;p&gt;
                 &lt;/div&gt;
@@ -2225,7 +2225,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 85.0%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 84.9%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-fuchsia&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;53&lt;p&gt;
                 &lt;/div&gt;
@@ -2312,7 +2312,7 @@
             &lt;p class=&quot;position-relative end-score&quot;&gt;60&lt;/p&gt;
             
             &lt;div class=&quot;arrow-position position-relative w-95&quot;&gt;
-                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 85.0%;&quot;&gt;
+                &lt;div class=&quot;result-triangle position-relative&quot; style=&quot;left: 84.9%;&quot;&gt;
                     &lt;svg class=&quot;result-bar-triangle position-absolute&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 37 31&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M18.5 0L36.2535 30.75H0.746479L18.5 0Z&quot; class=&quot;fill-yellow&quot;/&gt;&lt;/svg&gt;
                     &lt;p class=&quot;arrow-text position-absolute&quot;&gt;53&lt;p&gt;
                 &lt;/div&gt;
