@@ -1,6 +1,6 @@
 // Custom styles for this report
 .report-wrapper {
-  font-size: 15px; // increase font size
+  font-size: 14px; // increase font size
 
   $aqua: #00C0F3;
   $dark-gray: #D1D2D4;
@@ -96,13 +96,9 @@
 }
 
 .fill-tbody {
-  height: 20vh;
+  height: 10vh;
 }
 
 .fill-tbody-20 {
   height: 15vh;
-}
-
-.for-footer {
-  margin-right: 2px;
 }
