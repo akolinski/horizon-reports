@@ -206,7 +206,7 @@
       .progress-bar-lines {
         top: -11px;
         border: none;
-        width: 100%;
+        //width: 100%;
 
         &.simple {
           top: -27px;
@@ -236,9 +236,9 @@
         font-weight: 700;
         font-size: 0.9rem;
         height: 0;
-        top: -72px;
-        left: 4px;
-        padding-left: 100%;
+        top: -73px;
+        left: 10px;
+        padding-left: 95%;
       }
 
       .arrow-position {
@@ -258,5 +258,18 @@
         }
       }
     }
+  }
+
+  // Offset heading for simple style result bar
+  .result-bar-heading {
+    margin-left: -1rem;
+  }
+
+  .result-bar-heading.simple {
+    margin-left: 0rem;
+  }
+
+  .w-95 {
+    width: 95% !important;
   }
 }

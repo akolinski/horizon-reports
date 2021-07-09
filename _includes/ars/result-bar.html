@@ -1,18 +1,18 @@
-<div class="{{ include.color }}-progress progress-wrapper d-inline-block w-100{% if include.extra_classes!='' %} {{ include.extra_classes }}{% endif %}">
-    {% if include.title!='no' %}<h4 class="h5 fw-light mb-4 result-bar-heading">{{ include.title }}</h4>{% endif %}
+<div class="{{ include.color }}-progress progress-wrapper d-inline-block w-95{% if include.extra_classes!='' %} {{ include.extra_classes }}{% endif %}">
+    {% if include.title!='no' %}<h4 class="h5 fw-light mb-4 result-bar-heading{% if include.simple=='yes' %} simple{% endif %}">{{ include.title }}</h4>{% endif %}
     <div class="score-progress position-relative">
         {% if include.simple!='yes' %}<p class="position-relative zero-score">0</p>{% endif %}
-        <div class="progress-bar-text position-relative d-flex w-100">
+        <div class="progress-bar-text position-relative d-flex w-95">
             <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very low</p></div>
             <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Low</p></div>
             <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Average</p></div>
             <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">High</p></div>
             <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very High</p></div>
         </div>
-        <div class="progress position-relative w-100">
+        <div class="progress position-relative w-95">
             <div class="progress-bar" role="progressbar" style="width: {{ include.percentage }}%;" aria-valuenow="{{ include.display_score }}" aria-valuemin="0" aria-valuemax="{{ include.max_score }}"></div>
         </div>
-        <div class="progress-bar-lines position-absolute fw-light mb-1 d-flex{% if include.simple=='yes' %} simple{% endif %}">
+        <div class="progress-bar-lines w-95 position-absolute fw-light mb-1 d-flex{% if include.simple=='yes' %} simple{% endif %}">
             <div class="line d-inline-flex flex-fill"></div>
             <div class="line d-inline-flex flex-fill"></div>
             <div class="line d-inline-flex flex-fill"></div>

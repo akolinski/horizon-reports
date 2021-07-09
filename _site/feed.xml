@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-08T20:39:26+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-writing-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-09T10:23:26+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-writing-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-writing-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
@@ -749,9 +749,9 @@
             &lt;div class=&quot;col-7 content-align pe-0&quot;&gt;
                 &lt;h4 class=&quot;fw-light text-purple&quot;&gt;Threat Perception: 39&lt;/h4&gt;
                 &lt;ul&gt;
-                    &lt;li&gt;Perceptive ability or situational awareness&lt;/li&gt;
-                    &lt;li&gt;Awareness of potential or actual threat&lt;/li&gt;
-                    &lt;li&gt;Ability to formulate a plan to continue&lt;/li&gt;
+                    &lt;li&gt;Perceptive ability or situational awareness.&lt;/li&gt;
+                    &lt;li&gt;Awareness of potential or actual threat.&lt;/li&gt;
+                    &lt;li&gt;Ability to formulate a plan to continue.&lt;/li&gt;
                 &lt;/ul&gt;
 
                 {% include ars/result-bar.html title=&quot;no&quot; color=&quot;purple&quot; display_score=&quot;39&quot; max_score=&quot;60&quot; percentage=&quot;65&quot; extra_classes=&quot;ms-3 mt-2 mb-15&quot; %}
