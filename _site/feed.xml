@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-09T14:33:04+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-report">&lt;!-- Page 1 --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://akolinski.github.io/horizon-reports/feed.xml" rel="self" type="application/atom+xml" /><link href="https://akolinski.github.io/horizon-reports/" rel="alternate" type="text/html" /><updated>2021-07-09T15:12:09+10:00</updated><id>https://akolinski.github.io/horizon-reports/feed.xml</id><title type="html">Horizon reports</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/cspa-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/cspa-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/cspa-report">&lt;!-- Page 1 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col&quot;&gt;
-            &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;100%&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/cspa/CSPA-report-banner-text.svg&quot; alt=&quot;Core Skills Profile For Adults&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
         &lt;ul class=&quot;list-table row row-cols-2 mb-0&quot;&gt;
             &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
@@ -180,29 +173,12 @@
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container-fluid pb-6&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-5&quot;&gt;
-            &lt;p class=&quot;mb-0&quot;&gt;Australian Council for Educational Research&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7&quot;&gt;
-            &lt;img class=&quot;float-end&quot; width=&quot;130px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/footer.html %}
 &lt;/div&gt;
 
 &lt;!-- Page 2 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col&quot;&gt;
-            &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;100%&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/cspa/CSPA-report-banner-text.svg&quot; alt=&quot;Core Skills Profile For Adults&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
         &lt;ul class=&quot;list-table row row-cols-2 mb-0&quot;&gt;
             &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
@@ -224,7 +200,7 @@
                             &lt;th&gt;&lt;/th&gt;
                         &lt;/tr&gt;
                     &lt;/thead&gt;
-                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                    &lt;tbody&gt;
                         &lt;tr&gt;
                             &lt;td class=&quot;w-60 p-1&quot;&gt;
 
@@ -245,7 +221,7 @@
                         &lt;th class=&quot;fw-bold py-1&quot;&gt;Numeracy Recommendation&lt;/th&gt;
                     &lt;/tr&gt;
                     &lt;/thead&gt;
-                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                    &lt;tbody&gt;
                     &lt;tr&gt;
                         &lt;td&gt;
 
@@ -256,29 +232,12 @@
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container-fluid pb-6&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-5&quot;&gt;
-            &lt;p class=&quot;mb-0&quot;&gt;Australian Council for Educational Research&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7&quot;&gt;
-            &lt;img class=&quot;float-end&quot; width=&quot;130px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/footer.html %}
 &lt;/div&gt;
 
 &lt;!-- Page 3 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col&quot;&gt;
-            &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;100%&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/cspa/CSPA-report-banner-text.svg&quot; alt=&quot;Core Skills Profile For Adults&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
         &lt;ul class=&quot;list-table row row-cols-2 mb-0&quot;&gt;
             &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
@@ -451,29 +410,12 @@
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container-fluid pb-6&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-5&quot;&gt;
-            &lt;p class=&quot;mb-0&quot;&gt;Australian Council for Educational Research&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7&quot;&gt;
-            &lt;img class=&quot;float-end&quot; width=&quot;130px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/footer.html %}
 &lt;/div&gt;
 
 &lt;!-- Page 4 --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
-    &lt;div class=&quot;container-fluid p-0&quot;&gt;
-    &lt;div class=&quot;row g-0 w-100&quot;&gt;
-        &lt;div class=&quot;col&quot;&gt;
-            &lt;img class=&quot;img-fluid mx-auto&quot; width=&quot;100%&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/cspa/CSPA-report-banner-text.svg&quot; alt=&quot;Core Skills Profile For Adults&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/header.html %}
     &lt;div class=&quot;container-fluid flex-fill pt-4&quot;&gt;
         &lt;ul class=&quot;list-table row row-cols-2 mb-0&quot;&gt;
             &lt;li class=&quot;col&quot;&gt;&lt;strong&gt;Username:&lt;/strong&gt;&lt;/li&gt;
@@ -495,7 +437,7 @@
                         &lt;th&gt;&lt;/th&gt;
                     &lt;/tr&gt;
                     &lt;/thead&gt;
-                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                    &lt;tbody&gt;
                     &lt;tr&gt;
                         &lt;td class=&quot;w-60 p-1&quot;&gt;
 
@@ -516,7 +458,7 @@
                         &lt;th class=&quot;fw-bold py-1&quot;&gt;Reading Recommendation&lt;/th&gt;
                     &lt;/tr&gt;
                     &lt;/thead&gt;
-                    &lt;tbody class=&quot;fill-tbody&quot;&gt;
+                    &lt;tbody&gt;
                     &lt;tr&gt;
                         &lt;td&gt;
 
@@ -527,17 +469,7 @@
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;container-fluid pb-6&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-5&quot;&gt;
-            &lt;p class=&quot;mb-0&quot;&gt;Australian Council for Educational Research&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-7&quot;&gt;
-            &lt;img class=&quot;float-end&quot; width=&quot;130px&quot; src=&quot;https://akolinski.github.io/horizon-reports/assets/images/acer-logo-black.svg&quot; alt=&quot;ACER logo&quot; /&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
+    {% include cspa/footer.html %}
 &lt;/div&gt;</content><author><name></name></author><summary type="html">Username: Date: Name: Unique ID: Skill: Key Tag: ACSF level estimate: Scale score estimate: *ACSF = Australian Core Skills Framework Assessment Question Summary: No. Description. The candidate can: Area Result ACSF 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 * N/A: Not attempted Australian Council for Educational Research</summary></entry><entry><title type="html">Adult Resilience Scale Client Report</title><link href="https://akolinski.github.io/horizon-reports/reports/ars-client-report" rel="alternate" type="text/html" title="Adult Resilience Scale Client Report" /><published>2021-07-02T06:00:00+10:00</published><updated>2021-07-02T06:00:00+10:00</updated><id>https://akolinski.github.io/horizon-reports/reports/ars-client-report</id><content type="html" xml:base="https://akolinski.github.io/horizon-reports/reports/ars-client-report">&lt;!-- Landing page --&gt;
 &lt;div class=&quot;page report-wrapper&quot;&gt;
     &lt;div class=&quot;container-fluid bg-colourful-tree position-relative&quot;&gt;
