@@ -70,3 +70,6 @@
 <h4>FAQs</h4>
 <h5>How to reference images in scss with jekyll</h5>
 <code>background-image: url("#{$baseurl}/assets/images/filename.svg");</code>
+
+<h5>How to push to stash</h5>
+<code>git push stash gh-pages</code>
