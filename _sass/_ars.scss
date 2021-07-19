@@ -200,16 +200,17 @@
       .progress-bar-text {
         top: -45px;
         font-family: $font-family-roboto;
-        font-size: 0.8333rem;
+        font-size: 11px;
+        white-space: nowrap;
       }
 
       .progress-bar-lines {
-        top: -11px;
+        top: -14px;
         border: none;
         //width: 100%;
 
         &.simple {
-          top: -27px;
+          top: -30px;
         }
 
         .line {

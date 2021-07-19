@@ -4,21 +4,21 @@
         <div class="score-progress position-relative">
             {% if include.simple!='yes' %}<p class="position-relative zero-score">0</p>{% endif %}
             <div class="progress-bar-text position-relative d-flex w-95">
-                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very low</p></div>
-                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Low</p></div>
-                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Average</p></div>
-                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">High</p></div>
-                <div class="d-inline-flex flex-fill"><p class="w-100 text-center m-0 p-0">Very High</p></div>
+                <div class="d-inline-flex flex-fill" style="width: 48.333333333333%;"><p class="w-100 text-center m-0 p-0">Very low</p></div>
+                <div class="d-inline-flex flex-fill" style="width: 10%;"><p class="w-100 text-center m-0 p-0">Low</p></div>
+                <div class="d-inline-flex flex-fill" style="width: 21.666666666667%;"><p class="w-100 text-center m-0 p-0">Average</p></div>
+                <div class="d-inline-flex flex-fill" style="width: 10%;"><p class="w-100 text-center m-0 p-0">High</p></div>
+                <div class="d-inline-flex flex-fill" style="width: 10%;"><p class="w-100 text-center m-0 p-0">Very High</p></div>
             </div>
             <div class="progress position-relative w-95">
                 <div class="progress-bar" role="progressbar" style="width: {{ include.percentage }}%;" aria-valuenow="{{ include.display_score }}" aria-valuemin="0" aria-valuemax="{{ include.max_score }}"></div>
             </div>
             <div class="progress-bar-lines w-95 position-absolute fw-light mb-1 d-flex{% if include.simple=='yes' %} simple{% endif %}">
-                <div class="line d-inline-flex flex-fill"></div>
-                <div class="line d-inline-flex flex-fill"></div>
-                <div class="line d-inline-flex flex-fill"></div>
-                <div class="line d-inline-flex flex-fill"></div>
-                <div class="line d-inline-flex flex-fill"></div>
+                <div class="line d-inline-flex flex-fill" style="width: 48.333333333333%;"></div>
+                <div class="line d-inline-flex flex-fill" style="width: 10%;"></div>
+                <div class="line d-inline-flex flex-fill" style="width: 21.666666666667%;"></div>
+                <div class="line d-inline-flex flex-fill" style="width: 10%;"></div>
+                <div class="line d-inline-flex flex-fill" style="width: 10%;"></div>
             </div>
             {% if include.simple!='yes' %}<p class="position-relative end-score">{{ include.max_score }}</p>{% endif %}
             {% if include.simple!='yes' %}
